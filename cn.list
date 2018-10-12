@@ -1,13 +1,19 @@
 # China Apps
-USER-AGENT,MicroMessenger Client
+USER-AGENT,MApi*
+USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
-USER-AGENT,MApi* // Dianping
 # Ali
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,aliyun
-DOMAIN-KEYWORD,.tmall.
-# China
-DOMAIN-SUFFIX,CN
-DOMAIN-KEYWORD,baidu
+DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,youku.com
+# Misc
+DOMAIN-SUFFIX,biquge.com.tw
+DOMAIN-SUFFIX,ip.bjango.com // iStat Menu IP Test
+DOMAIN-SUFFIX,moke.com
