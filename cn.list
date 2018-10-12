@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,youku.com
+# Battle.net
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,battle.net
 # Misc
 DOMAIN-SUFFIX,biquge.com.tw
 DOMAIN-SUFFIX,ip.bjango.com // iStat Menu IP Test
