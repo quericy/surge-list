@@ -1,5 +1,5 @@
 # Courtesy of scomper
-# https://raw.githubusercontent.com/scomper/surge-list/master/reject.list
+# https://raw.githubusercontent.com/scomper/surge-list/master/adblock.list
 
 # AD Block KEYWORD
 DOMAIN-KEYWORD,admarvel
@@ -76,12 +76,14 @@ DOMAIN-SUFFIX,114la.com
 DOMAIN-SUFFIX,123.sogou.com
 DOMAIN-SUFFIX,1377.com
 DOMAIN-SUFFIX,1632j6.cn
+DOMAIN-SUFFIX,1mb034.cn
 DOMAIN-SUFFIX,1uandun.com
 DOMAIN-SUFFIX,37wan.cn
 DOMAIN-SUFFIX,51.la
 DOMAIN-SUFFIX,513hch.com
 DOMAIN-SUFFIX,519397.com
 DOMAIN-SUFFIX,51yes.com
+DOMAIN-SUFFIX,528b8.cn
 DOMAIN-SUFFIX,70e.com
 DOMAIN-SUFFIX,818mov.com
 DOMAIN-SUFFIX,86.cc
@@ -162,6 +164,7 @@ DOMAIN-SUFFIX,angsrvr.com
 DOMAIN-SUFFIX,anquan.org
 DOMAIN-SUFFIX,anysdk.com
 DOMAIN-SUFFIX,aoodoo.feng.com
+DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.branch.io
 DOMAIN-SUFFIX,api.similarweb.com
 DOMAIN-SUFFIX,api.talkingdata.com
@@ -233,6 +236,7 @@ DOMAIN-SUFFIX,e.nexac.com
 DOMAIN-SUFFIX,e701.net
 DOMAIN-SUFFIX,edigitalsurvey.com
 DOMAIN-SUFFIX,emarbox.com
+DOMAIN-SUFFIX,eso999.com
 DOMAIN-SUFFIX,exp.17wo.cn
 DOMAIN-SUFFIX,fancyapi.com
 DOMAIN-SUFFIX,farm.plista.com
@@ -249,6 +253,7 @@ DOMAIN-SUFFIX,flashtalking.com
 DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,fqtra.com
 DOMAIN-SUFFIX,fzxrjx.com
+DOMAIN-SUFFIX,g6rfh.cn
 DOMAIN-SUFFIX,gdsc168.com
 DOMAIN-SUFFIX,gg1028.com
 DOMAIN-SUFFIX,ggmmqq.com
@@ -304,7 +309,6 @@ DOMAIN-SUFFIX,kmd365.com
 DOMAIN-SUFFIX,krux.net
 DOMAIN-SUFFIX,linkeye.ximalaya.com
 DOMAIN-SUFFIX,lnk8z.com
-DOMAIN-SUFFIX,localytics.com
 DOMAIN-SUFFIX,location.ximalaya.com
 DOMAIN-SUFFIX,log.outbrain.com
 DOMAIN-SUFFIX,log.tu.baixing.com
@@ -430,6 +434,7 @@ DOMAIN-SUFFIX,tjlog.easou.com
 DOMAIN-SUFFIX,tjlog.ps.easou.com
 DOMAIN-SUFFIX,tongbu.com
 DOMAIN-SUFFIX,tracker.yhd.com
+DOMAIN-SUFFIX,track.xiachufang.com
 DOMAIN-SUFFIX,trafficmp.com
 DOMAIN-SUFFIX,ttqr58.cn
 DOMAIN-SUFFIX,twcczhu.com
@@ -491,6 +496,7 @@ DOMAIN-SUFFIX,yrxgny.com
 DOMAIN-SUFFIX,yrxmr.com
 DOMAIN-SUFFIX,ysjwj.com
 DOMAIN-SUFFIX,yunjiasu.com
+DOMAIN-SUFFIX,yunpifu.cn
 DOMAIN-SUFFIX,ywrjgzs.com
 DOMAIN-SUFFIX,zantainet.com
 DOMAIN-SUFFIX,zgjkv.com
@@ -501,4 +507,7 @@ DOMAIN-SUFFIX,zhuanfakong.com
 DOMAIN-SUFFIX,zhugeio.com
 DOMAIN-SUFFIX,zjuwjdc.com
 DOMAIN-SUFFIX,zlongad.com
+DOMAIN-SUFFIX,zszrb.com
 DOMAIN-SUFFIX,zzsx8.com
+DOMAIN-SUFFIX,vf5yb4.cn
+DOMAIN-SUFFIX,nal5h.cn
