@@ -25,7 +25,6 @@ DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,usage
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
-# Block makeding.com
 DOMAIN-SUFFIX,makeding.com
 DOMAIN-SUFFIX,4009997658.com
 DOMAIN-SUFFIX,abbyychina.com
@@ -67,7 +66,6 @@ DOMAIN-SUFFIX,zhzzx.com
 DOMAIN-SUFFIX,ysjweb.com
 DOMAIN-SUFFIX,sxmutan.com
 DOMAIN-SUFFIX,tymsyx.com
-#AD Block
 DOMAIN-SUFFIX,0z5jn.cn
 DOMAIN-SUFFIX,10up.com
 DOMAIN-SUFFIX,111cn.net
@@ -286,7 +284,6 @@ DOMAIN-SUFFIX,jdcbuy.com
 DOMAIN-SUFFIX,jisucn.com
 DOMAIN-SUFFIX,jmgehn.cn
 DOMAIN-SUFFIX,jpush.cn
-DOMAIN-SUFFIX,js-agent.newrelic.com
 DOMAIN-SUFFIX,jstdjq.com
 DOMAIN-SUFFIX,jusha.com
 DOMAIN-SUFFIX,jyjhkz.com
