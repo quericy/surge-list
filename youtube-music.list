@@ -1,4 +1,0 @@
-# Youtube Music is only avaliable to US citizens
-USER-AGENT,YouTubeMusic*
-USER-AGENT,com.google.ios.youtubemusic*
-DOMAIN-SUFFIX,music.youtube.com
