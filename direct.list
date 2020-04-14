@@ -23,6 +23,9 @@ PROCESS-NAME,Transmission
 PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
+PROCESS-NAME,*DownloadService*
+PROCESS-NAME,*Soda*
+PROCESS-NAME,*p4pclient*
 
 # > Private Tracker
 DOMAIN-SUFFIX,awesome-hd.me
