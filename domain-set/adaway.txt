@@ -9664,9 +9664,6 @@ sb.scorecardresearch.com
 udm.scorecardresearch.com
 scout.scoutanalytics.net
 e-adimages.scrippsnetworks.com
-block.scroll.com
-connect.scroll.com
-static.scroll.com
 api.sdkbox.com
 metrics.sdkbox.com
 update.sdkbox.com
