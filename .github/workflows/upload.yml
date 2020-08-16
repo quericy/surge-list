@@ -1,0 +1,32 @@
+name: Upload
+
+on:
+    push:
+        branches:
+            - master
+
+jobs:
+    upload:
+        runs-on: ubuntu-latest
+        name: Upload files to OSS
+        steps:
+        - name: Configure environment
+            id: config
+            run: |
+            VERSION=$(echo $GITHUB_REF | sed -e "s/^refs\/tags\/v//")
+            echo ::set-output name=version::$VERSION
+
+        - name: Fetch repository
+            uses: actions/checkout@master
+
+        - name: Upload files
+            id: ossutil
+            uses: go-choppy/ossutil-github-action@master
+            with:
+                ossArgs: ${{ secrets.OSS_ARGS }}
+                accessKey: ${{ secrets.ALIYUN_ACCESS_KEY }}
+                accessSecret: ${{ secrets.ALIYUN_ACCESS_SECRET }}
+                endpoint: ${{ secrets.OSS_ENDPOINT }}
+
+        - name: Output command
+            run: echo "${{steps.ossutil.outputs.command}}"
