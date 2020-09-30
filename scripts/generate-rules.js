@@ -8,6 +8,59 @@ const slugify = require('@sindresorhus/slugify')
 const distDir = join(__dirname, '../domain-set')
 const configurations = [
   {
+    name: 'Adaway',
+    homepage: 'https://adaway.org',
+    sources: [
+      {
+        source: 'https://adaway.org/hosts.txt',
+        type: 'hosts',
+      },
+    ],
+    transformations: [
+      'RemoveComments',
+      'RemoveModifiers',
+      'Compress',
+      'Validate',
+      'Deduplicate',
+    ],
+  },
+  {
+    name: 'neohosts',
+    homepage: 'https://github.com/neoFelhz/neohosts',
+    sources: [
+      {
+        source:
+          'https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts',
+        type: 'hosts',
+      },
+    ],
+    transformations: [
+      'RemoveComments',
+      'RemoveModifiers',
+      'Compress',
+      'Validate',
+      'Deduplicate',
+    ],
+  },
+  {
+    name: 'neohosts-full',
+    homepage: 'https://github.com/neoFelhz/neohosts',
+    sources: [
+      {
+        source:
+          'https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts',
+        type: 'hosts',
+      },
+    ],
+    transformations: [
+      'RemoveComments',
+      'RemoveModifiers',
+      'Compress',
+      'Validate',
+      'Deduplicate',
+    ],
+  },
+  {
     name: 'Tracking Protection filter',
     sources: [
       {
