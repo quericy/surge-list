@@ -1,3 +1,4 @@
+.tyjryuk.cn
 .v.rssnzw.cn
 .c.cqpsf.cn
 .c.jsbgh.cn
@@ -128,6 +129,8 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.yisd.press
+.njcyfpv.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -468,6 +471,7 @@
 .a7shun.com
 .a907907.com
 .a9377j.com
+.aasyy.com
 .aazcio.cn
 .abie14.top
 .acasys88.cn
@@ -675,6 +679,7 @@
 .cangnews.com
 .caodaye.com
 .caolvch.com
+.caomindianying.com
 .cardniu.com
 .caredaily.me
 .carnol.cn
@@ -1764,6 +1769,7 @@
 .rdance.cn
 .rdiqt.cn
 .re.taotaosou.com
+.rebdy.com
 .rekanw.com
 .reliancevalve.com
 .remotedu.cn
@@ -1833,6 +1839,7 @@
 .shkywh.com
 .sho9wbox.com
 .shoujigushi.net
+.shoukuoedu.com
 .shouwangba.cn
 .shouyouyou.com
 .show.kc.taotaosou.com
@@ -1898,6 +1905,7 @@
 .stocksbsc.com
 .storeapi.net
 .stsywl.com
+.suangtianw.com
 .subo.me
 .sufficient.cn
 .sums.suning.com
@@ -1961,6 +1969,7 @@
 .techantuijian.com
 .techsolutions.com.tw
 .tellvi.cn
+.tencent.xn--io0a7i
 .tenmax.io
 .tequanma.com
 .tesfw.com
@@ -2090,6 +2099,7 @@
 .vmjjzk.cn
 .vnnv777.cn
 .vns3359.com
+.voocl.com
 .vpie.net
 .vs944.cn
 .vsnoon.com
@@ -2125,6 +2135,7 @@
 .weddingeeos.com
 .weihuiyungou.com
 .weiqiqu.cn
+.weizhenwx.com
 .weizjzg.com
 .wemdsm.com
 .werpig.com
@@ -2259,6 +2270,7 @@
 .xn--2qu92fhtx4ff.site
 .xn--2qu92fhtx4ff.top
 .xn--2qu96gouvko1a.com
+.xn--2qux23c9ziyrq.video
 .xn--2quz8f01ak10c.shop
 .xn--2ssq0ktxigkq.com
 .xn--4gqqc629gbju.com
@@ -2500,6 +2512,7 @@
 .zpwansf.cn
 .zpxw.vip
 .zqsbnfh.top
+.zqscript.com
 .zqworks.com
 .zry8181.com
 .zsdexun.com.cn
@@ -2530,6 +2543,7 @@
 .1024mzs.pw
 .133gp.com
 .7wkw.com
+.88p2p.com
 .9453hot.com
 .95p2.com
 .99nfft.com
@@ -2945,6 +2959,7 @@
 .a.bake818.cn
 .a.duanmeiwen.com
 .a.duduji.com
+.a.dxzy163.com
 .a.dyjqd.com
 .a.epinv.com
 .a.exam58.com
@@ -3184,6 +3199,7 @@
 .emjs.mkzhan.com
 .enennsa.gushiwen.cn
 .ent1.12584.cn
+.ent1.qunchua.cn
 .ent1.qunchua.com
 .f1.06ps.com
 .f1.ichong123.com
@@ -3410,6 +3426,7 @@
 .sdd.hi1718.com
 .sh996.dftoutiao.com
 .shili.downxia.com
+.shiyaokejishanghai.com
 .shzzzz.dftoutiao.com
 .sjbaiduadv1.redou.com
 .snzfj.net
@@ -3441,6 +3458,7 @@
 .undm.qibulo.com
 .union*.365inews.com
 .usejj.wangkl.com
+.uu1.3gu.com
 .uuu.pctowap.com
 .v1.kwpewga.cn
 .v1.phb123.com
@@ -3470,6 +3488,7 @@
 .wshufa.com
 .wuliao.chzsport.cn
 .wuliao.juqingba.cn
+.www1.wxnmh.com
 .wyzq.rehuwang.com
 .x1.52aoteman.com
 .x1.kantu.com
@@ -3612,7 +3631,7 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.bahu.xyz
+.xingpingmaoyi.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -3704,6 +3723,7 @@
 .4ekx.cn
 .4excel.cn
 .4ggame8.com
+.4kfv18.cn
 .4s5n.cn
 .4z5o27.cn
 .517kp.com
@@ -3733,6 +3753,7 @@
 .605296.com
 .606w.cn
 .609623.com
+.62wm.com
 .64ri.cn
 .64si.com
 .66992.top
@@ -3879,6 +3900,7 @@
 .babalink.net
 .babalink.top
 .baful.net
+.bahu.xyz
 .baidu.bxwx666.org
 .baiduspider1.cn
 .baitaoidc.com
@@ -3916,6 +3938,7 @@
 .bigcooc.xyz
 .bigcood.xyz
 .bigcook.xyz
+.bigcoon.xyz
 .biluzhang.cn
 .bingdiantao.com
 .bishufang.cn
@@ -4092,6 +4115,7 @@
 .dapskja.cn
 .dasheducation.cn
 .daskm.com
+.datazhan.com
 .dawanjiahn.com
 .daxijia.cn
 .dbaij.com
@@ -4160,6 +4184,7 @@
 .edysn.cn
 .eeer.ren
 .egesckx.cn
+.egozne.cn
 .ei4f.cn
 .ejee.xyz
 .ejeenews.com
@@ -4498,6 +4523,7 @@
 .jhbrc.xyz
 .jhgff23az.biqugetv.com
 .jia-huan.cn
+.jiangboshidai.com
 .jiangchunli.cn
 .jianzhanxx.me
 .jiaofulin.cn
@@ -4543,6 +4569,7 @@
 .jqhevyf.cn
 .jqpvv.cn
 .jskang.cn
+.jsku.cc
 .jssumei.cn
 .jsszxx.com
 .jstdjq.com
@@ -4554,6 +4581,7 @@
 .jundazulin.com
 .just9229.cn
 .justincao84.cn
+.juxilm.com
 .juyzr.com
 .jvyigg.biquge.lu
 .jvyigg.biqumo.com
@@ -4606,6 +4634,7 @@
 .ksylsh.cn
 .ktzte.cn
 .kuaidibiaoju.com
+.kuaidibox.cn
 .kuaipaobiaoju.com
 .kunloveyu.cn
 .kvinoo.com
@@ -4724,6 +4753,7 @@
 .mmhhjt.com
 .mmkvi.com
 .mmpuh.cn
+.mmszxc.top
 .mmwdwg.cn
 .mnptinibfbv.com
 .monimoni.top
@@ -4746,6 +4776,7 @@
 .mwjpk.com
 .mx.biquge.info
 .mxtailor.com
+.myams.cn
 .mysty.com.cn
 .mytehui.cn
 .myuf6.xyz
@@ -5198,6 +5229,7 @@
 .uo12.com
 .uqpfh.cn
 .urlet.cn
+.ut0ej.cn
 .uuboos.com
 .uunewcar.com
 .uuopp.com
@@ -5243,6 +5275,7 @@
 .wbdcrmn.cn
 .wbies.com
 .wbiev.com
+.wbrong.cn
 .wcail.com
 .wcjup.com
 .wdeie.com
@@ -5354,6 +5387,7 @@
 .xn--2qu92fhtx4ff.video
 .xn--2qux23c9ziyrq.icu
 .xn--2qux23c9ziyrq.ink
+.xn--2qux23c9ziyrq.plus
 .xn--2qux23confgml.club
 .xn--2ssq0ktxigkq.cc
 .xn--4gqvdz18f.xyz

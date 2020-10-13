@@ -134,7 +134,8 @@
 .karuna4u.com
 .pushofferpro.com
 .leechiza.net
-.pushtora.com
+.cdn.onepush.app
+.dryum.ru
 .spattepush.com
 .volanosier.com
 .webpushr.com
@@ -461,6 +462,7 @@
 .widgets.opinary.com
 .app.mycountrytalks.org
 .insticator.com
+.widget.feedot-lawyer.ru
 .web.tolstoycomments.com
 .corover.mobi
 .wat.atms.at

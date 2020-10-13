@@ -4,7 +4,19 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.events.mapbox.com
+.log2.spotify.com
+.log.particlenews.com
+.analytics.a-f.io
+.analytics-api.a-f.io
+.smetrics.att.com
+.global.px.quantserve.com
+.client-analytics.braintreegateway.com
+.log.propermessage.io
+.hit.acstat.com
 .fhits.xyz
+.intelligenceretarget.com
+.stpmgo.com
 .pdc.dmleonyc.com
 .letscheckmygeos.com
 .gheochecke.com
@@ -18,7 +30,6 @@
 .clickcease.com
 .logs.datadoghq.eu
 .logs.datadoghq.com
-.suggestions.dadata.ru
 .zprk.io
 .getstat.net
 .untidyrice.com
@@ -4168,6 +4179,8 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.rcm.shinobi.jp
+.app-analytics.snapchat.com
 .d2p3zdq8vjvnxd.cloudfront.net
 .logger.applovefrom.com
 .gstat.orange.fr
@@ -5729,6 +5742,7 @@
 .analytics-sprint.qoqa.com
 .analytics.qoqa.ch
 .analytics.qoqa.com
+.inapps.appsflyer.com
 .gcdsdk.appsflyer.com
 .statsgoogle.appsflyer.com
 .impression.appsflyer.com
@@ -5740,6 +5754,7 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.sdk-log-inter.youdao.com
 .sensors.snappea.com
 .analytics.snappea.com
 .analytics.snaptube.app
