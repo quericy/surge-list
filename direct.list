@@ -15,6 +15,7 @@ PROCESS-NAME,ss-local
 PROCESS-NAME,ssr-local
 PROCESS-NAME,*Clash*
 PROCESS-NAME,*clash*
+PROCESS-NAME,Qv2ray
 
 # > Xunlei
 USER-AGENT,%E8%BF%85%E9%9B%B7
