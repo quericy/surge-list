@@ -10,12 +10,11 @@ DOMAIN,ip.istatmenus.app
 DOMAIN-SUFFIX,test-ipv6.com
 
 # > Proxy plugin
-PROCESS-NAME,v2ray
+PROCESS-NAME,*v2ray*
 PROCESS-NAME,ss-local
 PROCESS-NAME,ssr-local
 PROCESS-NAME,*Clash*
 PROCESS-NAME,*clash*
-PROCESS-NAME,Qv2ray
 
 # > Xunlei
 USER-AGENT,%E8%BF%85%E9%9B%B7
