@@ -34,6 +34,8 @@
 .puffypull.com
 .copperchickens.com
 .ttauri.toptenreviews.com
+.cookiepro.com
+.choices.consentframework.com
 .consent-notice.magix.com
 .cmp.md-nx.com
 .appconsent.io
@@ -134,6 +136,7 @@
 .karuna4u.com
 .pushofferpro.com
 .leechiza.net
+.push.asahiinteractive.com
 .cdn.onepush.app
 .dryum.ru
 .spattepush.com
@@ -338,6 +341,10 @@
 .cdn.webpush.jp
 .gogool.ru
 .cdn.subscribers.com
+.push.akket.com
+.wwopenclick.vip
+.maylohack.ru
+.bildirimci.net
 .pp.teksty-pesenok.ru
 .gu7socdn.txxx.com
 .cdn.pushowl.com
@@ -351,6 +358,7 @@
 .plista.com
 .booster.webtradecenter.com
 .widgets.digitalmediacommunications.com
+.epleads.ru
 .digital-interview.com
 .chat.sociomile.com
 .kommunicate.io
