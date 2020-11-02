@@ -129,8 +129,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.ntzfly.cn
-.zaitouwang.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -1638,6 +1636,7 @@
 .nszmz.com
 .nterbx.com
 .ntxiangtai.com
+.ntzfly.cn
 .nunc-china.com
 .nuonuo1.icu
 .nuxyz.cn
@@ -2479,6 +2478,7 @@
 .yzyrsw.com
 .yzytb.com
 .z2blog.com
+.zaitouwang.com
 .zampda.net
 .zampdsp.com
 .zantainet.com
