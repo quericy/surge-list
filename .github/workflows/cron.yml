@@ -45,3 +45,11 @@ jobs:
           message: 'auto update'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Emit repository_dispatch
+        uses: mvasigh/dispatch-action@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repo: surge-list
+          owner: geekdada
+          event_type: upload
