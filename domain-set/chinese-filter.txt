@@ -741,6 +741,7 @@
 .ckseeknew.com
 .claz.com.cn
 .clcassd.com
+.climbcoder.com
 .cloudad.asia
 .cmaxisolation.com
 .cmslayue.com
@@ -2213,6 +2214,7 @@
 .wwlolbs.com
 .www-sina-cn-com.com
 .wxbdfm.com
+.wxiansen.cn
 .wxs666.cn
 .wxstatic.cn
 .wxxfqc.com
@@ -2692,8 +2694,6 @@
 .chidir.com
 .client.88tours.com
 .cmm.xmfish.com
-.cms.fx678.com
-.cms.fx678img.com
 .cp2.eastmoney.com
 .cpm.cm.kankan.com
 .d-test.39.net
@@ -2708,6 +2708,7 @@
 .delivery.playallvideos.com
 .delivery.wasu.cn
 .djs.baomihua.com
+.dms.fx678.com
 .doubleclick.ctfile.com
 .dsp.ali213.net
 .dup.baidustatic.com
@@ -3771,6 +3772,7 @@
 .4z5o27.cn
 .517kp.com
 .519397.com
+.51dianji.cn
 .51fishplace.com
 .51gpt.com
 .51posj.cn
@@ -4556,6 +4558,7 @@
 .intxt.cn
 .iohtmrp.cn
 .ipchinatelecom.com
+.ipdxwtn.cn
 .irauz.com
 .irkuj.com
 .iruad.com
@@ -4834,6 +4837,7 @@
 .mmwdwg.cn
 .mnptinibfbv.com
 .monimoni.top
+.moolkv.cn
 .morningpiggy.com
 .moshangflower.cn
 .mouaa.com
@@ -5276,6 +5280,7 @@
 .tongjiwo.com
 .toujing4.top
 .toujing5.top
+.toujing8.top
 .tozvhcq.cn
 .travel-together.cn
 .trhccn.cn
