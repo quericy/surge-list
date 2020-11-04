@@ -1944,7 +1944,6 @@
 .analytics.edgekey.net
 .applovinres.edgekey.net
 .cdn-inner-active.edgekey.net
-.intel11.edgekey.net
 .moatpixel1.edgekey.net
 .mobi.edgekey.net
 .pubmatic.edgekey.net
