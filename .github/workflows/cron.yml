@@ -14,7 +14,8 @@ jobs:
         node-version: [12]
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Fetch repository
+        uses: actions/checkout@v2
 
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
@@ -46,10 +47,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Emit repository_dispatch
-        uses: mvasigh/dispatch-action@main
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          repo: surge-list
-          owner: geekdada
-          event_type: upload
+      - name: Trigger upload workflow
+        run: |
+          curl \
+          -X POST \
+          --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
+          --header "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/geekdada/surge-list/dispatches \
+          -d '{"event_type":"upload"}'

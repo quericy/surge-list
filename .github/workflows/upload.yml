@@ -20,7 +20,7 @@ jobs:
           echo ::set-output name=version::$VERSION
 
       - name: Fetch repository
-        uses: actions/checkout@master
+        uses: actions/checkout@v2
 
       - name: Upload files
         id: ossutil
