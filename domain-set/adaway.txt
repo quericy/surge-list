@@ -2508,12 +2508,6 @@
 .game.idoing3d.com
 .server.idreams.pl
 .d.ifengimg.com
-.br.ifunny.co
-.events.ifunny.co
-.geoip.ifunny.co
-.imageproxy.ifunny.co
-.img.ifunny.co
-.logs.ifunny.co
 .igaworks.com
 .dedao.igetget.com
 .entree.igetget.com
@@ -3742,7 +3736,6 @@
 .img.netwrix.com
 .lp.netwrix.com
 .wpm.neustar.biz
-.api.newrelic.com
 .collector-001.newrelic.com
 .collector-002.newrelic.com
 .collector-003.newrelic.com
@@ -3756,7 +3749,6 @@
 .collector.newrelic.com
 .insights-collector.newrelic.com
 .js-agent.newrelic.com
-.login.newrelic.com
 .metric-api.newrelic.com
 .mobile-collector.newrelic.com
 .mobile-crash-origin.newrelic.com
@@ -4999,8 +4991,6 @@
 .analytics-eu.tactilews.com
 .analytics-staging.tactilews.com
 .analytics.tactilews.com
-.cdn.tagcommander.com
-.serverside4285.tagcommander.com
 .s.tagsrvcs.com
 .static.tagsrvcs.com
 .tracker.tagsrvcs.com

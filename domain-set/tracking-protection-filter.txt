@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.tracking.venturify.at
 .ad4m.at
 .mycheckergeo.com
 .beam.koddi.com
