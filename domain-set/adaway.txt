@@ -2085,8 +2085,6 @@
 .ads3.eqads.com
 .um2.eqads.com
 .um3.eqads.com
-.api.espn.com
-.log.espn.com
 .as00.estara.com
 .etahub.com
 .col.eum-appdynamics.com

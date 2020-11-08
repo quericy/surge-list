@@ -129,10 +129,8 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.72zh.cn
-.forever-k.com.cn
-.fuzausb.top
-.meituan.yoga
+.kyqcfj.com
+.kuxinqi.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -371,6 +369,7 @@
 .710070.com
 .711kk.com
 .71sem.com
+.72zh.cn
 .7540.com
 .766ba.net
 .7676.com
@@ -978,6 +977,7 @@
 .fnkjj.com
 .focusprolight.com
 .food5.net
+.forever-k.com.cn
 .foreveryoung.gz01.bdysite.com
 .forrerri.com
 .fos123.com
@@ -990,6 +990,7 @@
 .fujianryt.com
 .fuxunb.com
 .fuycai.com
+.fuzausb.top
 .fv99.com
 .fwqekk.top
 .fwt0.com
@@ -1538,6 +1539,7 @@
 .meimeidaren.com
 .meiti1.net
 .meituan.xn--io0a7i
+.meituan.yoga
 .mengbingyuan.com
 .mengbli.com
 .mengheyu.com
@@ -2895,7 +2897,7 @@
 .ztyumn.ifeng.com
 .immedlinkum.info
 .xayah.date
-.anews7.nvwu.com
+.a.typin.cn
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3080,6 +3082,7 @@
 .aili.com
 .aiwen.cc
 .al.newxue.com
+.anews7.nvwu.com
 .api.557400.com
 .as1.m.hao123.com
 .as1.wenku.baidu.com
@@ -3686,13 +3689,10 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.pu0glv.cn
-.4nzrqw.cn
-.xjhjtz.cn
-.yaoquanshumeiyu.com
-.dkjdnq.cn
-.7kkqq.com
-.huodiyun.cn
+.orvibum.cn
+.xcmxsw.com
+.fangzhixinxi.cn
+.yushengyuancaishui.com
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -3787,6 +3787,7 @@
 .4excel.cn
 .4ggame8.com
 .4kfv18.cn
+.4nzrqw.cn
 .4s5n.cn
 .4z5o27.cn
 .517kp.com
@@ -3842,6 +3843,7 @@
 .7ez4.cn
 .7ia9h.cn
 .7j7jv5.cn
+.7kkqq.com
 .7m0hj.cn
 .7m307.cn
 .7n3e8o.com
@@ -4228,6 +4230,7 @@
 .dierqingchun.com
 .dirbfm.cn
 .djhhy.com
+.dkjdnq.cn
 .dkmnn.top
 .dldsrs.com
 .dlsdkw.cn
@@ -4543,6 +4546,7 @@
 .huigoushop.com
 .huixingcheng.cn
 .hunpp.com
+.huodiyun.cn
 .huoyiad1.cn
 .hwertd.xyz
 .hxiak.com
@@ -5033,6 +5037,7 @@
 .psgch.xyz
 .ptgezc.com
 .ptummn.cn
+.pu0glv.cn
 .pwjhg.com
 .pwjmzqx.cn
 .px69z.cn
@@ -5505,6 +5510,7 @@
 .xinuocp666.com
 .xionghaobm.cn
 .xixizaix.cn
+.xjhjtz.cn
 .xjtxcj.com
 .xk0x.cn
 .xkanf.com
@@ -5566,6 +5572,7 @@
 .yanjunbo.com
 .yantairuide.com
 .yaodianzhineng.cn
+.yaoquanshumeiyu.com
 .yauwsd.cn
 .ybaiu.com
 .ybanj.com
