@@ -129,8 +129,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.kyqcfj.com
-.kuxinqi.com
+.xianguangergaozhi.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -1425,9 +1424,11 @@
 .kuaizuoffice.com
 .kuqi.com
 .kuwoyy.com
+.kuxinqi.com
 .kwntistyuogo.com
 .kxrxh.com
 .kyouad.com
+.kyqcfj.com
 .l0l.top
 .ladsblue.com
 .laifu365.com
@@ -2897,7 +2898,6 @@
 .ztyumn.ifeng.com
 .immedlinkum.info
 .xayah.date
-.a.typin.cn
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3033,6 +3033,7 @@
 .a.tiyuxiu.com
 .a.tuizhuti.com
 .a.tvsou.com
+.a.typin.cn
 .a.wanzhuang.com
 .a.wifi33.com
 .a.xixiyishu.com
@@ -3689,10 +3690,9 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.orvibum.cn
-.xcmxsw.com
-.fangzhixinxi.cn
-.yushengyuancaishui.com
+.ixshklh.cn
+.027whht.com
+.nazhenkj.com
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4295,6 +4295,7 @@
 .fangjslc.com
 .fanglinwang.cn
 .fangzhanla.cn
+.fangzhixinxi.cn
 .fanzhuang.net.cn
 .fbaot.com
 .fbguxd.cn
@@ -4981,6 +4982,7 @@
 .opengam.com
 .opyyy.com
 .orlandomp.com
+.orvibum.cn
 .osaws.com
 .osidf.xyz
 .osndy.com
@@ -5484,6 +5486,7 @@
 .xb29h.cn
 .xbzpppr.cn
 .xcdzsw.com
+.xcmxsw.com
 .xdkje.com
 .xdrzdh.cn
 .xdyszx.com
@@ -5651,6 +5654,7 @@
 .yun-pdm5000.cn
 .yunanfuwuqi.com
 .yunl1.com
+.yushengyuancaishui.com
 .yuxiny.com
 .ywbwsm.com
 .ywqum.cn
