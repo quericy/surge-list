@@ -2390,7 +2390,6 @@
 .sync.hariken.co
 .hasmobi.net
 .hbi-ingest.net
-.glimmer.hearstapps.com
 .adv.herocraft.com
 .gamestats.herocraft.com
 .collection-endpoint-prod.herokuapp.com
@@ -2824,11 +2823,6 @@
 .g.jwpsrv.com
 .kaffnet.com
 .analytics.kaltura.com
-.cdnsecakmi.kaltura.com
-.origin.kaltura.com
-.ott.kaltura.com
-.stats.kaltura.com
-.pa-stats.origin-cogent.kaltura.com
 .customers.kameleoon.com
 .eldamar01-loadbalanced.kameleoon.com
 .eldamar02-loadbalanced.kameleoon.com
