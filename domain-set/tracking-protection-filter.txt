@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.getcode.cotsta.ru
 .bewilderedbattle.com
 .log-marketing.jp
 .tatsumi-sys.jp

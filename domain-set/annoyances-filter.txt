@@ -362,6 +362,7 @@
 .plista.com
 .booster.webtradecenter.com
 .widgets.digitalmediacommunications.com
+.widget.lawyer-feedot.ru
 .epleads.ru
 .digital-interview.com
 .chat.sociomile.com
