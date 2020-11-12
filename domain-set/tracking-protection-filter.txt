@@ -3,6 +3,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.track-mixer.ru
+.dmpprof.com
+.pwrlkyotm.com
+.g.wait.re
 .getcode.cotsta.ru
 .bewilderedbattle.com
 .log-marketing.jp
@@ -4219,6 +4223,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.ish.tumedia.no
 .ymprove.web.de
 .wa.web.de
 .stat.alloha.tv
@@ -4305,7 +4310,6 @@
 .stats.popupmaker.com
 .hstats.hepsiburada.com
 .tracker.unbxdapi.com
-.d21gpk1vhmjuf5.cloudfront.net
 .spkrth.scw.systems
 .rrss.abc.es
 .analytics.htmedia.in
@@ -6143,7 +6147,6 @@
 .trk.pinterest.com
 .tu.dxcnd.cn
 .tunein.adswizz.com
-.ulink.adjust.com
 .upalytics.com
 .ups.ksmobile.net
 .ws.ksmobile.net
