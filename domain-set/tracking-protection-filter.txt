@@ -3,6 +3,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.tag.wknd.ai
+.ext-inv-cdn.presage.io
 .track-mixer.ru
 .dmpprof.com
 .pwrlkyotm.com
@@ -4223,6 +4225,8 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.smetrics.samsung.com
+.target-us.samsung.com
 .ish.tumedia.no
 .ymprove.web.de
 .wa.web.de
