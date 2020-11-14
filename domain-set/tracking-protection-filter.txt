@@ -3,6 +3,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.api.rubic.com.tr
+.datadoghq-browser-agent.com
 .tag.wknd.ai
 .ext-inv-cdn.presage.io
 .track-mixer.ru
@@ -4225,6 +4227,8 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.uid.mavencoalition.io
+.hummingbird.mavencoalition.io
 .smetrics.samsung.com
 .target-us.samsung.com
 .ish.tumedia.no
