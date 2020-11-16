@@ -21,7 +21,6 @@ USER-AGENT,fmflocatord*,DIRECT
 USER-AGENT,geod*,{{ location_rule }}
 USER-AGENT,locationd*,{{ location_rule }}
 USER-AGENT,Maps*,{{ location_rule }}
-DOMAIN,ocsp.apple.com,DIRECT
 
 #
 # 一些 com.apple.appstored* 会连接的 API（优先级高）
@@ -87,6 +86,9 @@ DOMAIN,docs-assets.developer.apple.com,{{ default_rule }}
 # Other
 DOMAIN-SUFFIX,apple-dns.net,{{ default_rule }}
 DOMAIN-SUFFIX,gc.apple.com,{{ default_rule }}
+# OCSP
+DOMAIN-SUFFIX,ocsp.apple.com,{{ default_rule }}
+USER-AGENT,com.apple.trustd*,{{ default_rule }}
 
 #
 # Apple News
