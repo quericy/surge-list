@@ -46,12 +46,3 @@ jobs:
           message: 'auto update'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Trigger upload workflow
-        run: |
-          curl \
-          -X POST \
-          --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
-          --header "Accept: application/vnd.github.v3+json" \
-          https://api.github.com/repos/geekdada/surge-list/dispatches \
-          -d '{"event_type":"upload"}'

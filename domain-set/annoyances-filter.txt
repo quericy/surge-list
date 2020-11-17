@@ -483,7 +483,6 @@
 .app.mycountrytalks.org
 .insticator.com
 .widget.feedot-lawyer.ru
-.web.tolstoycomments.com
 .corover.mobi
 .wat.atms.at
 .purechat.com

@@ -129,7 +129,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.z5of63.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -2506,6 +2505,7 @@
 .yzyrsw.com
 .yzytb.com
 .z2blog.com
+.z5of63.cn
 .zaitouwang.com
 .zampda.net
 .zampdsp.com
@@ -3703,7 +3703,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.bd2fbnfg.com
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4009,6 +4008,7 @@
 .bbvdd.com
 .bchur.com
 .bcunr.com
+.bd2fbnfg.com
 .bdcapweb.xyz
 .bdcouc.xyz
 .bdiae.com

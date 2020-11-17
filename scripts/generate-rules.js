@@ -135,6 +135,21 @@ const configurations = [
       'Deduplicate',
     ],
   },
+  {
+    name: 'DNS filter',
+    sources: [
+      {
+        source:
+          'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt',
+      },
+    ],
+    transformations: [
+      'RemoveComments',
+      'RemoveModifiers',
+      'Validate',
+      'Deduplicate',
+    ],
+  },
 ]
 
 function formatRule(rule) {
