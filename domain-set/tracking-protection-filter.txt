@@ -3182,6 +3182,7 @@
 .zqtk.net
 .zroitracker.com
 .functionalclam.com
+.producecopy.com
 .blushingbeast.com
 .storesurprise.com
 .detectdiscovery.com
@@ -5358,7 +5359,6 @@
 .track.mopo.de
 .track.noz.de
 .pixel.1und1.de
-.mybbc-analytics.files.bbci.co.uk
 .reveal.clearbit.com
 .pixel.quantserve.com
 .affiliates.cdkeys.com

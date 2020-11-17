@@ -742,7 +742,6 @@
 .adzmedia.com
 .adzmobi.com
 .adztec.com
-.adzuna.co.uk
 .ads.aerserv.com
 .alpha-events.aerserv.com
 .az-events.aerserv.com
@@ -2597,8 +2596,6 @@
 .events.influencemobile.com
 .messaging.influencemobile.com
 .targeting.influencemobile.com
-.e.infogram.com
-.s.infogram.com
 .images.informatm.com
 .studcat.infra.systems
 .adapi.inlcorp.com
