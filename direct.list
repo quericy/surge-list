@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,trusteer.com
 DOMAIN,eastwestbank.sc.omtrdc.net
 DOMAIN,velo.helpshift.com
 
+# > HSBC
+DOMAIN-SUFFIX,hsbc.com.hk
+
 # > Other
 DOMAIN,ip.bjango.com
 DOMAIN,ip.istatmenus.app

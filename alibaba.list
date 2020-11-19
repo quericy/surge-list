@@ -1,10 +1,11 @@
 # Alibaba
 DOMAIN-KEYWORD,alibaba-inc
-DOMAIN-SUFFIX,alibaba.net
 DOMAIN-KEYWORD,alipay-inc
-DOMAIN-SUFFIX,alipay.net
+DOMAIN-KEYWORD,ucweb
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,9game
-DOMAIN-KEYWORD,ucweb
+DOMAIN-SUFFIX,alibaba.net
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alipay.net
+DOMAIN-SUFFIX,mayibank.net
 DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,alibabacloud.com
