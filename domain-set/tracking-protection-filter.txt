@@ -3182,6 +3182,8 @@
 .zqtk.net
 .zroitracker.com
 .functionalclam.com
+.placidperson.com
+.regularplants.com
 .producecopy.com
 .blushingbeast.com
 .storesurprise.com
@@ -5484,6 +5486,8 @@
 .mtrcs.samba.tv
 .stat*.1internet.tv
 .stats.persgroep.be
+.l.m.naver.com
+.tivan.naver.com
 .stats.persgroep.nl
 .d2qmp7jjpd79k7.cloudfront.net
 .sat.sanoma.fi
@@ -5743,6 +5747,7 @@
 .log2.musical.ly
 .frontier.musical.ly
 .xlog-va.musical.ly
+.mybbc-analytics.files.bbci.co.uk
 .stats.viqeo.tv
 .beam.remp.nv.ua
 .pjstat.com
