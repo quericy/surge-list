@@ -76,6 +76,8 @@
 .cmp.uniconsent.com
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
+.privacy.selbst.de
+.baseendpoint.stern.de
 .thestrad-gb.thestrad.com
 .cmp.macworld.co.uk
 .consent.prismamedia.com

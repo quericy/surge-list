@@ -5477,7 +5477,6 @@
 .sdk.vl1.mobi
 .vm5apis.com
 .vmweb.net
-.a.vnecdn.net
 .imgraovat.vnecdn.net
 .vnet.cn
 .vntsm.com

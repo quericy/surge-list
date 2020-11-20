@@ -3,6 +3,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.privatelands.biz
+.click.vgnett.no
 .api.rubic.com.tr
 .datadoghq-browser-agent.com
 .tag.wknd.ai
@@ -4220,6 +4222,7 @@
 .commandersact.com
 .wizaly.com
 .affex.org
+.mkto-*.com
 .ct.pinterest.com
 .ben.crxmouse.com
 .api2.poperblocker.com
