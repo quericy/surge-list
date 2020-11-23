@@ -38,6 +38,7 @@
 .puffypull.com
 .copperchickens.com
 .ttauri.toptenreviews.com
+.cookihq.com
 .cookiepro.com
 .choices.consentframework.com
 .consent-notice.magix.com
@@ -142,6 +143,7 @@
 .karuna4u.com
 .pushofferpro.com
 .leechiza.net
+.push.webandname.com
 .aswpsdkeu.com
 .abcnewspro.com
 .achilles-ena.com
@@ -222,6 +224,7 @@
 .xyznews1.today
 .xyznews2.today
 .xyznews3.today
+.xyznews4.today
 .you-just-won-prize.com
 .m-th.ru
 .pathlinex.com
@@ -454,6 +457,7 @@
 .plista.com
 .booster.webtradecenter.com
 .widgets.digitalmediacommunications.com
+.apps.azhelp.ru
 .widget.lawyer-feedot.ru
 .epleads.ru
 .digital-interview.com
