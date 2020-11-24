@@ -571,6 +571,7 @@
 .widgets.opinary.com
 .app.mycountrytalks.org
 .insticator.com
+.cdn.qform24.com
 .widget.feedot-lawyer.ru
 .corover.mobi
 .wat.atms.at

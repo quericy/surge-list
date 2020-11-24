@@ -3,6 +3,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.www.clarity.ms
+.los.2hisnd.com
+.wh.giftd.tech
 .privatelands.biz
 .click.vgnett.no
 .api.rubic.com.tr
@@ -3184,6 +3187,7 @@
 .zqtk.net
 .zroitracker.com
 .functionalclam.com
+.satisfycork.com
 .placidperson.com
 .regularplants.com
 .producecopy.com
@@ -5844,6 +5848,7 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.v-collector.dp.aws.charter.com
 .smetrics.cnn.com
 .metrics.claspws.tv
 .geolocation.onetrust.com
