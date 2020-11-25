@@ -3,6 +3,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.mon-va.byteoversea.com
+.stat.wioau.com
 .www.clarity.ms
 .los.2hisnd.com
 .wh.giftd.tech
@@ -185,7 +187,6 @@
 .ws.audioeye.com
 .a.wishabi.com
 .analytics.jst.ai
-.analytics.tiktok.com
 .freshmarketer.com
 .linksynergy.com
 .pepperjam.com
@@ -4176,6 +4177,13 @@
 .wirecomic.com
 .xovq5nemr.com
 .zbwp6ghm.com
+.xlog.tiktokv.com
+.xlog-va.tiktokv.com
+.log*-*.tiktokv.com
+.xlog*-*.tiktokv.com
+.mcs-va.tiktokv.com
+.mcs-va-*.tiktokv.com
+.analytics.tiktok.com
 .beacon-fullpage-predictor.goguardian.com
 .countvoncount.goguardian.com
 .ext.goguardian.com
