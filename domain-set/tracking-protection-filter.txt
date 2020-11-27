@@ -4245,6 +4245,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.p.imgur.com
 .uid.mavencoalition.io
 .hummingbird.mavencoalition.io
 .smetrics.samsung.com

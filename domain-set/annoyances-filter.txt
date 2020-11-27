@@ -6,6 +6,7 @@
 .alertme.news
 .ipepostman.com
 .wb.whatsbroadcast.com
+.signup.e2ma.net
 .7q1z79gxsi.global.ssl.fastly.net
 .producecopy.com
 .rhetoricalloss.com

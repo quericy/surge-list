@@ -1,3 +1,5 @@
+.local.hniux.cn
+.ce.wlaoc.cn
 .count.xxxssk.com
 .tyjryuk.cn
 .v.rssnzw.cn
@@ -838,6 +840,7 @@
 .dddddd.net
 .ddhtek.com
 .ddomm.com
+.deeplacer.com
 .detuns.com
 .df3n43m.com
 .df77.com
@@ -3208,6 +3211,7 @@
 .cp.7y7.com
 .cp.jfcdns.com
 .cp.qbaobei.com
+.cpro.bdrmb.cn
 .cpro.xixiliya.cn
 .crayon.meishichina.com
 .cspb1.5w5w.com
@@ -3709,10 +3713,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.hzqzxf.com
-.y7o9rh.cn
-.qyhwqie.cn
-.mydownba.com
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4594,6 +4594,7 @@
 .hyxca.top
 .hyyazhaji.com
 .hzht666.com
+.hzqzxf.com
 .hzsrjs.com
 .hzuok.com
 .hzuvw.com
@@ -4938,6 +4939,7 @@
 .mx.biquge.info
 .mxtailor.com
 .myams.cn
+.mydownba.com
 .mysty.com.cn
 .mytehui.cn
 .myuf6.xyz
@@ -5138,6 +5140,7 @@
 .quyejianzhan.tech
 .qwesgwg.cn
 .qxyu.top
+.qyhwqie.cn
 .qyttl.cn
 .qzbxfs.com
 .qzdag.com
@@ -5360,10 +5363,13 @@
 .tjtiebz.cn
 .tk59n.cn
 .tkshyp.com
+.tlwl1.cn
+.tlwl2.cn
 .tmmjgcp.cn
 .tmrmixer.cn
 .tochgw.com
 .toissue.cn
+.tongbuchi.com
 .tongjiwo.com
 .toujing4.top
 .toujing5.top
@@ -5622,6 +5628,7 @@
 .xztms.com
 .y12f.com
 .y1wm9.cn
+.y7o9rh.cn
 .y7wr7.cn
 .yaba.org.cn
 .yajiuwz.xyz
@@ -5704,6 +5711,7 @@
 .yueqiangss.cn
 .yueyelive.com
 .yueyuelao.cn
+.yuhuanjiuye.com
 .yujianai520.com
 .yun-pdm2000.cn
 .yun-pdm5000.cn
