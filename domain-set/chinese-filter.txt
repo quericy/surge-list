@@ -132,6 +132,14 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.hsyjxzl.cn
+.jqueryget.com
+.shengyaxd.com
+.5551650.com
+.5551660.com
+.5551825.com
+.5551933.com
+.qfihdr.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -2918,7 +2926,6 @@
 .ztyumn.ifeng.com
 .immedlinkum.info
 .xayah.date
-.materiel.baizhan.net
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3428,6 +3435,7 @@
 .m1.we556.com
 .ma1.meishij.net
 .main.jiukang.org
+.materiel.baizhan.net
 .matwbp.iask.sina.com.cn
 .mb.gulongbbs.com
 .mbjb1.girl13.com
@@ -3714,14 +3722,7 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.yqqlm.vip
-.banma51.cn
-.dsdsds8848.xyz
-.9ucm.com
-.ipqxibd.cn
-.yzylm.com
-.szmxwjm.com
-.tunanchangban.com
+.bulankk.com
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -3897,6 +3898,7 @@
 .9a6wb.cn
 .9d7in.cn
 .9pb0h.cn
+.9ucm.com
 .9y88.com
 .a3pz36.cn
 .a7t89g4a.cn
@@ -4017,6 +4019,7 @@
 .baiduspider1.cn
 .baitaoidc.com
 .baiyangzs.com
+.banma51.cn
 .baolutongwuye.cn
 .baomeidiaosu.cn
 .bapkt.com
@@ -4284,6 +4287,7 @@
 .drevozone.com.cn
 .drgykb.cn
 .dscry.com
+.dsdsds8848.xyz
 .dsjre.com
 .dsjyjj.cn
 .dssdr.top
@@ -4638,6 +4642,7 @@
 .iohtmrp.cn
 .ipchinatelecom.com
 .ipdxwtn.cn
+.ipqxibd.cn
 .irauz.com
 .irkuj.com
 .iruad.com
@@ -5329,6 +5334,7 @@
 .sytsr.com
 .syxchj.cn
 .syxsa.cn
+.szmxwjm.com
 .szqifu.com
 .szshouzhai.com
 .szwzjk.cn
@@ -5394,6 +5400,7 @@
 .ttbc33.com
 .tuadong.com
 .tukexiu.com
+.tunanchangban.com
 .tuoxintrade.cn
 .twodogegg.cn
 .txn5n0.cn
@@ -5705,6 +5712,7 @@
 .youweiprint.com
 .youyicsyy.com
 .yoxus.cn
+.yqqlm.vip
 .yr29r.cn
 .yrrsckr.cn
 .yscci.com
@@ -5743,6 +5751,7 @@
 .yyshow.top
 .yzdcb.xyz
 .yzftqx.cn
+.yzylm.com
 .yzyszy.com
 .z65j.cn
 .z97g.cn

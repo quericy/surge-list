@@ -3,6 +3,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.smetrics.capitalone.com
+.m-metrics.capitalone.com
 .mon-va.byteoversea.com
 .stat.wioau.com
 .www.clarity.ms
