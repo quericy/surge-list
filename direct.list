@@ -23,6 +23,12 @@ PROCESS-NAME,*clash*
 USER-AGENT,%E8%BF%85%E9%9B%B7
 DOMAIN-SUFFIX,xunlei.com
 
+# > Synology
+DOMAIN,checkip.synology.com
+DOMAIN,checkipv6.synology.com
+DOMAIN,ddns.synology.com
+DOMAIN-SUFFIX,quickconnect.to
+
 # > Download
 PROCESS-NAME,aria2c
 PROCESS-NAME,fdm
@@ -61,7 +67,6 @@ DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
-
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
