@@ -132,14 +132,8 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.hsyjxzl.cn
-.jqueryget.com
-.shengyaxd.com
-.5551650.com
-.5551660.com
-.5551825.com
-.5551933.com
-.qfihdr.com
+.qudaoweiwang.com
+.djpt33.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -328,6 +322,10 @@
 .5399.com
 .550tg.com
 .5535aibo.com
+.5551650.com
+.5551660.com
+.5551825.com
+.5551933.com
 .55803.net
 .565882.com
 .56yk.com
@@ -1185,6 +1183,7 @@
 .hskj.net
 .hslyqs.com
 .hsmkj.net
+.hsyjxzl.cn
 .htg-x.com
 .huaerduo.com
 .huanqiucaizhi.com
@@ -1340,6 +1339,7 @@
 .joyvowdig.com
 .jozee.cn
 .jqsex.com
+.jqueryget.com
 .jqz9.com
 .js.xiao7cdn.com
 .js88895.net
@@ -1757,6 +1757,7 @@
 .qdsfzz.cn
 .qdxrhg.com
 .qevcxo.cn
+.qfihdr.com
 .qfs365.com
 .qgjapp.com
 .qgss8.com
@@ -1886,6 +1887,7 @@
 .sharrysweb.com
 .shengdianwang.cc
 .shenglonghg.net
+.shengyaxd.com
 .shentupk85.com
 .shibagongfang.com
 .shkywh.com
@@ -3722,7 +3724,7 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.bulankk.com
+.huhuhiiuio.com
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4095,6 +4097,7 @@
 .btbalex.cn
 .btnvlvt.cn
 .bugcreator.cn
+.bulankk.com
 .bulkeach.com
 .bvoer.com
 .bvosv.com

@@ -3,6 +3,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.nlog.nethru.io
+.uc.xddi.ru
+.events.demoup.com
 .smetrics.capitalone.com
 .m-metrics.capitalone.com
 .mon-va.byteoversea.com
