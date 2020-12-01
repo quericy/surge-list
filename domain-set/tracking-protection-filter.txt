@@ -4250,6 +4250,8 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.sl-h-statistics-ch-1.storeland.ru
+.hc-analytics.idp.clogin.att.com
 .p.imgur.com
 .uid.mavencoalition.io
 .hummingbird.mavencoalition.io
@@ -5862,6 +5864,8 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.notes-analytics-events.apple.com
+.weather-analytics-events.apple.com
 .v-collector.dp.aws.charter.com
 .smetrics.cnn.com
 .metrics.claspws.tv
