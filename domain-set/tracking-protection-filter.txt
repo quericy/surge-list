@@ -3,6 +3,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.docodoco.jp
+.mieru-ca.com
 .nlog.nethru.io
 .uc.xddi.ru
 .events.demoup.com
@@ -3193,6 +3195,7 @@
 .zqtk.net
 .zroitracker.com
 .functionalclam.com
+.stiffgame.com
 .satisfycork.com
 .placidperson.com
 .regularplants.com
@@ -4250,6 +4253,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.signal-collector.gemaltodigitalbankingidcloud.com
 .analytics.bi.encuentra24.com
 .sl-h-statistics-ch-1.storeland.ru
 .hc-analytics.idp.clogin.att.com
@@ -5865,6 +5869,8 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.us-tracking.nextdoor.com
+.us-events.api.iheart.com
 .notes-analytics-events.apple.com
 .weather-analytics-events.apple.com
 .v-collector.dp.aws.charter.com

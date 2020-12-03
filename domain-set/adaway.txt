@@ -3765,7 +3765,6 @@
 .api.analytics.nexonm.com
 .nextclick.pl
 .ads.nicovideo.jp
-.api.nicovideo.jp
 .apps.nielsen.com
 .cec-global.nielsen.com
 .ciq-st.nielsen.com

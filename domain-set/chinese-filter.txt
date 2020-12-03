@@ -132,8 +132,8 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.dagonghuzhu.com
-.weifengtianxia.com
+.jianxinshanghai.com
+.fijipic.xyz
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -827,6 +827,7 @@
 .d8ekco.com
 .dadjia.com
 .dafapai.com
+.dagonghuzhu.com
 .dahanedu.com
 .daikuanfanli.com
 .dalianhengtai.com
@@ -2196,6 +2197,7 @@
 .webofxm.cn
 .wecrtfr.com
 .weddingeeos.com
+.weifengtianxia.com
 .weihuiyungou.com
 .weiqiqu.cn
 .weizhenwx.com
@@ -3727,9 +3729,7 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.root85.com
-.continuefaf.top
-.spaung.cn
+.dilqdiw.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4195,6 +4195,7 @@
 .colorofgod.cn
 .comberry.cn
 .continuedsys.cn
+.continuefaf.top
 .coolpadrom.cn
 .cooltool.cc
 .cornplus.cn
@@ -5198,6 +5199,7 @@
 .rockcoke.cn
 .romgv.com
 .rongnews.com
+.root85.com
 .rqvfewi.cn
 .rrkykn.cn
 .rtslgov.cn
@@ -5298,6 +5300,7 @@
 .soueki.com
 .soyue.cc
 .spahelani.com
+.spaung.cn
 .sqa4e.xyz
 .sqtr1v.com
 .sqwscy.com
