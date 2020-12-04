@@ -3,6 +3,14 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.telemetry.api.wmcdp.io
+.logs.psm.wmcdp.io
+.doubleverify.com
+.volvelle.tech
+.audiencemanager.de
+.emxdgt.com
+.pixel.tapad.com
+.event.getblue.io
 .docodoco.jp
 .mieru-ca.com
 .nlog.nethru.io
