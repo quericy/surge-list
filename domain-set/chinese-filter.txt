@@ -132,9 +132,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.fzbymy.com
-.qingyanmjg.com
-.ertongjiaju360.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -949,6 +946,7 @@
 .erdsyzb.com
 .erosyndc.com
 .erqimall.net
+.ertongjiaju360.com
 .evefashion.cn
 .expo123.net
 .extremedirectness.com
@@ -1015,6 +1013,7 @@
 .fxtducb.cn
 .fxxgw.com
 .fydgold132.com
+.fzbymy.com
 .fzdeng.com
 .fzglqyy.com
 .g1.tagtic.cn
@@ -1773,6 +1772,7 @@
 .qianmeiby.com
 .qidou.com
 .qilashou.com
+.qingyanmjg.com
 .qipskd.cn
 .qiqivv.com
 .qiqiww.com
@@ -3734,8 +3734,8 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.birthcaker.cn
-.juxuyun.com
+.5mgurg.cn
+.tiandihui9450.top
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4070,6 +4070,7 @@
 .bigcoon.xyz
 .biluzhang.cn
 .bingdiantao.com
+.birthcaker.cn
 .bishufang.cn
 .bixuyao.com.cn
 .bjbrtc.com
@@ -4764,6 +4765,7 @@
 .just9229.cn
 .justincao84.cn
 .juxilm.com
+.juxuyun.com
 .juyour8.org
 .juyzr.com
 .jvyigg.biquge.lu
