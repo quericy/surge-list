@@ -236,7 +236,6 @@
 .spattepush.com
 .volanosier.com
 .webpushr.com
-.js.pusher.com
 .push-free.com
 .pushprofit.net
 .magarimot.com
