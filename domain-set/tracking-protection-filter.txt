@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.track.customer.io
 .adblock-analytics.io
 .aukana.jp
 .telemetry.api.wmcdp.io
@@ -3205,6 +3206,7 @@
 .zqtk.net
 .zroitracker.com
 .functionalclam.com
+.puffypaste.com
 .stiffgame.com
 .satisfycork.com
 .placidperson.com

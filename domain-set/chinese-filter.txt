@@ -133,7 +133,9 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.6v4.cn
+.smart-start.com.cn
+.pic12x20.com
+.9kanw.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -368,8 +370,8 @@
 .6dad.com
 .6dvip.com
 .6huu.com
-.6ped2nd3yp.com
 .6travel.com
+.6v4.cn
 .700ok.net
 .70e.com
 .70lm.com
@@ -533,7 +535,6 @@
 .adunioncode.com
 .adunite.com
 .adxiaozi.com
-.adxoo.com
 .adxxx.com
 .adytx.com
 .adyun.com
@@ -609,7 +610,6 @@
 .axiba66.com
 .b588866.com
 .b96bcea4.cc
-.badskies.com
 .baiapk.com
 .baiduace.com
 .baiduappu.top
@@ -756,7 +756,6 @@
 .cke199.com
 .ckseeknew.com
 .claz.com.cn
-.clcassd.com
 .climbcoder.com
 .cloudad.asia
 .cmaxisolation.com
@@ -944,9 +943,7 @@
 .eleobj.com
 .emarbox.com
 .enohb.com
-.eossbuqccjrfs.com
 .erdsyzb.com
-.erosyndc.com
 .erqimall.net
 .ertongjiaju360.com
 .evefashion.cn
@@ -1093,7 +1090,6 @@
 .gwylm.com
 .gxejgs.com
 .gxgzyny.com
-.gxhxmy88.com
 .gydag.com
 .gygdmy.com
 .gzbywl.com
@@ -1344,7 +1340,6 @@
 .jointreport-switch.com
 .jossuer.net
 .joyfuldoors.com
-.joyvowdig.com
 .jozee.cn
 .jqsex.com
 .jqueryget.com
@@ -1511,7 +1506,6 @@
 .llqss.top
 .llrnlzl.cn
 .lm.35.com
-.lmepskqkrrya.com
 .lnr1.com
 .log.interest.mix.sina.com.cn
 .lolmp4.com
@@ -1576,7 +1570,6 @@
 .mfcvxw.cn
 .mgtv-bbqn.oss-cn-beijing.aliyuncs.com
 .mgwcn.com
-.mi82ltk3veb7.com
 .miaozhen.com
 .mieyisi.com
 .min1319.com
@@ -1714,8 +1707,6 @@
 .p3tt.com
 .p74.cc
 .pababy.cn
-.padspms.com
-.padsreds.com
 .pagechoice.net
 .panel-cn.com
 .papa9394.com
@@ -1983,7 +1974,6 @@
 .superli666.top
 .suukcn.com
 .suzhoujinghui.com
-.svsatrerbxh.com
 .swtkc.cn
 .swzhaohuo.com.cn
 .sxbhzs.net
@@ -2231,7 +2221,6 @@
 .wka8.com
 .wlkpa.cn
 .wmrmb.cn
-.wndlkj.com
 .wo19.top
 .wo685.com
 .wodemeitu.com
@@ -2394,7 +2383,6 @@
 .xulizui6.com
 .xunlaile.com
 .xuqinqi.cn
-.xvnfyutv.com
 .xwdsp.com
 .xww360.com
 .xxhrd.com
@@ -2756,7 +2744,6 @@
 .d0.xcar.com.cn
 .d1.3158.cn
 .d13jhr4vol1304.cloudfront.net
-.d3mr7y154d2qg5.cloudfront.net
 .da.mgtv.com
 .de.as.pptv.com
 .dehua.ixinfan.com
@@ -3735,9 +3722,10 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.d36gyu.cn
-.aqvnurq.cn
-.xuxiangkj.com
+.bio-lifehealth.com
+.tatjhh.cn
+.bmp.ovh
+.duwowvo.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4008,6 +3996,7 @@
 .applequan.com
 .apxyz.com
 .aquarius8.cn
+.aqvnurq.cn
 .archrug.com
 .askfsh.cn
 .askspsl.cn
@@ -4240,6 +4229,7 @@
 .d1skp.cn
 .d1wn3.cn
 .d2wb1.cn
+.d36gyu.cn
 .d5a5a.xyz
 .d663q.cn
 .d72l4.com
@@ -5468,7 +5458,6 @@
 .uqpfh.cn
 .urlet.cn
 .ut0ej.cn
-.uuboos.com
 .uunewcar.com
 .uuopp.com
 .uuwhg.com
@@ -5668,6 +5657,7 @@
 .xunhuaji.cn
 .xurizhongguo.cn
 .xuro006.com
+.xuxiangkj.com
 .xw1001.com
 .xxkio.com
 .xy98.com.cn
