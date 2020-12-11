@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.s.srvsynd.com
 .track.customer.io
 .lcs.loginfra.com
 .adblock-analytics.io
@@ -1615,7 +1616,6 @@
 .hyperactivate.com
 .hypestat.com
 .i-stats.com
-.iadvize.com
 .ib-ibi.com
 .ibillboard.com
 .ibpxl.com
@@ -4223,6 +4223,7 @@
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
 .gak.webtoons.com
+.s.news.naver.com
 .jtrackern.joins.com
 .analytics.cinematoday.jp
 .log.cinematoday.jp
@@ -5851,7 +5852,6 @@
 .v-collector.dp.aws.charter.com
 .smetrics.cnn.com
 .metrics.claspws.tv
-.geolocation.onetrust.com
 .logs.gaaana.com
 .sdk-log-inter.youdao.com
 .sensors.snappea.com
