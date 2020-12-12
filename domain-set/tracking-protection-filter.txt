@@ -5845,6 +5845,7 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.tracker.departapp.com
 .us-tracking.nextdoor.com
 .us-events.api.iheart.com
 .notes-analytics-events.apple.com
