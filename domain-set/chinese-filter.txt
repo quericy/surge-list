@@ -133,7 +133,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.depnegj.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -848,6 +847,7 @@
 .ddhtek.com
 .ddomm.com
 .deeplacer.com
+.depnegj.cn
 .detuns.com
 .df3n43m.com
 .df77.com
@@ -1112,6 +1112,7 @@
 .haiyunpush.com
 .haiyunx.com
 .haizirv.cn
+.handanxinkai.com
 .hanqidq.com
 .hao123union.baidu.com
 .hao222.com
@@ -2928,7 +2929,6 @@
 .ztyumn.ifeng.com
 .immedlinkum.info
 .xayah.date
-.bd1-china.xsfaya.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3140,6 +3140,7 @@
 .bd.czxuexi.com
 .bd.ershenghuo.com
 .bd1-china.6789.com
+.bd1-china.xsfaya.com
 .bd1.365qilu.com
 .bd1.99danji.com
 .bd1.click.com.cn
@@ -3725,12 +3726,7 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.abi.run
-.jisufeifei.com
-.mxhbkj.cn
-.ububyiw6655.xyz
-.ohthub.com.cn
-.jtwlj.cn
+.pbtxt.win
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -3921,6 +3917,7 @@
 .abckzo.cn
 .abeij.com
 .abfirst.cn
+.abi.run
 .abie10.top
 .abie11.top
 .abie12.top
@@ -3945,6 +3942,7 @@
 .afefw.com
 .affiliate6.com
 .aganj.com
+.ah808.com
 .ahanve.cn
 .ahidna.cn
 .ahinang.cn
@@ -4105,6 +4103,7 @@
 .bqhnj.cn
 .bqqsdv73724.cn
 .brysj.vip
+.bsjgqhe.cn
 .bslmw.com
 .btbalex.cn
 .btnvlvt.cn
@@ -4728,12 +4727,14 @@
 .jinxinyuan.cn
 .jioder3e.cn
 .jioeg.com
+.jisufeifei.com
 .jiudiandyw.com
 .jiujhzp.com
 .jiumishow.com
 .jiuwanzi.com
 .jixiby.cn
 .jiyuanzixun.com
+.jj0453.com
 .jkert.com
 .jkleosnfjutme.top
 .jkxtd77.com
@@ -4763,6 +4764,7 @@
 .jsvv587.com
 .jswnuq.cn
 .jsyjwj.com
+.jtwlj.cn
 .julitenj.com
 .jullycn.com
 .jundazulin.com
@@ -4979,6 +4981,7 @@
 .muusn.cn
 .mwjpk.com
 .mx.biquge.info
+.mxhbkj.cn
 .mxtailor.com
 .myams.cn
 .mydownba.com
@@ -5051,6 +5054,7 @@
 .octopuszyw.cn
 .oende.cn
 .oesnw.com
+.ohthub.com.cn
 .oikqfwv.cn
 .oir85.cn
 .oiwjcsh001.top
@@ -5143,6 +5147,7 @@
 .qbczpo.cn
 .qcsfxv.cn
 .qd836.cn
+.qdhhdsw.cn
 .qdiut.com
 .qdmeifeng.cn
 .qdyazc.com
@@ -5153,6 +5158,7 @@
 .qhdop.com
 .qhxcdmfj.cn
 .qi-shi.top
+.qianggou8.top
 .qianyuntengyue.com
 .qiaopiguniang.com
 .qiditrade.com
@@ -5261,6 +5267,7 @@
 .sfanf.com
 .sffxcwc.cn
 .sguac.com
+.sgyebd.com
 .shangyingwm.com
 .shanyuebrowser.com
 .shaque.vip
@@ -5449,6 +5456,7 @@
 .u0r9.cn
 .u2c8.cn
 .uauwkfk.cn
+.ububyiw6655.xyz
 .uc4a.cn
 .ucaii.com
 .ucvqmvg.cn
@@ -5717,6 +5725,7 @@
 .yimeize.cn
 .yingjiawm.com
 .yinlt.com
+.yinvmh.com
 .yinzantouzi.com
 .yiqima.xyz
 .yitiaoyu.top
@@ -5743,6 +5752,7 @@
 .yokebao.com
 .yoobest.cn
 .youkete.cn
+.youngalsobeautiful.com
 .youshouge513.cn
 .youtui456.com
 .youweiprint.com
