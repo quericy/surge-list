@@ -62,6 +62,10 @@ DOMAIN-SUFFIX,mzstatic.com,{{ cdn_rule }}
 PROCESS-NAME,storedownloadd,{{ cdn_rule }}
 # iOS App Store
 USER-AGENT,com.apple.appstored*,{{ cdn_rule }}
+# Apple Music Streaming
+DOMAIN,aod.itunes.apple.com,{{ cdn_rule }}
+DOMAIN,mvod.itunes.apple.com,{{ cdn_rule }}
+DOMAIN,streamingaudio.itunes.apple.com,{{ cdn_rule }}
 # Other
 DOMAIN,download.developer.apple.com,{{ cdn_rule }}
 DOMAIN,downloaddispatch.itunes.apple.com,{{ cdn_rule }}
@@ -102,27 +106,22 @@ DOMAIN,apple.comscoreresearch.com,{{apple_news_rule}}
 #
 # Apple 其他直连
 #
+# Spotlight
 DOMAIN,api.smoot.apple.com,DIRECT
+DOMAIN,api.smoot.apple.cn,DIRECT
+# Hotspot captive
 DOMAIN,captive.apple.com,DIRECT
+# Configuration
 DOMAIN,configuration.apple.com,DIRECT
 # Apple Pay
 DOMAIN,smp-device-content.apple.com,DIRECT
-# Apple Music Streaming
-DOMAIN,aod.itunes.apple.com,DIRECT
-DOMAIN,api.smoot.apple.cn,DIRECT
 # locationd
 DOMAIN,gs-loc.apple.com,{{ location_rule }}
-# Apple Music Streaming
-DOMAIN,mvod.itunes.apple.com,DIRECT
-# Apple Music Streaming
-DOMAIN,streamingaudio.itunes.apple.com,DIRECT
 # Reserve
 DOMAIN,reserve-prime.apple.com,DIRECT
 DOMAIN-SUFFIX,ess.apple.com,DIRECT
 DOMAIN-SUFFIX,push-apple.com.akadns.net,DIRECT
 DOMAIN-SUFFIX,push.apple.com,DIRECT
-# Apple Music
-DOMAIN-SUFFIX,music.apple.com,DIRECT
 # GeoServices.framework
 DOMAIN-SUFFIX,ls.apple.com,{{ location_rule }}
 # Asset Cache Locator Service
@@ -131,14 +130,15 @@ DOMAIN-SUFFIX,lcdn-locator.apple.com,DIRECT
 DOMAIN-SUFFIX,lcdn-registration.apple.com,DIRECT
 # Apple Pay
 DOMAIN-KEYWORD,smp-device,DIRECT
-# Apple Pay
 USER-AGENT,passd*,DIRECT
-# Apple Pay
 USER-AGENT,Wallet*,DIRECT
 
 #
 # Apple 其他自选
 #
+# Apple Music
+DOMAIN-SUFFIX,music.apple.com,{{ api_rule }}
+# Others
 DOMAIN-SUFFIX,aaplimg.com,{{ api_rule }}
 DOMAIN-SUFFIX,apple.co,{{ api_rule }}
 DOMAIN-SUFFIX,itunes.com,{{ api_rule }}
