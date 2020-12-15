@@ -978,9 +978,6 @@
 .st-au.ants.vn
 .t.ants.vn
 .analytics.anvato.net
-.apis.anvato.net
-.cdn.anvato.net
-.gcdn.anvato.net
 .analytics.any.do
 .tkmedia-cache.aotter.net
 .tkmedia.aotter.net

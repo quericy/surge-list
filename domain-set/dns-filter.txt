@@ -1,3 +1,10 @@
+.omisingcur.fun
+.hyperoi.com
+.adstudio.cloud
+.armlyemoan.com
+.midpopedge.com
+.yqorexok.xyz
+.evasiondemandedlearning.com
 .promos.camsoda.com
 .talazywho.pro
 .pollscoopiffy.com
@@ -1739,6 +1746,7 @@
 .cb8717377086c72d.com
 .go.mobiprotg.com
 .samsungtvads.com
+.d2sbzwmcg5amr3.cloudfront.net
 .tontent.powv1deo.cc
 .cintent.streanplay.cc
 .my.shymilftube.com
@@ -9190,14 +9198,12 @@
 .prospergenerosityperformance.com
 .prosperousevictcrucial.com
 .prosumsit.com
-.protectcrev.com
 .protectdedication.com
 .protection-booster.club
 .protection-cleaner.club
 .protection-device.club
 .protection-fix.club
 .protection-fixer.club
-.protectsubrev.com
 .protrudediscussion.com
 .proveexclusionaye.com
 .provembe.club
@@ -9782,7 +9788,6 @@
 .revhpdxqul.com
 .reviourffg.club
 .revolutelyplan.info
-.revprotect.com
 .revqwsjtu.com
 .revrtb.com
 .rewhichesa.info
@@ -16177,9 +16182,9 @@
 .rev-stripe.com
 .rev2pub.com
 .rev4rtb.com
-.revcatch.com
 .revdepo.com
 .revenue.com
+.revenueflex.com
 .revenuegiants.com
 .revenuehits.com
 .revenuemantra.com
@@ -17678,6 +17683,7 @@
 .c3.myapkcdn.in
 .plugin.mobopay.baidu.com
 .mo.freeindoapp.com
+.soundcloud-pax.pandora.com
 .promoted.sndcdn.com
 .adservice.tohsoft.com
 .delivery-cdn-cf.adswizz.com
@@ -20047,6 +20053,10 @@
 .um-public-panel-prod.s3.amazonaws.com
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
+.metrics.makemytrip.com
+.tracking.shopback.com
+.logger.cbs.co.kr
+.gather.donga.com
 .gak.webtoons.com
 .s.news.naver.com
 .jtrackern.joins.com
@@ -23690,6 +23700,11 @@
 .zroitracker.com
 .ztsrv.com
 .zuzab.com
+.pphwrevr.com
+.protectcrev.com
+.protectsubrev.com
+.revcatch.com
+.revprotect.com
 .mkto-*.com
 .accengage.net
 .actirinius.com
@@ -24762,6 +24777,7 @@
 .events.air.tv
 .events.apester.com
 .events.attentivemobile.com
+.events.audiate.me
 .events.brightline.tv
 .events.demoup.com
 .events.izooto.com
@@ -26793,6 +26809,8 @@
 .xclk-integracion.com
 .yestorrents.org
 .zebestof.com
+.6jfvnf69jx.ru
+.rmraos.com
 .u7kgr54jr7.ru
 .ymjfhg.com
 .minsk-news.info
@@ -32965,7 +32983,8 @@
 .sacchaeleduk.com
 .smilitygorb.club
 .ucesreferre.club
-.xyadtlyyc.vip
+.mtav1.com
+.bolimen.top
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -34712,6 +34731,7 @@
 .xyadtlyya.cn
 .xyadtlyya.com
 .xyadtlyya.vip
+.xyadtlyyc.vip
 .xyadyzpsb.com
 .xycnz.com
 .xycnzz.com
@@ -35192,6 +35212,7 @@
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
+.cdn.imvkan.com
 .immedlinkum.info
 .xayah.date
 .003store.com
@@ -35938,7 +35959,9 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.hdvwm3.cn
+.qkykxrm.cn
+.xuenengyoujiaoyu.com
+.kangerlu.com
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -36757,6 +36780,7 @@
 .hcprzx.cn
 .hdfdm.com
 .hdminfeng.com
+.hdvwm3.cn
 .hdweds.cn
 .hdzkjv.cn
 .headwell.cn
