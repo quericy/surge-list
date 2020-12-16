@@ -1,12 +1,12 @@
 {% macro main(default_rule, api_rule, cdn_rule, location_rule, apple_news_rule) %}
 # http://www.jjinc.com.au/announcements/apple170008services
+# https://gist.github.com/joseconstela/a6e06ef9737e097eddcaf940ea313e38
 #
 # Apple 直连
 #
 USER-AGENT,*com.apple.mobileme.fmip1,DIRECT
 # Weather
 USER-AGENT,*WeatherFoundation*,DIRECT
-DOMAIN,weather-analytics-events.apple.com,DIRECT
 # Maps
 USER-AGENT,%E5%9C%B0%E5%9B%BE*,{{ location_rule }}
 # Settings
@@ -111,16 +111,20 @@ DOMAIN,api.smoot.apple.com,DIRECT
 DOMAIN,api.smoot.apple.cn,DIRECT
 # Hotspot captive
 DOMAIN,captive.apple.com,DIRECT
-# Configuration
-DOMAIN,configuration.apple.com,DIRECT
 # Apple Pay
 DOMAIN,smp-device-content.apple.com,DIRECT
+DOMAIN-KEYWORD,smp-device,DIRECT
+USER-AGENT,passd*,DIRECT
+USER-AGENT,Wallet*,DIRECT
 # locationd
 DOMAIN,gs-loc.apple.com,{{ location_rule }}
+DOMAIN-SUFFIX,ls.apple.com.akadns.net,{{ location_rule }}
+DOMAIN-SUFFIX,ls.apple.com.edgesuite.net,{{ location_rule }}
 # Reserve
 DOMAIN,reserve-prime.apple.com,DIRECT
-DOMAIN-SUFFIX,ess.apple.com,DIRECT
-DOMAIN-SUFFIX,push-apple.com.akadns.net,DIRECT
+# Push
+DOMAIN-KEYWORD,push-apple.com.akadns.net,DIRECT
+DOMAIN-SUFFIX,push.apple.com.akadns.net,DIRECT
 DOMAIN-SUFFIX,push.apple.com,DIRECT
 # GeoServices.framework
 DOMAIN-SUFFIX,ls.apple.com,{{ location_rule }}
@@ -128,16 +132,16 @@ DOMAIN-SUFFIX,ls.apple.com,{{ location_rule }}
 DOMAIN-SUFFIX,lcdn-locator.apple.com,DIRECT
 # Caching Server Registration
 DOMAIN-SUFFIX,lcdn-registration.apple.com,DIRECT
-# Apple Pay
-DOMAIN-KEYWORD,smp-device,DIRECT
-USER-AGENT,passd*,DIRECT
-USER-AGENT,Wallet*,DIRECT
 
 #
 # Apple 其他自选
 #
+# iMessage
+DOMAIN-SUFFIX,ess.apple.com,{{ api_rule }}
 # Apple Music
 DOMAIN-SUFFIX,music.apple.com,{{ api_rule }}
+# Configuration
+DOMAIN,configuration.apple.com,{{ api_rule }}
 # Others
 DOMAIN-SUFFIX,aaplimg.com,{{ api_rule }}
 DOMAIN-SUFFIX,apple.co,{{ api_rule }}
