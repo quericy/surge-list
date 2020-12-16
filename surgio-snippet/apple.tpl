@@ -89,7 +89,6 @@ DOMAIN,js-cdn.music.apple.com,{{ default_rule }}
 DOMAIN,docs-assets.developer.apple.com,{{ default_rule }}
 # Other
 DOMAIN-SUFFIX,apple-dns.net,{{ default_rule }}
-DOMAIN-SUFFIX,gc.apple.com,{{ default_rule }}
 # OCSP
 DOMAIN-SUFFIX,ocsp.apple.com,{{ default_rule }}
 USER-AGENT,com.apple.trustd*,{{ default_rule }}
