@@ -133,8 +133,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.mtav1.com
-.bolimen.top
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -668,6 +666,7 @@
 .bnq86.com
 .bnuni.com
 .bole.asia
+.bolimen.top
 .borsendental.com
 .bosatria.cn
 .bosiwangzi.cn
@@ -1605,6 +1604,7 @@
 .msltzer.cn
 .msspgw.cn
 .msujd.cn
+.mtav1.com
 .mtburn.com
 .mtqys.com
 .mtty.com
@@ -2740,6 +2740,7 @@
 .c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 .cacafly.net
 .cdgfa.ifeng.com
+.cdn.imvkan.com
 .cdn.wuyou.ca
 .chidir.com
 .client.88tours.com
@@ -2930,9 +2931,9 @@
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
-.cdn.imvkan.com
 .immedlinkum.info
 .xayah.date
+.166sh.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3730,9 +3731,10 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.qkykxrm.cn
-.xuenengyoujiaoyu.com
-.kangerlu.com
+.bailequan.net.cn
+.aodepuo.cn
+.maro30.com
+.xuyssur.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4805,6 +4807,7 @@
 .kaihutai.cn
 .kakam.info
 .kakappp.com
+.kangerlu.com
 .kanghuaixin.cn
 .kanjiaqun.cn
 .kantv.pub
@@ -5181,6 +5184,7 @@
 .qjueu.com
 .qjxszp.cn
 .qkptx.com
+.qkykxrm.cn
 .qlaot.com
 .qlssbq.cn
 .qmlcdlo.cn
@@ -5682,6 +5686,7 @@
 .xsyouwei.cn
 .xszysc.com
 .xt725.cn
+.xuenengyoujiaoyu.com
 .xujx8.com
 .xunhuaji.cn
 .xurizhongguo.cn

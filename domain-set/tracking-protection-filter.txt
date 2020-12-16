@@ -4227,6 +4227,8 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.counter.adguard.com
+.l.www.naver.com
 .metrics.makemytrip.com
 .tracking.shopback.com
 .logger.cbs.co.kr
@@ -5854,6 +5856,7 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.mobiletelemetry.ebay.com
 .tracker.departapp.com
 .us-tracking.nextdoor.com
 .us-events.api.iheart.com
