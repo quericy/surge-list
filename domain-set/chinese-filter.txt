@@ -133,6 +133,8 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.pinyoux.com
+.itchenjian.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -2933,7 +2935,6 @@
 .ztyumn.ifeng.com
 .immedlinkum.info
 .xayah.date
-.166sh.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -2999,6 +3000,7 @@
 .1224.dxsbb.com
 .123456.asia
 .15tianqi.com
+.166sh.com
 .17.huanqiu.com
 .177o.com
 .1999019.com
@@ -3731,10 +3733,11 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.bailequan.net.cn
-.aodepuo.cn
-.maro30.com
-.xuyssur.cn
+.zxlmnet.com
+.51showmy.com
+.hyuanprint.com
+.fjylcy.com
+.nmlhkj.com
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -3998,6 +4001,7 @@
 .anmeilai.net
 .anweigongsi.com
 .anyysz.com
+.aodepuo.cn
 .aomde.com
 .aox7.xyz
 .aoyou2.top
@@ -4033,6 +4037,7 @@
 .bahu.xyz
 .baidu.bxwx666.org
 .baiduspider1.cn
+.bailequan.net.cn
 .baitaoidc.com
 .baiyangzs.com
 .banma51.cn
@@ -4932,6 +4937,7 @@
 .mao1.jsnovel.com
 .maobujie.com
 .maoyumao.net
+.maro30.com
 .matchjia.cn
 .maxoi.cn
 .mbusdw.cn
@@ -5692,6 +5698,7 @@
 .xurizhongguo.cn
 .xuro006.com
 .xuxiangkj.com
+.xuyssur.cn
 .xw1001.com
 .xxkio.com
 .xy98.com.cn

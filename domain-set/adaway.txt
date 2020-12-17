@@ -4054,7 +4054,6 @@
 .ct.pinterest.com
 .log.pinterest.com
 .trk.pinterest.com
-.widgets.pinterest.com
 .pippio.com
 .pixel.watch
 .pixfuture.net
