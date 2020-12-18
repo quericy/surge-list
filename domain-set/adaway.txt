@@ -2673,7 +2673,6 @@
 .ads.intergi.com
 .cdn.intergi.com
 .intermarkets.net
-.cloud.internetstores.com
 .intowow.com
 .ads.inven.co.kr
 .investingapp.net
@@ -2701,9 +2700,6 @@
 .media-cdn.ipredictive.com
 .sync.ipredictive.com
 .adserver.iprom.net
-.cdn.ipromote.com
-.fra1.ipromote.com
-.fra2.ipromote.com
 .i.ipromote.com
 .iad1.ipromote.com
 .iad2.ipromote.com
@@ -2782,8 +2778,6 @@
 .sync.jivox.com
 .traffick.jivox.com
 .ad.jorte.com
-.finlogs.joyeggs.com
-.payback.joyeggs.com
 .im64.jpush.cn
 .s.jpush.cn
 .stats.jpush.cn
@@ -2826,7 +2820,6 @@
 .screencaptue-cdn.kampyle.com
 .screencapture.kampyle.com
 .udc-neb.kampyle.com
-.kaotic.com
 .ad-monitor.kargo.com
 .cma.kargo.com
 .crb.kargo.com

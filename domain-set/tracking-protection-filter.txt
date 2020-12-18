@@ -5856,6 +5856,7 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.trk2.pinterest.com
 .mobiletelemetry.ebay.com
 .tracker.departapp.com
 .us-tracking.nextdoor.com
