@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analy1.dtnnetwork.be
 .polarbyte.com
 .revcatch.com
 .revprotect.com
@@ -4227,6 +4228,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.analytics2.tvreport.co.kr
 .counter.adguard.com
 .l.www.naver.com
 .metrics.makemytrip.com

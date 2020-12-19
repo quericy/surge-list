@@ -133,7 +133,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.ylflwbj.cn
+.qdwght.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -2469,6 +2469,7 @@
 .yixui.com
 .yk0712.com
 .ykjmy.com
+.ylflwbj.cn
 .ylzx.net
 .ymcqb.com
 .ymima360.com
@@ -2675,6 +2676,7 @@
 .a.xywy.com
 .a2.b310.com
 .a2.xinhuanet.com
+.a2put.chinaz.com
 .abc.hkepc.com
 .abc.hkepc.net
 .acodes.b2b.cn
@@ -2934,10 +2936,8 @@
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
-.a2put.chinaz.com
 .immedlinkum.info
 .xayah.date
-.a1.zhanzhang.net
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3099,6 +3099,7 @@
 .a1.shusanqi.com
 .a1.sumiaowang.com
 .a1.twtym.com
+.a1.zhanzhang.net
 .a15d55423.5tps.xyz
 .a3.jandan.net
 .aa.0755rc.com
@@ -3736,10 +3737,11 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.syrstrq.cn
-.wtgongsi.com
-.pppxia.com
-.91funcy.com
+.hvie6u.cn
+.1214bdk.xyz
+.zhangshiyuan.com
+.vkpsmzj.cn
+.czlongle.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -3908,6 +3910,7 @@
 .8v61j.cn
 .8yrn.cn
 .91cy.top
+.91funcy.com
 .91jiedai.cn
 .922x7c.cn
 .958so.cn
@@ -5145,6 +5148,7 @@
 .pos68.cn
 .pougg.com
 .ppee.xyz
+.pppxia.com
 .pqezdo.cn
 .pqnlorg.cn
 .pqwtrq.xyz
@@ -5390,6 +5394,7 @@
 .symag.cn
 .symah.cn
 .syooys.com
+.syrstrq.cn
 .sysadult.cn
 .sysal.cn
 .sysycloud.com
@@ -5601,6 +5606,7 @@
 .wsvike.cn
 .wsxxu.com
 .wszzb.top
+.wtgongsi.com
 .wtnjupl.cn
 .wuwuhh.top
 .wuyanauto.com
