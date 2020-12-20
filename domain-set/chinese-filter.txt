@@ -133,7 +133,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.qdwght.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -1761,6 +1760,7 @@
 .qdchunyu.com
 .qdkzjdsb.cn
 .qdsfzz.cn
+.qdwght.com
 .qdxrhg.com
 .qevcxo.cn
 .qfihdr.com
@@ -3737,11 +3737,9 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.hvie6u.cn
-.1214bdk.xyz
-.zhangshiyuan.com
-.vkpsmzj.cn
-.czlongle.cn
+.liuzishen.com
+.ffyyfy.top
+.apmnqut.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -3781,6 +3779,7 @@
 .1115potmgabfvixqwi.top
 .114com.cc
 .118ex.cn
+.1214bdk.xyz
 .125331.top
 .12gf.gold
 .12jf3.cn
@@ -4250,6 +4249,7 @@
 .cz345.cn
 .czhcloud.cn
 .czlhgz.com
+.czlongle.cn
 .czxjx.cn
 .czzdf.com
 .d1skp.cn
@@ -4312,7 +4312,6 @@
 .dkmnn.top
 .dldsrs.com
 .dlsdkw.cn
-.dmouy.cn
 .dmpsj.cn
 .dmswhw.cn
 .dn189.com
@@ -4640,6 +4639,7 @@
 .hunpp.com
 .huodiyun.cn
 .huoyiad1.cn
+.hvie6u.cn
 .hwertd.xyz
 .hxiak.com
 .hxsjxw.cn
@@ -5537,6 +5537,7 @@
 .vjptye.cn
 .vjuer.com
 .vkjnd.com
+.vkpsmzj.cn
 .vkuay.com
 .voterlin.cn
 .vq7736.com
@@ -5852,6 +5853,7 @@
 .zgsxhx.com
 .zgwlbjy.cn
 .zhamm.cn
+.zhangshiyuan.com
 .zhanjiangletian.com
 .zhanlan5.cn
 .zhengjsmd.cn
