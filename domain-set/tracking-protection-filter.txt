@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.log002.commutil.kr
 .analy1.dtnnetwork.be
 .polarbyte.com
 .revcatch.com
