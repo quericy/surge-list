@@ -233,6 +233,7 @@
 .push.asahiinteractive.com
 .cdn.onepush.app
 .dryum.ru
+.gatecurium.com
 .spattepush.com
 .volanosier.com
 .webpushr.com

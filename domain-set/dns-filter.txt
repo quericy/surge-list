@@ -1,3 +1,7 @@
+.gramscien.xyz
+.bidio.pl
+.codeopensource.online
+.nickeeha.net
 .safeattributeexcept.com
 .son-in-lawmorbid.com
 .revenuenetworkcpm.com
@@ -613,7 +617,6 @@
 .aijiboft.com
 .psadsoob.com
 .ad.pentabox.net
-.g--o.info
 .popcent.net
 .roupsouk.com
 .itad.linetv.tw
@@ -1759,7 +1762,6 @@
 .dl5ft52dtazxd.cloudfront.net
 .d3v3bqdndm4erx.cloudfront.net
 .d11enq2rymy0yl.cloudfront.net
-.d3kblkhdtjv0tf.cloudfront.net
 .ads.farakav.com
 .rst.pornyhd.com
 .d3c3uihon9kmp.cloudfront.net
@@ -1928,20 +1930,15 @@
 .ysx8.vip
 .adblock.sina.cn
 .go.gotourls.bid
-.uerzyr.cn
 .juejdkio.com
 .ere.wew.92kkdy.cc
 .www5.oss-cn-hangzhou.aliyuncs.com
-.lulu.dian500.com.cn
-.bobo.xmwty.com
 .dota.sykty.com
 .subs.vingd.com
 .banner.mob.hr
 .rsz.sk
 .bannery.navratdoreality.cz
 .a.b.napiszar.com
-.cfs1.uzone.id
-.jor-el.net
 .pijama.*.elasticbeanstalk.com
 .zumads.vrixon.com
 .partner.pocketing.tv
@@ -3209,6 +3206,7 @@
 .barytonneras.site
 .barytonneras.website
 .baselined.club
+.basicapp.online
 .basinmodelingcolumns.com
 .basisendingabattoir.com
 .bathibsa.com
@@ -18635,6 +18633,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.herald.loginside.co.kr
+.log002.commutil.kr
 .analy1.dtnnetwork.be
 .track.customer.io
 .lcs.loginfra.com
@@ -20151,6 +20151,8 @@
 .um-public-panel-prod.s3.amazonaws.com
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
+.events.emogi.com
+.log.ohmynews.com
 .analytics2.tvreport.co.kr
 .counter.adguard.com
 .l.www.naver.com
@@ -24989,6 +24991,7 @@
 .impress.vcita.com
 .infinityid.condenastdigital.com
 .informer.yandex.ru
+.ingest.sentry.io
 .insight.mintel.com
 .insight.rapid7.com
 .insights.plista.com
@@ -33142,7 +33145,8 @@
 .sacchaeleduk.com
 .smilitygorb.club
 .ucesreferre.club
-.suning.fit
+.jiuhui878.com
+.cxgh.net
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -34568,6 +34572,7 @@
 .sufficient.cn
 .suning.beer
 .suning.design
+.suning.fit
 .superli666.top
 .suukcn.com
 .suzhoujinghui.com
@@ -36127,7 +36132,10 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.kpirog.com
+.wlaoc.cn
+.xlgtblj.cn
+.weidehuagong.com
+.sakuraquant.com
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -37233,6 +37241,7 @@
 .kofcq5.cn
 .kongssew.com
 .kpfufdh.cn
+.kpirog.com
 .ks67.com
 .ksylsh.cn
 .ktzte.cn

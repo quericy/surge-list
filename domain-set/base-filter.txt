@@ -1,3 +1,5 @@
+.gramscien.xyz
+.bidio.pl
 .codeopensource.online
 .nickeeha.net
 .safeattributeexcept.com
@@ -3399,6 +3401,7 @@
 .barytonneras.site
 .barytonneras.website
 .baselined.club
+.basicapp.online
 .basinmodelingcolumns.com
 .basisendingabattoir.com
 .bathibsa.com
