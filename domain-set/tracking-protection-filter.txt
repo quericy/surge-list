@@ -4230,6 +4230,10 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.geo.mattel163.com
+.tc-log.mattel163.com
+.events-api*.outfit7.com
+.bilanx.dcard.tw
 .events.emogi.com
 .log.ohmynews.com
 .analytics2.tvreport.co.kr
