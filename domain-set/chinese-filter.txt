@@ -133,6 +133,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.govhunan.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -3742,12 +3743,10 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.scswuliu.com
-.fyzyf.com
-.chinaxingyin.com
-.topvcbank.com
-.5glyqw.com
-.hntiantai.cn
+.hyzhongchuang.com
+.mg17i.cn
+.zgdfvih.cn
+.sogov587.top
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -3864,6 +3863,7 @@
 .555b2b.com
 .56space.com
 .5dydk.com
+.5glyqw.com
 .5hytr.xyz
 .5mbd2.com
 .5mgurg.cn
@@ -4196,6 +4196,7 @@
 .chinaqirun.cn
 .chinaweian.com
 .chinawms.cn
+.chinaxingyin.com
 .chinayutai.cn
 .chrommotor.com
 .chuzrra.cn
@@ -4451,6 +4452,7 @@
 .fy4zb.cn
 .fyehare.com
 .fyjyhm.com
+.fyzyf.com
 .fzdfwy.com
 .fzxrjx.com
 .g3ao2q.cn
@@ -4620,6 +4622,7 @@
 .hnfxty.cn
 .hnhgw.cn
 .hnkuangshan.cn
+.hntiantai.cn
 .hnwjlhg.cn
 .hnxahz.com
 .hnzyzhy.cn
@@ -5285,6 +5288,7 @@
 .sbmode.cn
 .scnaes.cn
 .scqajt.cn
+.scswuliu.com
 .scvxgm.cn
 .sdaaxz.xyz
 .sdabfw.cn
@@ -5468,6 +5472,7 @@
 .toissue.cn
 .tongbuchi.com
 .tongjiwo.com
+.topvcbank.com
 .toujing4.top
 .toujing5.top
 .toujing7.top

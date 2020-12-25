@@ -76,6 +76,7 @@
 .usercentrics.eu
 .consensu.org
 .cmp.uniconsent.com
+.clickio.mgr.consensu.org
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
 .privacy.selbst.de
@@ -144,6 +145,7 @@
 .karuna4u.com
 .pushofferpro.com
 .leechiza.net
+.rips.icu
 .push.webandname.com
 .aswpsdkeu.com
 .abcnewspro.com
