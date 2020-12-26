@@ -4230,6 +4230,8 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.check.tadapi.info
+.count.munhwa.com
 .geo.mattel163.com
 .tc-log.mattel163.com
 .events-api*.outfit7.com
