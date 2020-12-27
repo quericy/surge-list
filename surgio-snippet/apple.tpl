@@ -7,6 +7,7 @@
 USER-AGENT,*com.apple.mobileme.fmip1,DIRECT
 # Weather
 USER-AGENT,*WeatherFoundation*,DIRECT
+DOMAIN,weather-data.apple.com,DIRECT
 # Maps
 USER-AGENT,%E5%9C%B0%E5%9B%BE*,{{ location_rule }}
 # Settings
