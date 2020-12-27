@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytics.mbga.jp
 .herald.loginside.co.kr
 .log002.commutil.kr
 .analy1.dtnnetwork.be
@@ -4358,7 +4359,6 @@
 .e2e.mashable.com
 .stats-dev.brid.tv
 .videostats.kakao.com
-.stat.tiara.daum.net
 .webid.ad.daum.net
 .wt.soundestlink.com
 .pixelzirkus.gameforge.com
@@ -5757,7 +5757,6 @@
 .top-fwz1.mail.ru
 .tr.datanyze.com
 .track.dictionary.com
-.track.tiara.daum.net
 .track.tooplay.com
 .tracking.adactioninteractive.com
 .tracking.rtl.de
