@@ -133,7 +133,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.yvktmda.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -204,6 +203,7 @@
 .188xiaoba.net
 .18tzx.com
 .1999sg.com
+.19shows.net
 .1d1a.com
 .1d1px.net
 .1haosuo.com
@@ -2521,6 +2521,7 @@
 .yuu360.com
 .yuyanbaojie.cn
 .yuyue008.cn
+.yvktmda.cn
 .ywadf.cn
 .ywjxsp168.cn
 .ywxi.net
@@ -2581,6 +2582,7 @@
 .zhizones.com
 .zhjfad.com
 .zhmatou.com
+.zhongbolm.com
 .zhongdoulicai.com
 .zhongjiangguoji.org
 .zhongzk.com
@@ -3411,6 +3413,7 @@
 .js.9136.com
 .js.jianbihuadq.com
 .js.kt250.com
+.js.mscto.com
 .js.qqsort.com
 .js.ruiwen.com
 .js.shangxueba.com
@@ -3748,10 +3751,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.zhekoudajie.com
-.lejuyoujia2019.com
-.komi168.com
-.0ij3tm.com
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -3786,6 +3785,7 @@
 .0923csfsteibv12.xyz
 .0928vld.xyz
 .0fwg.cn
+.0ij3tm.com
 .1005fdh.xyz
 .104610.com
 .1115potmgabfvixqwi.top
@@ -4868,6 +4868,7 @@
 .kltent.cn
 .kmfnkj.com
 .kofcq5.cn
+.komi168.com
 .kongssew.com
 .kpfufdh.cn
 .kpirog.com
@@ -4896,6 +4897,7 @@
 .lchar.com
 .lcrmm.top
 .legozu.com
+.lejuyoujia2019.com
 .lemaite.cn
 .lerenzx.cn
 .lesanmo.top
@@ -4928,6 +4930,7 @@
 .lixudong.top
 .liyelaowu.cn
 .ljggc.com
+.ljmei.com
 .ljuer.com
 .llffaev.cn
 .llqd5.cn
@@ -5705,6 +5708,7 @@
 .xk0x.cn
 .xkanf.com
 .xkqpco.com
+.xl4z7.cn
 .xlgtblj.cn
 .xlhm88.cn
 .xm223.cn
@@ -5801,6 +5805,7 @@
 .yinzantouzi.com
 .yiqima.xyz
 .yitiaoyu.top
+.yixiangzhan.cn
 .yiyu-fz.cn
 .yiyuantian.com
 .yizhijin.cn
@@ -5898,6 +5903,7 @@
 .zhangshiyuan.com
 .zhanjiangletian.com
 .zhanlan5.cn
+.zhekoudajie.com
 .zhengjsmd.cn
 .zhengzhoupengbo.com
 .zhfyws.com
