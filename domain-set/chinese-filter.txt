@@ -1733,6 +1733,7 @@
 .pic12x20.com
 .piclick.cn
 .pingping888.com
+.pinwu123.com
 .pinyoux.com
 .pjshw.cn
 .pjtymy.cn
@@ -3297,6 +3298,7 @@
 .dm.taobaojuhuasuan.cn
 .dm.wenshenxiu.com
 .dm.zuowenku.net
+.dm1.ddwk8.cn
 .dm1.dnpz123.com
 .dm1.guanwawa.com
 .dm1.zjydt.com
@@ -4541,6 +4543,7 @@
 .guvdfs.cn
 .guxiaom.cn
 .gwdqp.com
+.gxfc2021.top
 .gxklsftz.cn
 .gxkyl.com
 .gybdtg.com
@@ -4672,6 +4675,7 @@
 .hyxca.top
 .hyyazhaji.com
 .hyzhongchuang.com
+.hzhfhkj.cn
 .hzht666.com
 .hzqzxf.com
 .hzsrjs.com
@@ -5741,6 +5745,7 @@
 .xnghmc.com
 .xnjzsn.com
 .xnzkqew.cn
+.xpxvok.cn
 .xqxx520.com
 .xrain.net
 .xsc.x81zw.com
@@ -5908,6 +5913,7 @@
 .zhengzhoupengbo.com
 .zhfyws.com
 .zhide-edu.cn
+.zhipinbook.cn
 .zhivalley.cn
 .zhixd.cn
 .zhiyaowan.cn
