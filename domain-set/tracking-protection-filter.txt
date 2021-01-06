@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.log.perfecttitspics.com
 .analytics.mbga.jp
 .herald.loginside.co.kr
 .log002.commutil.kr
@@ -5869,6 +5870,8 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.smetrics.aem.playstation.com
+.telemetry.api.playstation.com
 .trk2.pinterest.com
 .mobiletelemetry.ebay.com
 .tracker.departapp.com

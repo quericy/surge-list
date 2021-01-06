@@ -1,3 +1,7 @@
+.saguvacu.xyz
+.adcryp.to
+.bitcointraffic.ltd
+.laidauni.com
 .rapgasyogin.com
 .top-performance.best
 .anomaloustradingmerciful.com
@@ -18764,6 +18768,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.log.perfecttitspics.com
 .analytics.mbga.jp
 .herald.loginside.co.kr
 .log002.commutil.kr
@@ -21079,6 +21084,8 @@
 .register.appsflyer.com
 .events.appsflyer.com
 .track.appsflyer.com
+.smetrics.aem.playstation.com
+.telemetry.api.playstation.com
 .trk2.pinterest.com
 .mobiletelemetry.ebay.com
 .tracker.departapp.com
@@ -23015,6 +23022,7 @@
 .perfdrive.com
 .perfectaudience.com
 .perfiliate.com
+.perfops.io
 .performancerevenues.com
 .performtracking.com
 .perimeterx.net
@@ -24963,6 +24971,7 @@
 .d25ezbwokoefx6.cloudfront.net
 .d28g9g3vb08y70.cloudfront.net
 .d2as12kgjg8gw5.cloudfront.net
+.d2axgrpnciinw7.cloudfront.net
 .d2cpw6kwpff7n5.cloudfront.net
 .d2gbtcuv3w9qyv.cloudfront.net
 .d2ibu2ug0mt5qp.cloudfront.net
@@ -25049,6 +25058,7 @@
 .ecommstats.s3.amazonaws.com
 .edge.bredg.com
 .edge.sqweb.com
+.entitlement.auth.adobe.com
 .errors.snackly.co
 .event-api.contactatonce.co.uk
 .event-api.contactatonce.com.au
@@ -25491,6 +25501,7 @@
 .tc.airfrance.com
 .tcheck.outbrainimg.com
 .te.supportfreecontent.com
+.telemetrics.klaviyo.com
 .telemetry.api.wmcdp.io
 .telemetry.reembed.com
 .telemetry.soundcloud.com
@@ -25693,15 +25704,22 @@
 .7q1z79gxsi.global.ssl.fastly.net
 .clarium.global.ssl.fastly.net
 .dfapvmql-q.global.ssl.fastly.net
+.beyondsecurity.com
 .cyveillance.com
+.medals.bizrate.com
 .nsg.symantec.com
 .privacy-policy.truste.com
+.scanverify.com
+.seal.digicert.com
 .seal.godaddy.com
 .seal.networksolutions.com
+.seal.qualys.com
 .seal.verisign.com
 .secure.trust-guard.com
+.securitymetrics.com
 .shopperapproved.com
 .siteintercept.allegiancetech.com
+.verify.authorize.net
 .websecurity.norton.com
 .widget.trustpilot.com
 .widgets.trustedshops.com
@@ -36347,6 +36365,11 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.xiangyuym.cn
+.qgdvyvd.cn
+.wxebgpj.cn
+.2shol4.cn
+.1221dhb.xyz
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
