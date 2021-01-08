@@ -133,8 +133,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.mitao17.com
-.ianpos.com
+.yapusheji.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -1240,6 +1239,7 @@
 .i3z.cn
 .i8ggwm.com
 .i92xue.com
+.ianpos.com
 .icast.cn
 .icemf.com
 .icolor8.com
@@ -1590,6 +1590,7 @@
 .mingysh.com
 .minwear.com.cn
 .minyaartcrafts.cn
+.mitao17.com
 .mjx123.com
 .mkaqh.cn
 .mlt01.com
@@ -3759,8 +3760,10 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.gcctqal.cn
-.saastt.com
+.sxxfmc.com
+.shidaikejivip.cn
+.9uh94c.cn
+.ygnoqu.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4493,6 +4496,7 @@
 .gbzumh.cn
 .gc8fjz.cn
 .gcaog.com
+.gcctqal.cn
 .gdfc0563.com
 .gdlbdzkj.com
 .gdlvbiaokeji.cn
@@ -5309,6 +5313,7 @@
 .rzxlszy.vip
 .s7ww2.cn
 .s9wp1.cn
+.saastt.com
 .sachbs.club
 .sakuraquant.com
 .sanitwealth.com

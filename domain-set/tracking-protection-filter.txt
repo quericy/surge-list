@@ -4232,6 +4232,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.prod-collector.bigbasket.com
 .tracking.game8.jp
 .lcs.modoo.at
 .check.tadapi.info

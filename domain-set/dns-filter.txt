@@ -1,3 +1,9 @@
+.deligrassdull.com
+.sitefeytout.com
+.hubzozo.com
+.volthamfondue.com
+.pailridarm.com
+.didpuprat.com
 .app-department.report
 .saguvacu.xyz
 .adcryp.to
@@ -18876,7 +18882,6 @@
 .track.thevtk.com
 .track.mp3vizor.com
 .track.mp3bars.com
-.hs-scripts.com
 .parkdomainreal*.site
 .telemetry.swe.quicinc.com
 .i-*.ci360.sas.com
@@ -20288,6 +20293,7 @@
 .um-public-panel-prod.s3.amazonaws.com
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
+.prod-collector.bigbasket.com
 .tracking.game8.jp
 .lcs.modoo.at
 .check.tadapi.info
@@ -22463,6 +22469,7 @@
 .hotjar.io
 .hotlog.ru
 .hs-analytics.net
+.hs-scripts.com
 .hsadspixel.net
 .hscta.net
 .htlbid.com
@@ -26914,6 +26921,7 @@
 .browser-updater.yandex.net
 .c.bigmir.net
 .cnstats.cdev.eu
+.cnt.krasland.ru
 .cnt.logoslovo.ru
 .cnt.nov.ru
 .cnt.rambler.ru
@@ -32198,6 +32206,7 @@
 .biallo1.de
 .biallo2.de
 .biallo3.de
+.big7.com
 .bitcoinpara.de
 .blogads.de
 .blogpay.eu
@@ -33383,7 +33392,7 @@
 .sacchaeleduk.com
 .smilitygorb.club
 .ucesreferre.club
-.mitao17.com
+.yapusheji.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -34495,6 +34504,7 @@
 .mingysh.com
 .minwear.com.cn
 .minyaartcrafts.cn
+.mitao17.com
 .mjx123.com
 .mkaqh.cn
 .mlt01.com
@@ -36384,8 +36394,10 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.gcctqal.cn
-.saastt.com
+.sxxfmc.com
+.shidaikejivip.cn
+.9uh94c.cn
+.ygnoqu.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -37115,6 +37127,7 @@
 .gbzumh.cn
 .gc8fjz.cn
 .gcaog.com
+.gcctqal.cn
 .gdfc0563.com
 .gdlbdzkj.com
 .gdlvbiaokeji.cn
@@ -37926,6 +37939,7 @@
 .rzxlszy.vip
 .s7ww2.cn
 .s9wp1.cn
+.saastt.com
 .sachbs.club
 .sakuraquant.com
 .sanitwealth.com
