@@ -133,7 +133,8 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.yapusheji.com
+.7cbwus.cn
+.baitugu.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -2439,6 +2440,7 @@
 .yanglaopt.net
 .yaohq.com
 .yaoxiaoli.com
+.yapusheji.com
 .yatemy.cn
 .ycfgnau.cn
 .ychml.com
@@ -3760,10 +3762,16 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.sxxfmc.com
-.shidaikejivip.cn
-.9uh94c.cn
-.ygnoqu.cn
+.yjxqy.com
+.m06nev.com
+.zhmyq.cn
+.ql01t4.com
+.tzh019.cn
+.aoyou4.top
+.xiangyuym.cn
+.wangjulm.com
+.ahwczn.cn
+.dacedsfa.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -3949,6 +3957,7 @@
 .9d7in.cn
 .9pb0h.cn
 .9ucm.com
+.9uh94c.cn
 .9y88.com
 .a3pz36.cn
 .a7t89g4a.cn
@@ -5365,6 +5374,7 @@
 .shenyunkeji.com
 .shffcy.cn
 .shforu.com
+.shidaikejivip.cn
 .shidailw.com
 .shiguangyx.cn
 .shjrwh.cn
@@ -5440,6 +5450,7 @@
 .sxmdxy.com
 .sxmutan.com
 .sxtyhl.top
+.sxxfmc.com
 .sxying.top
 .sxzcrq.com
 .sxzzhj.com
@@ -5712,7 +5723,6 @@
 .xiandafood.cn
 .xiangchim0.com
 .xiangwangdesh.com
-.xiangyuym.cn
 .xiansenmeng.cn
 .xiaobingmai.cn
 .xiaogouzhuanqian.cn
@@ -5815,6 +5825,7 @@
 .yg10x.cn
 .ygblogtag.cn
 .ygiqfnn.cn
+.ygnoqu.cn
 .ygqczh.com
 .yicang8.com
 .yicuntian.cn
