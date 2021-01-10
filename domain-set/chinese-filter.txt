@@ -133,8 +133,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.7cbwus.cn
-.baitugu.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -393,6 +391,7 @@
 .7891655.cn
 .7a096v.cn
 .7bwan.com
+.7cbwus.cn
 .7clink.com
 .7dah8.com
 .7dlm.cn
@@ -622,6 +621,7 @@
 .baiduyubaidu.com
 .baisuijk.com
 .baitaiad.com
+.baitugu.com
 .baiyuandian.cc
 .baizhu.cc
 .bajieyy.cc
@@ -2959,6 +2959,7 @@
 .ztyumn.ifeng.com
 .immedlinkum.info
 .xayah.date
+.d.8181zx.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3762,16 +3763,8 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.yjxqy.com
-.m06nev.com
-.zhmyq.cn
-.ql01t4.com
-.tzh019.cn
-.aoyou4.top
-.xiangyuym.cn
-.wangjulm.com
-.ahwczn.cn
-.dacedsfa.cn
+.huosuniao.com
+.mohaijishu.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4005,6 +3998,7 @@
 .ahunai.cn
 .ahunui.cn
 .ahw3.com
+.ahwczn.cn
 .aibangzs.com
 .aicydb.com
 .aikan6.com
@@ -4050,6 +4044,7 @@
 .aox7.xyz
 .aoyou2.top
 .aoyou3.top
+.aoyou4.top
 .apdingqian.com
 .apjiangte.com
 .apmengxin.com
@@ -4301,6 +4296,7 @@
 .d5a5a.xyz
 .d663q.cn
 .d72l4.com
+.dacedsfa.cn
 .dachadu.cn
 .dadawm.cc
 .dailiq.cn
@@ -4991,6 +4987,7 @@
 .lzida.com
 .lzkjsj.com
 .lzytt.com
+.m06nev.com
 .mababa.info
 .mabioe.cn
 .maicaoren.cn
@@ -5260,6 +5257,7 @@
 .qjxszp.cn
 .qkptx.com
 .qkykxrm.cn
+.ql01t4.com
 .qlaot.com
 .qlssbq.cn
 .qmlcdlo.cn
@@ -5551,6 +5549,7 @@
 .tymsyx.com
 .tyrghj.cn
 .tyyjzs.cn
+.tzh019.cn
 .u05m.cn
 .u0r9.cn
 .u2c8.cn
@@ -5617,6 +5616,7 @@
 .w5wm7.cn
 .wabizc.cn
 .wagenlux.cn
+.wangjulm.com
 .wangkeduo.cn
 .wangliqin.top
 .wangqing7.top
@@ -5723,6 +5723,7 @@
 .xiandafood.cn
 .xiangchim0.com
 .xiangwangdesh.com
+.xiangyuym.cn
 .xiansenmeng.cn
 .xiaobingmai.cn
 .xiaogouzhuanqian.cn
@@ -5848,6 +5849,7 @@
 .yizhijin.cn
 .yjegf.com
 .yjiaj.com
+.yjxqy.com
 .ykanx.com
 .yknhcl.com
 .ykpbgqc.top
@@ -5949,6 +5951,7 @@
 .zhivalley.cn
 .zhixd.cn
 .zhiyaowan.cn
+.zhmyq.cn
 .zhongchengzp.com
 .zhongfujiaoyu.cn
 .zhongwangmy.cn

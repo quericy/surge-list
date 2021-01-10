@@ -18340,7 +18340,6 @@
 .adtilt.com
 .adtrack.king.com
 .adultadworld.com
-.adups.com
 .adv.mxmcdn.net
 .adversal.com
 .adverticum.net
@@ -18783,6 +18782,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.visilabs.com
 .log.perfecttitspics.com
 .analytics.mbga.jp
 .herald.loginside.co.kr
@@ -20338,7 +20338,6 @@
 .stat.videonow.ru
 .insight.bellmetric.net
 .t.afi-b.com
-.tag.cribnotes.jp
 .metrics.news.com.au
 .clientlog.midomi.com
 .t.webjavaskript.net
@@ -21026,7 +21025,6 @@
 .hrumpoc.hotels.com
 .ibeat.indiatimes.com
 .iptracker-lb-*.amazonaws.com
-.lgr.visilabs.net
 .lively-collect-elb-*.amazonaws.com
 .log-live.direct.ly
 .log.adap.tv
@@ -21045,7 +21043,6 @@
 .qlog.adap.tv
 .qnajplxtvz-a.akamaihd.net
 .r.remarketingpixel.com
-.rt.visilabs.net
 .s.frida.vse42.ru
 .saber.srvcs.tumblr.com
 .smetrics.uhc.com
@@ -21880,7 +21877,6 @@
 .christiantop1000.com
 .christmalicious.com
 .chrumedia.com
-.chtbl.com
 .cintnetworks.com
 .circular-counters.com
 .ck-cdn.com
@@ -24878,6 +24874,7 @@
 .cahf4eed.mooo.com
 .canvas-ping.conduit-data.com
 .canvas-usage-v2.conduit-data.com
+.capi.connatix.com
 .capture.condenastdigital.com
 .capture.trackjs.com
 .carl.pubsvs.com
@@ -25386,6 +25383,7 @@
 .rs.sinajs.cn
 .rss.tmgrup.com.tr
 .rt.flix360.com
+.rtg-endpoint.global.ssl.fastly.net
 .rtt.campanja.com
 .rum.azion.com
 .rum.azioncdn.net
@@ -25749,6 +25747,7 @@
 .securitymetrics.com
 .shopperapproved.com
 .siteintercept.allegiancetech.com
+.trusted-web-seal.cybertrust.ne.jp
 .verify.authorize.net
 .websecurity.norton.com
 .widget.trustpilot.com
@@ -26317,6 +26316,7 @@
 .d-markets.net
 .deteql.net
 .docodoco.jp
+.e-click.jp
 .e-kaiseki.com
 .ebis.ne.jp
 .ec-concier.com
@@ -26324,6 +26324,7 @@
 .eltex.co.jp
 .f-counter.jp
 .f-counter.net
+.fw-ad.jp
 .genieessp.jp
 .gmodmp.jp
 .gsspcln.jp
@@ -26589,6 +26590,7 @@
 .sayyac.com
 .sayyac.net
 .sitetistik.com
+.visilabs.net
 .webservis.gen.tr
 .zirve100.com
 .getaim.info
@@ -26853,6 +26855,8 @@
 .analyzer51.fc2.com
 .asumi.shinobi.jp
 .bidder.mediams.mb.softbank.jp
+.bvr.ast.snva.jp
+.cookie.sync.usonar.jp
 .imgstat.ameba.jp
 .ip2c.landscape.co.jp
 .ipcheck.blogsys.jp
@@ -26869,6 +26873,7 @@
 .t.adlpo.com
 .t.felmat.net
 .t.seesaa.net
+.tag.cribnotes.jp
 .torimochi.line-apps.com
 .track.thebase.in
 .tracker.520call.me
@@ -31640,8 +31645,6 @@
 .ukbet99.com
 .uzmanreklam.com
 .videoustu.com
-.visilabs.com
-.visilabs.net
 .winaffiliates.com
 .xpornoizlex.net
 .xyztanitim.com
@@ -33406,7 +33409,6 @@
 .ucesreferre.club
 .h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 .m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
-.7cbwus.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -33581,6 +33583,7 @@
 .77power.com
 .7891655.cn
 .7a096v.cn
+.7cbwus.cn
 .7dah8.com
 .7gg.cc
 .7jiajiao.com
@@ -35661,6 +35664,7 @@
 .ztyumn.ifeng.com
 .immedlinkum.info
 .xayah.date
+.d.8181zx.com
 .003store.com
 .1.01fy.cn
 .1.1010pic.com
@@ -36409,16 +36413,8 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.yjxqy.com
-.m06nev.com
-.zhmyq.cn
-.ql01t4.com
-.tzh019.cn
-.aoyou4.top
-.xiangyuym.cn
-.wangjulm.com
-.ahwczn.cn
-.dacedsfa.cn
+.huosuniao.com
+.mohaijishu.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -36650,6 +36646,7 @@
 .ahunai.cn
 .ahunui.cn
 .ahw3.com
+.ahwczn.cn
 .aibangzs.com
 .aicydb.com
 .aikan6.com
@@ -36695,6 +36692,7 @@
 .aox7.xyz
 .aoyou2.top
 .aoyou3.top
+.aoyou4.top
 .apdingqian.com
 .apjiangte.com
 .apmengxin.com
@@ -36945,6 +36943,7 @@
 .d5a5a.xyz
 .d663q.cn
 .d72l4.com
+.dacedsfa.cn
 .dachadu.cn
 .dadawm.cc
 .dailiq.cn
@@ -37632,6 +37631,7 @@
 .lzida.com
 .lzkjsj.com
 .lzytt.com
+.m06nev.com
 .mababa.info
 .mabioe.cn
 .maicaoren.cn
@@ -37899,6 +37899,7 @@
 .qjxszp.cn
 .qkptx.com
 .qkykxrm.cn
+.ql01t4.com
 .qlaot.com
 .qlssbq.cn
 .qmlcdlo.cn
@@ -38189,6 +38190,7 @@
 .tymsyx.com
 .tyrghj.cn
 .tyyjzs.cn
+.tzh019.cn
 .u05m.cn
 .u0r9.cn
 .u2c8.cn
@@ -38255,6 +38257,7 @@
 .w5wm7.cn
 .wabizc.cn
 .wagenlux.cn
+.wangjulm.com
 .wangkeduo.cn
 .wangliqin.top
 .wangqing7.top
@@ -38360,6 +38363,7 @@
 .xiandafood.cn
 .xiangchim0.com
 .xiangwangdesh.com
+.xiangyuym.cn
 .xiansenmeng.cn
 .xiaobingmai.cn
 .xiaogouzhuanqian.cn
@@ -38483,6 +38487,7 @@
 .yizhijin.cn
 .yjegf.com
 .yjiaj.com
+.yjxqy.com
 .ykanx.com
 .yknhcl.com
 .ykpbgqc.top
@@ -38584,6 +38589,7 @@
 .zhivalley.cn
 .zhixd.cn
 .zhiyaowan.cn
+.zhmyq.cn
 .zhongchengzp.com
 .zhongfujiaoyu.cn
 .zhongwangmy.cn

@@ -3,6 +3,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.visilabs.com
+.visilabs.net
 .log.perfecttitspics.com
 .analytics.mbga.jp
 .herald.loginside.co.kr
@@ -403,7 +405,6 @@
 .s.clicktex.ru
 .hitme.pw
 .tracking.lqm.io
-.visilabs.net
 .app.shoptarget.com.br
 .netdeal.com.br
 .ibclick.stream
@@ -2966,7 +2967,6 @@
 .visadd.com
 .visibility-stats.com
 .visibli.com
-.visilabs.com
 .visioncriticalpanels.com
 .visistat.com
 .visit.webhosting.yahoo.com
@@ -5713,7 +5713,6 @@
 .l.ooyala.com
 .l.player.ooyala.com
 .l.sharethis.com
-.lgr.visilabs.net
 .lively-collect-elb-*.amazonaws.com
 .log-live.direct.ly
 .log.adap.tv
@@ -5739,7 +5738,6 @@
 .qnajplxtvz-a.akamaihd.net
 .r.remarketingpixel.com
 .recs.atgsvcs.com
-.rt.visilabs.net
 .s.frida.vse42.ru
 .saber.srvcs.tumblr.com
 .segments.adap.tv
