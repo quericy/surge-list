@@ -133,6 +133,8 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.yzbqz.com
+.tlmybj.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -2959,7 +2961,6 @@
 .ztyumn.ifeng.com
 .immedlinkum.info
 .xayah.date
-.d.8181zx.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3264,6 +3265,7 @@
 .cxy88.friok.com
 .d*.ruiwen.com
 .d*.xinshipu.com
+.d.8181zx.com
 .d.ab126.com
 .d.dgzj.com
 .d.ziyuanm.com
@@ -3763,8 +3765,8 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.huosuniao.com
-.mohaijishu.cn
+.qysyyg.com
+.erkesi.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4682,6 +4684,7 @@
 .huixingcheng.cn
 .hunpp.com
 .huodiyun.cn
+.huosuniao.com
 .huoyiad1.cn
 .hvie6u.cn
 .hwertd.xyz
@@ -5038,6 +5041,7 @@
 .mmszxc.top
 .mmwdwg.cn
 .mnptinibfbv.com
+.mohaijishu.cn
 .monimoni.top
 .moolkv.cn
 .morningpiggy.com

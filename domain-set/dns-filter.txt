@@ -1,3 +1,5 @@
+.resumersvo.fun
+.yiatelychur.top
 .blastcahs.com
 .deligrassdull.com
 .sitefeytout.com
@@ -1778,8 +1780,8 @@
 .ads.roku.com
 .dc5k8fg5ioc8s.cloudfront.net
 .direct.apus.tech
-.searchad-phinf.pstatic.net
 .d1r90st78epsag.cloudfront.net
+.searchad-phinf.pstatic.net
 .d31mxuhvwrofft.cloudfront.net
 .d3d52lhoy0sh2w.cloudfront.net
 .d2oa97wrxvxm7y.cloudfront.net
@@ -15327,6 +15329,7 @@
 .justrelevant.com
 .jwplayer.space
 .kaishist.top
+.kaiu-marketing.com
 .kanoodle.com
 .kantarmedia.com
 .kargo.com
@@ -24874,7 +24877,6 @@
 .cahf4eed.mooo.com
 .canvas-ping.conduit-data.com
 .canvas-usage-v2.conduit-data.com
-.capi.connatix.com
 .capture.condenastdigital.com
 .capture.trackjs.com
 .carl.pubsvs.com
@@ -25539,6 +25541,7 @@
 .tl.tradetracker.net
 .tm.tradetracker.net
 .tm.vendemore.com
+.to.getnitropack.com
 .top-fwz1.mail.ru
 .tpx.tesseradigital.com
 .tr.cloud-media.fr
@@ -25739,6 +25742,7 @@
 .privacy-policy.truste.com
 .scanverify.com
 .seal.digicert.com
+.seal.globalsign.com
 .seal.godaddy.com
 .seal.networksolutions.com
 .seal.qualys.com
@@ -26304,10 +26308,13 @@
 .whoseesyou.com
 .wstatslive.com
 .admatrix.jp
+.adplan7.com
 .adpon.jp
 .af-z.jp
 .aid-ad.jp
 .analyticsip.net
+.ar-x.site
+.aspservice.jp
 .bigmining.com
 .blogranking.net
 .cetlog.jp
@@ -26324,6 +26331,7 @@
 .eltex.co.jp
 .f-counter.jp
 .f-counter.net
+.fspark-ap.com
 .fw-ad.jp
 .genieessp.jp
 .gmodmp.jp
@@ -26338,16 +26346,19 @@
 .kir.jp
 .letro.jp
 .mobylog.jp
+.moshimo.com
 .msgs.jp
 .nex8.net
 .omiki.com
 .owldata.com
 .pagoda56.com
 .pdmp.jp
+.performancefirst.jp
 .polymorphicads.jp
 .quant.jp
 .rays-counter.com
 .research-artisan.com
+.segs.jp
 .sibulla.com
 .smart-counter.net
 .speee-ad.jp
@@ -26856,6 +26867,7 @@
 .asumi.shinobi.jp
 .bidder.mediams.mb.softbank.jp
 .bvr.ast.snva.jp
+.bvr.snva.jp
 .cookie.sync.usonar.jp
 .imgstat.ameba.jp
 .ip2c.landscape.co.jp
@@ -26867,6 +26879,7 @@
 .log.nordot.jp
 .log000.goo.ne.jp
 .omt.shinobi.jp
+.ranking.apis.sankei-digital.co.jp
 .rcm.shinobi.jp
 .sstats.mora.jp
 .sync.shinobi.jp
@@ -26875,6 +26888,7 @@
 .t.seesaa.net
 .tag.cribnotes.jp
 .torimochi.line-apps.com
+.tr.reco.combz.jp
 .track.thebase.in
 .tracker.520call.me
 .userdive.com
@@ -33409,6 +33423,8 @@
 .ucesreferre.club
 .h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 .m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
+.yzbqz.com
+.tlmybj.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -35664,7 +35680,6 @@
 .ztyumn.ifeng.com
 .immedlinkum.info
 .xayah.date
-.d.8181zx.com
 .003store.com
 .1.01fy.cn
 .1.1010pic.com
@@ -35957,6 +35972,7 @@
 .cxy88.friok.com
 .d*.ruiwen.com
 .d*.xinshipu.com
+.d.8181zx.com
 .d.ab126.com
 .d.dgzj.com
 .d.ziyuanm.com
@@ -36413,8 +36429,8 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.huosuniao.com
-.mohaijishu.cn
+.qysyyg.com
+.erkesi.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -37329,6 +37345,7 @@
 .huixingcheng.cn
 .hunpp.com
 .huodiyun.cn
+.huosuniao.com
 .huoyiad1.cn
 .hvie6u.cn
 .hwertd.xyz
@@ -37681,6 +37698,7 @@
 .mmszxc.top
 .mmwdwg.cn
 .mnptinibfbv.com
+.mohaijishu.cn
 .monimoni.top
 .moolkv.cn
 .morningpiggy.com
