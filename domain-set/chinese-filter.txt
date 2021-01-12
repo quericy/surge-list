@@ -133,8 +133,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.yzbqz.com
-.tlmybj.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -2082,6 +2080,7 @@
 .tjwmtrw.cn
 .tjys88.com
 .tkd777.cn
+.tlmybj.cn
 .tnarzc.com
 .tngmn.com
 .togo666.com
@@ -2547,6 +2546,7 @@
 .yyy6999.com
 .yyylg.cn
 .yzaosite.com
+.yzbqz.com
 .yzh360.com
 .yzwr588.com
 .yzxls.com
@@ -3765,8 +3765,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.qysyyg.com
-.erkesi.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4405,6 +4403,7 @@
 .enq5ur.cn
 .epanr.com
 .epcqyac.cn
+.erkesi.cn
 .erocw.com
 .esuzm.cn
 .esyzdb.com
@@ -5279,6 +5278,7 @@
 .qwesgwg.cn
 .qxyu.top
 .qyhwqie.cn
+.qysyyg.com
 .qyttl.cn
 .qzbxfs.com
 .qzdag.com
@@ -6051,6 +6051,11 @@
 .sa669.com
 .xdh0808.com
 .yunsennet.com
+.3337735.com
+.3337736.com
+.3337780.com
+.alime-pic.oss-cn-hangzhou.aliyuncs.com
+.dietfd.com
 .69lm.com.cn
 .qhdfxkj.com
 .qyqc4s.com
