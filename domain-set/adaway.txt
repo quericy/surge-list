@@ -3654,7 +3654,6 @@
 .mtrcss.com
 .api.muneris.io
 .adv.mxmcdn.net
-.s.mxmcdn.net
 .mxpnl.com
 .mxtads.com
 .tracker-api.my.com
