@@ -133,8 +133,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.govjiangsu.cn
-.govbeijing.cn
+.iwwacgx.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -1070,8 +1069,10 @@
 .gouhei.top
 .gouweida.cn
 .gouzhibao.cn
+.govbeijing.cn
 .govgift.com
 .govhunan.cn
+.govjiangsu.cn
 .gowin01.com
 .gowinxp.com
 .gqswg.com
@@ -3767,7 +3768,10 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.gongxifacai21.top
+.9weg7b.com
+.iibahmd.cn
+.daylskg.cn
+.weinin99.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4538,6 +4542,7 @@
 .gnncc.cc
 .gobali.cn
 .gongfanglong.cn
+.gongxifacai21.top
 .goodkee.cn
 .goodwold.top
 .googlespider1.cn
