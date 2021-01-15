@@ -5307,7 +5307,6 @@
 .analytics.valuepotion.com
 .vamaker.com
 .varravgames.com
-.vcdn.biz
 .admicro1.vcmedia.vn
 .ads.vcnc.co.kr
 .tracking.vcommission.com

@@ -5,6 +5,11 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.livetracker.rfe.pangea-cms.com
+.trackerhqu.com
+.rum*.cdnvideo.ru
+.rum*.a.trbcdn.net
+.kiynew.com
 .tracker.metricool.com
 .stats.myangular.life
 .counter.daara.kr
@@ -16,6 +21,7 @@
 .herald.loginside.co.kr
 .log002.commutil.kr
 .analy1.dtnnetwork.be
+.cerdmann.com
 .polarbyte.com
 .revcatch.com
 .revprotect.com
@@ -4238,6 +4244,10 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.analytics.move.ru
+.telegraf.detmir-stats.ru
+.track.tproger.ru
+.stats.travelask.ru
 .x.babe.today
 .prod-collector.bigbasket.com
 .tracking.game8.jp
@@ -5884,6 +5894,8 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.tracking-receiver.prod-general.stocard-backend.com
+.metrics.happycolor.app
 .digianalytics.airtel.in
 .ad-creative.projectcarmen.com
 .analytics.projectcarmen.com
