@@ -39,6 +39,7 @@
 .puffypull.com
 .copperchickens.com
 .ttauri.toptenreviews.com
+.traceprof.com
 .cookihq.com
 .cookiepro.com
 .choices.consentframework.com
@@ -577,6 +578,7 @@
 .widgets.opinary.com
 .app.mycountrytalks.org
 .insticator.com
+.cdn-chat.grattis.ru
 .widget.replain.cc
 .cdn.qform24.com
 .widget.feedot-lawyer.ru

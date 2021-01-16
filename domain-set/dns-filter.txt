@@ -10514,6 +10514,7 @@
 .shikroux.net
 .shinasi.info
 .shinebliss.com
+.shingleintelligenceurge.com
 .shinyspiesyou.com
 .shionmanc.club
 .shiptoud.com
@@ -18811,6 +18812,11 @@
 .xlog.snssdk.com
 .log.snssdk.com
 .visilabs.com
+.traceprof.com
+.livetracker.rfe.pangea-cms.com
+.trackerhqu.com
+.rum*.cdnvideo.ru
+.rum*.a.trbcdn.net
 .kiynew.com
 .tracker.metricool.com
 .stats.myangular.life
@@ -20334,6 +20340,9 @@
 .um-public-panel-prod.s3.amazonaws.com
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
+.analytics.move.ru
+.telegraf.detmir-stats.ru
+.track.tproger.ru
 .stats.travelask.ru
 .x.babe.today
 .prod-collector.bigbasket.com
@@ -20344,7 +20353,6 @@
 .geo.mattel163.com
 .tc-log.mattel163.com
 .events-api*.outfit7.com
-.bilanx.dcard.tw
 .events.emogi.com
 .log.ohmynews.com
 .analytics2.tvreport.co.kr
@@ -21140,6 +21148,7 @@
 .register.appsflyer.com
 .events.appsflyer.com
 .track.appsflyer.com
+.tracking-receiver.prod-general.stocard-backend.com
 .metrics.happycolor.app
 .digianalytics.airtel.in
 .ad-creative.projectcarmen.com
@@ -24703,6 +24712,7 @@
 .sweetslope.com
 .tangibleteam.com
 .tawdryson.com
+.teenytinycellar.com
 .tendertest.com
 .thirdrespect.com
 .thirstytwig.com
@@ -27233,6 +27243,7 @@
 .alboist7crphfrg.ru
 .boostingads.com
 .prod.html5-ads.vk-apps.com
+.bhghfsa.info
 .3kbktygzr5.ru
 .betemolgar.com
 .mp3dance.today
@@ -32939,6 +32950,7 @@
 .fuseplatform.net
 .gammaplatform.com
 .gammassp.com
+.haravan.com
 .hbplatform.com
 .hotngay.vn
 .itim.vn
@@ -33002,6 +33014,7 @@
 .smartconvert.co
 .sourcetobin.com
 .sporttv.today
+.starseed.fr
 .static-ads.zaloapp.com
 .stats.zaloapp.com
 .subiz-cdn.com
@@ -33217,6 +33230,7 @@
 .analytics.sohatv.vn
 .analytics.thethao247.org
 .analytics.tiki.vn
+.analytics.tintuc.vn
 .analytics.viblo.asia
 .analytics.videocloud.top
 .analytics.vietnamfinance.vn
@@ -33284,6 +33298,7 @@
 .logscafef.channelvn.net
 .newlog.daidoanket.vn
 .nstat.headlines.pw
+.partner.accesstrade.vn
 .report.vnay.vn
 .s.baomoi.xdn.vn
 .s.kenh14.vn
@@ -33342,6 +33357,7 @@
 .widget.sbz.vn
 .widget.subiz.net
 .widget.subiz.xyz
+.widgetv4.subiz.com
 .11bet.com
 .11bet.net
 .11bet.win
@@ -33510,8 +33526,9 @@
 .ucesreferre.club
 .h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 .m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
-.wdxxx.top
-.0b2qv7.cn
+.wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
+.fangniaowang.net
+.ue2bm3.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -33535,6 +33552,7 @@
 .0798ls.com
 .080644.com
 .0937jyg.com
+.0b2qv7.cn
 .0bc.top
 .0mr.cc
 .0qkc.cn
@@ -35107,6 +35125,7 @@
 .watchsk.com
 .waterserver.cn
 .wcnmd.top
+.wdxxx.top
 .wdymwzz.com
 .wdzsb.com.cn
 .webabcd.com
@@ -36521,9 +36540,13 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.xinheshengmce.com
-.zoujuhonglawyer.com
-.cxmob.net
+.buyuninfo.com
+.hnyoufan.com
+.g1mm3d.cn
+.liulu888.com
+.dnfkong.com
+.yanyanbiji.com
+.zln44.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -37037,6 +37060,7 @@
 .cwj2h.cn
 .cxb4.cn
 .cxcxt.com
+.cxmob.net
 .cxslchkb.cn
 .cyboke.cn
 .cyto-biotherapy.com
@@ -38491,6 +38515,7 @@
 .xingpingmaoyi.cn
 .xingsky.cn
 .xingtai0.com
+.xinheshengmce.com
 .xinqiannv.com
 .xintaizhaoming.com
 .xinuocp666.com
@@ -38740,6 +38765,7 @@
 .zoepb.cn
 .zopeynxv.top
 .zougg.com
+.zoujuhonglawyer.com
 .zp0737.com
 .zpyfsj.cn
 .zqwlkj.cn

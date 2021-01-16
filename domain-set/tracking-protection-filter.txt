@@ -5,6 +5,7 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.traceprof.com
 .livetracker.rfe.pangea-cms.com
 .trackerhqu.com
 .rum*.cdnvideo.ru
@@ -4257,7 +4258,6 @@
 .geo.mattel163.com
 .tc-log.mattel163.com
 .events-api*.outfit7.com
-.bilanx.dcard.tw
 .events.emogi.com
 .log.ohmynews.com
 .analytics2.tvreport.co.kr
