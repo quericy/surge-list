@@ -133,8 +133,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.fangniaowang.net
-.ue2bm3.cn
+.xuanmin.wang
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -972,6 +971,7 @@
 .facebookma.cn
 .fadama.com
 .family-joy.com
+.fangniaowang.net
 .fanli.in
 .farm-cn.plista.com
 .fastable.com
@@ -2142,6 +2142,7 @@
 .ucstatic.cn
 .uctrac.com
 .ucxgg.com
+.ue2bm3.cn
 .ueadlian.com
 .ufstone.com
 .ugg66.com
@@ -3772,13 +3773,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.buyuninfo.com
-.hnyoufan.com
-.g1mm3d.cn
-.liulu888.com
-.dnfkong.com
-.yanyanbiji.com
-.zln44.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4179,6 +4173,7 @@
 .bugcreator.cn
 .bulankk.com
 .bulkeach.com
+.buyuninfo.com
 .bvoer.com
 .bvosv.com
 .bx9000.top
@@ -4370,6 +4365,7 @@
 .dmpsj.cn
 .dmswhw.cn
 .dn189.com
+.dnfkong.com
 .dodomo.info
 .doryhome.com
 .downcdn.top
@@ -4502,6 +4498,7 @@
 .fyzyf.com
 .fzdfwy.com
 .fzxrjx.com
+.g1mm3d.cn
 .g3ao2q.cn
 .g4rre.xyz
 .g8waw1.cn
@@ -4675,6 +4672,7 @@
 .hntiantai.cn
 .hnwjlhg.cn
 .hnxahz.com
+.hnyoufan.com
 .hnzyzhy.cn
 .hogyp.com
 .hondajd.cn
@@ -4970,6 +4968,7 @@
 .listenother.com
 .liufang1994.top
 .liujiaqi.top
+.liulu888.com
 .liuzishen.com
 .lixianze.top
 .lixudong.top
@@ -5833,6 +5832,7 @@
 .yangzhenpeng.top
 .yanjunbo.com
 .yantairuide.com
+.yanyanbiji.com
 .yaodianzhineng.cn
 .yaoquanshumeiyu.com
 .yauwsd.cn
@@ -6004,6 +6004,7 @@
 .zkwsdf.com
 .zlauk.cn
 .zlfhe8.cn
+.zln44.cn
 .zmlfk.com
 .zmyuer.com
 .zoepb.cn
