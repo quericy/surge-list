@@ -358,7 +358,6 @@
 .stat.livesportbar.net
 .analytics.datahc.com
 .collect.blishtech.co
-.s99i.org
 .g.vev.io
 .rob.megaopen.ru
 .srv.dc-1.net
@@ -4245,6 +4244,9 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.sstats.adobe.com
+.ma.news.naver.com
+.l.msdl.naver.com
 .analytics.move.ru
 .telegraf.detmir-stats.ru
 .track.tproger.ru

@@ -1,3 +1,7 @@
+.nicksstevmark.com
+.wcwcads.net
+.crisistuesdayartillery.com
+.avkyu1tesnwy.com
 .mxuiso.com
 .runnersgunpowder.com
 .livezombymil.com
@@ -199,7 +203,6 @@
 .protawe.com
 .awprt.com
 .overkirliaan.com
-.chatintr.com
 .delivery.fabrouter.com
 .rdr.wargaming.net
 .ppcmate.com
@@ -1759,7 +1762,6 @@
 .d7dza8s7j2am6.cloudfront.net
 .adilk.ilikecomix.com
 .a.letsjerk.to
-.d2j042cj1421wi.cloudfront.net
 .d3ithbwcmjcxl7.cloudfront.net
 .rek.www.wp.pl
 .centent.streamp1ay.cc
@@ -1784,9 +1786,7 @@
 .ddvfoj5yrl2oi.cloudfront.net
 .concertads-configs.vox-cdn.com
 .ads.roku.com
-.dc5k8fg5ioc8s.cloudfront.net
 .direct.apus.tech
-.d1r90st78epsag.cloudfront.net
 .searchad-phinf.pstatic.net
 .d31mxuhvwrofft.cloudfront.net
 .d3d52lhoy0sh2w.cloudfront.net
@@ -3833,6 +3833,7 @@
 .chargingsensationmetropolitan.com
 .charmour.club
 .chasteminihaunting.com
+.chatintegrationastonishing.com
 .chauksoa.net
 .chdaismlykqep.com
 .check-now.online
@@ -4342,6 +4343,7 @@
 .delayedtemporarilybakery.com
 .deliberateporridge.com
 .delightfulold.com
+.deline-sunction.com
 .deliverymodo.com
 .deloplen.com
 .deludesobbingdeliberately.com
@@ -5212,6 +5214,7 @@
 .f35c5dba3b0b5b017.com
 .f35ec1cf813.com
 .f3a2dc11dfb33.com
+.f3rs4np1c5.site
 .f40f89d54b8.com
 .f45ff72fec5426ae.com
 .f47cecd3f0a29874f.com
@@ -14316,7 +14319,6 @@
 .clickable.com
 .clickad.pl
 .clickadilla.com
-.clickagy.com
 .clickbet88.com
 .clickbooth.com
 .clickboothlnk.com
@@ -16548,6 +16550,7 @@
 .s2block.com
 .s2blosh.com
 .s2d6.com
+.s99i.org
 .sa.entireweb.com
 .sadsimz.com
 .sadsipz.com
@@ -17008,7 +17011,6 @@
 .trafficbarads.com
 .trafficbee.com
 .trafficbroker.com
-.trafficfabrik.com
 .trafficfactory.biz
 .trafficforce.com
 .trafficformoney.com
@@ -19003,7 +19005,6 @@
 .trafficscanner.pl
 .stat.livesportbar.net
 .collect.blishtech.co
-.s99i.org
 .g.vev.io
 .rob.megaopen.ru
 .srv.dc-1.net
@@ -20342,6 +20343,9 @@
 .um-public-panel-prod.s3.amazonaws.com
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
+.sstats.adobe.com
+.ma.news.naver.com
+.l.msdl.naver.com
 .analytics.move.ru
 .telegraf.detmir-stats.ru
 .track.tproger.ru
@@ -24863,6 +24867,7 @@
 .analytics.ziftsolutions.com
 .analyticsengine.s3.amazonaws.com
 .analyze.full-marke.com
+.aorta.clickagy.com
 .ape-tagit.timeinc.net
 .api.wipmania.com
 .argos.citruserve.com
@@ -25579,6 +25584,7 @@
 .tag.sonymusic.com
 .tagger.opecloud.com
 .tags.cdn.circlesix.co
+.tags.clickagy.com
 .tags.creativille.co.uk
 .tags.master-perf-tools.com
 .tags.newscgp.com
@@ -27240,6 +27246,9 @@
 .xclk-integracion.com
 .yestorrents.org
 .zebestof.com
+.dtashjvcjswq.info
+.sm-ini2.com
+.node.sm-dafa.com
 .7nkbwdf1uq.ru
 .33a89nw03k.ru
 .biocdn.net
@@ -32220,6 +32229,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.4adtf.com.
 .4adtf.com
 .4rm.de
 .a3h.de
@@ -32300,6 +32310,7 @@
 .bannerchange.net
 .bannerheld.de
 .bauernative.com
+.bb2022.info
 .biallo1.de
 .biallo2.de
 .biallo3.de
@@ -32312,6 +32323,7 @@
 .bwads24.com
 .c-points.de
 .cashdorado.de
+.chatintr.com
 .ci-marketing.de
 .codes.wai.it
 .comads.de
@@ -32321,6 +32333,7 @@
 .cowana-adserver.de
 .cuiron.de
 .cussixia.de
+.data-analyst.biz
 .data-slimspots.com
 .de-ads.de
 .def-platform.com
@@ -32480,6 +32493,7 @@
 .topiaserv.net
 .trabro.com
 .tracknet.twyn.com
+.trafficfabrik.com
 .trafficlayer.de
 .traffictrack.de
 .transmatico.com
@@ -32510,6 +32524,7 @@
 .wz-werbewelt.de
 .xaded.de
 .xiji.de
+.xtreff69.com
 .yoomedia.de
 .youads.de
 .z0a.de
@@ -33533,9 +33548,6 @@
 .h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 .m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 .wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
-.3337781.com
-.jehudf.com
-.cnnywz.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -33622,6 +33634,7 @@
 .2polj.top
 .2zfzly.com
 .31365y.com
+.3337781.com
 .333dm.com
 .338336.com
 .3400.org
@@ -33984,6 +33997,7 @@
 .cnfanglei.com
 .cnhbxx.com
 .cnkok.com
+.cnnywz.cn
 .cnpinzhuo.com
 .cnsayo.com
 .cnscdj.com
@@ -34415,6 +34429,7 @@
 .jcelyj.com
 .jczzjx.com
 .jdlhg.com
+.jehudf.com
 .jfjsp.com
 .jfqkj.com
 .jgchq.com
@@ -36550,7 +36565,11 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.ouhwjdv.cn
+.199zw.com
+.yangtzeev.com
+.lq0s3c.cn
+.huitiankuaiji.com
+.peiliao-china.com
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -37949,6 +37968,7 @@
 .osidf.xyz
 .osndy.com
 .osvp2.cn
+.ouhwjdv.cn
 .oulvtrip.com
 .ow*.biqugego.com
 .ox11.com
