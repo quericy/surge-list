@@ -7,6 +7,12 @@ DOMAIN,velo.helpshift.com
 # > HSBC
 DOMAIN-SUFFIX,hsbc.com.hk
 
+# > Stock
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,longbridge.global
+DOMAIN-SUFFIX,lbkrs.com
+
 # > Other
 DOMAIN,ip.bjango.com
 DOMAIN,ip.istatmenus.app
