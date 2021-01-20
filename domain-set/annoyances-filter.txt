@@ -1,5 +1,7 @@
 .ext-stat.ru
 .mystatext.ru
+.cdn.convertbox.com
+.app.conversiobot.com
 .sdk.getsitekit.com
 .web.webformscr.com
 .engine.findaphd.com
@@ -451,6 +453,8 @@
 .salesmanago.com
 .leefmylife.info
 .wp.24smi.org
+.burstinious.com
+.motazeever.com
 .pp.teksty-pesenok.ru
 .gu7socdn.txxx.com
 .cdn.pushowl.com
