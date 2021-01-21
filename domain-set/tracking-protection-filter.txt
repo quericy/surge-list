@@ -4244,6 +4244,10 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.e-stat.huya.com
+.statwup.huya.com
+.metric.huya.com
+.tms.dmp.wi-fi.ru
 .sstats.adobe.com
 .ma.news.naver.com
 .l.msdl.naver.com
