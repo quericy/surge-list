@@ -5,6 +5,7 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.jtracking.lulusoft.com
 .traceprof.com
 .livetracker.rfe.pangea-cms.com
 .trackerhqu.com
@@ -2832,7 +2833,6 @@
 .trace-2000.com
 .trace.events
 .tracelytics.com
-.tracemyip.org
 .tracer.jp
 .tracetracking.net
 .traceworks.com
@@ -4244,6 +4244,8 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.tracker.arc.io
+.prx.wayfair.com
 .e-stat.huya.com
 .statwup.huya.com
 .metric.huya.com
