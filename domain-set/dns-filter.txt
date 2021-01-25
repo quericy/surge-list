@@ -23093,6 +23093,7 @@
 .optimix.asia
 .optimizelydata.com
 .optimost.com
+.optimove.net
 .optin-machine.com
 .optorb.com
 .oracleinfinity.io
@@ -23191,6 +23192,7 @@
 .pntrs.com
 .podfdch.com
 .pointillist.com
+.pointmediatracker.com
 .pointomatic.com
 .polarbyte.com
 .polarcdn-pentos.com
@@ -25588,6 +25590,7 @@
 .systemmonitoring.badgeville.com
 .t-staging.powerreviews.com
 .t.a3cloud.net
+.t.auditedmedia.org.au
 .t.beop.io
 .t.beopinion.com
 .t.bimvid.com
@@ -33592,7 +33595,7 @@
 .h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 .m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 .wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
-.metro114.com
+.braincf.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -34704,6 +34707,7 @@
 .menghuanzs.com
 .mengyuanwei.com
 .metmt.com
+.metro114.com
 .mfcvxw.cn
 .mgtv-bbqn.oss-cn-beijing.aliyuncs.com
 .mgwcn.com
@@ -36611,11 +36615,8 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.meishi0554.com
-.quxiandu.com
-.nancyface.com
-.8yauhcv.cn
-.yfygs.cn
+.cnrok169.com
+.jiedaibao120.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -36787,6 +36788,7 @@
 .8j24h.cn
 .8mlb.cn
 .8v61j.cn
+.8yauhcv.cn
 .8yrn.cn
 .91cy.top
 .91funcy.com
@@ -37877,6 +37879,7 @@
 .me0715.top
 .medprofile.cn
 .mei181.com
+.meishi0554.com
 .meizhuli365.cn
 .mendoc.cn
 .mengpr.com
@@ -37939,6 +37942,7 @@
 .nabeghlavi.com.cn
 .nainaimi.top
 .najingyi.cn
+.nancyface.com
 .nanjinglongyu.com
 .nanyangqiaoxiang.cn
 .naolifanghealth.com
@@ -38143,6 +38147,7 @@
 .quanjiapp.cn
 .qucco.cn
 .quipin.cn
+.quxiandu.com
 .quyejianzhan.tech
 .qwesgwg.cn
 .qxyu.top
@@ -38698,6 +38703,7 @@
 .ydziox.cn
 .yfubi.com
 .yfxixi.com
+.yfygs.cn
 .yfyoyo.com
 .yg10x.cn
 .ygblogtag.cn
