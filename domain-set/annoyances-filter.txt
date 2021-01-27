@@ -41,6 +41,7 @@
 .puffypull.com
 .copperchickens.com
 .ttauri.toptenreviews.com
+.goadopt.io
 .traceprof.com
 .cookihq.com
 .cookiepro.com

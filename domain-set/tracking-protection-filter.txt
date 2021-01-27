@@ -5,6 +5,8 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.tag.goadopt.io
+.tag.hariken.co
 .tracker.cauly.co.kr
 .tk.mediacategory.com
 .jscdn.appier.net
@@ -258,7 +260,6 @@
 .sys.refocus.ru
 .center.io
 .apn.c.appier.net
-.d1gwclp1pmzk26.cloudfront.net
 .stats2.agilecrm.com
 .doorbrazil.com
 .dmzls.safe-installation.com
@@ -421,7 +422,7 @@
 .app.shoptarget.com.br
 .netdeal.com.br
 .ibclick.stream
-.denakop.com
+.v*.denakop.com
 .trv.upperbooking.com
 .trl.upperbooking.com
 .getback.ch
@@ -456,6 +457,7 @@
 .stats.coronalabs.com
 .track.special-offers.online
 .crm-analytics.imweb.ru
+.crm.agency
 .i.clean.gg
 .xl-trk.com
 .nxcount.com
@@ -721,6 +723,7 @@
 .advanced-web-analytics.com
 .advconversion.com
 .adyapper.com
+.adagency.digital
 .afairweb.com
 .affilae.com
 .affiliateedge.eu
@@ -4069,6 +4072,12 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.l.typesquare.com
+.estat.zum.com
+.statweb.egloos.com
+.analytics.tio.ch
+.d335luupugsy2.cloudfront.net
+.d1gwclp1pmzk26.cloudfront.net
 .tracking.bonnier.news
 .jtp.expressen.se
 .tracker.arc.io
