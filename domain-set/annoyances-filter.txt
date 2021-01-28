@@ -1,5 +1,6 @@
 .ext-stat.ru
 .mystatext.ru
+.app.mailjet.com
 .cdn.convertbox.com
 .app.conversiobot.com
 .sdk.getsitekit.com
@@ -41,6 +42,7 @@
 .puffypull.com
 .copperchickens.com
 .ttauri.toptenreviews.com
+.goadopt.io
 .traceprof.com
 .cookihq.com
 .cookiepro.com
@@ -149,6 +151,7 @@
 .karuna4u.com
 .pushofferpro.com
 .leechiza.net
+.colamirus.com
 .trynews.me
 .push.webandname.com
 .aswpsdkeu.com
@@ -455,6 +458,7 @@
 .wp.24smi.org
 .burstinious.com
 .motazeever.com
+.shaidolt.com
 .pp.teksty-pesenok.ru
 .gu7socdn.txxx.com
 .cdn.pushowl.com
