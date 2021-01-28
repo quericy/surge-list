@@ -5,6 +5,7 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.events.launchdarkly.com
 .tag.goadopt.io
 .tag.hariken.co
 .tracker.cauly.co.kr
@@ -5094,6 +5095,7 @@
 .om.cbsi.com
 .om.dowjoneson.com
 .oimg.nbcuni.com
+.analytics.ovh.com
 .qos.video.yimg.com
 .px.dynamicyield.com
 .production-eqbc.lvp.llnw.net
@@ -5714,7 +5716,6 @@
 .datacollector-drru.dt.hicloud.com
 .app-analytics-ru.huami.com
 .metrics.spbtv.com
-.sas53netbynet.visualon.info
 .android-stat.acestream.net
 .privatestats.whatsapp.net
 .usage.influxdata.com

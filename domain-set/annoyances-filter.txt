@@ -1,5 +1,6 @@
 .ext-stat.ru
 .mystatext.ru
+.app.mailjet.com
 .cdn.convertbox.com
 .app.conversiobot.com
 .sdk.getsitekit.com
