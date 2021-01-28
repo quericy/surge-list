@@ -140,6 +140,7 @@ DOMAIN-SUFFIX,lcdn-registration.apple.com,DIRECT
 DOMAIN-SUFFIX,ess.apple.com,{{ api_rule }}
 # Apple Music
 DOMAIN-SUFFIX,music.apple.com,{{ api_rule }}
+DOMAIN-SUFFIX,sonos-music.apple.com,{{ api_rule }}
 # Configuration
 DOMAIN,configuration.apple.com,{{ api_rule }}
 # Others
