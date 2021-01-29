@@ -5,7 +5,9 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.sprocket-ping.s3.amazonaws.com
 .events.launchdarkly.com
+.eclog*.cafe24.com
 .tag.goadopt.io
 .tag.hariken.co
 .tracker.cauly.co.kr
@@ -2987,6 +2989,8 @@
 .xtremline.com
 .xxxcounter.com
 .xyztraffic.com
+.x.clearbit.com
+.x.clearbitjs.com
 .y-track.com
 .yamanoha.com
 .yaudience.com
@@ -4073,6 +4077,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.c1.wfinterface.com
 .l.typesquare.com
 .estat.zum.com
 .statweb.egloos.com
