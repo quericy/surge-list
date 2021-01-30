@@ -5,6 +5,9 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.breathebuds.com
+.a-i-ad.com
+.4sqt6jq.de
 .sprocket-ping.s3.amazonaws.com
 .events.launchdarkly.com
 .eclog*.cafe24.com
@@ -4077,6 +4080,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.stat.adultium.com
 .c1.wfinterface.com
 .l.typesquare.com
 .estat.zum.com
