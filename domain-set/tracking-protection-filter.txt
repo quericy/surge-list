@@ -6,7 +6,6 @@
 .visilabs.com
 .visilabs.net
 .breathebuds.com
-.a-i-ad.com
 .4sqt6jq.de
 .sprocket-ping.s3.amazonaws.com
 .events.launchdarkly.com
@@ -4080,6 +4079,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.pvtag.yahoo.co.jp
 .stat.adultium.com
 .c1.wfinterface.com
 .l.typesquare.com

@@ -1,3 +1,4 @@
+.baresi.xyz
 .roduster.com
 .xtraff1cx.space
 .ptongouh.net
@@ -3306,6 +3307,7 @@
 .batwaxwok.site
 .baudgassedtarot.com
 .bauthair.net
+.bavftcgoapga.com
 .bayonetbikes.com
 .baysexthy.com
 .bb1acb0ea5ddb1fed8.com
@@ -3799,6 +3801,7 @@
 .cddjdjwatndgja.com
 .cdn4ads.com
 .cdnads.com
+.cdncontentdelivery.com
 .cdnmr.net
 .cdnvideo.mobi
 .cdooewrzvec.com
@@ -18877,7 +18880,6 @@
 .log.snssdk.com
 .visilabs.com
 .breathebuds.com
-.a-i-ad.com
 .4sqt6jq.de
 .sprocket-ping.s3.amazonaws.com
 .eclog*.cafe24.com
@@ -19008,6 +19010,7 @@
 .track.thevtk.com
 .track.mp3vizor.com
 .track.mp3bars.com
+.hs-scripts.com
 .parkdomainreal*.site
 .telemetry.swe.quicinc.com
 .i-*.ci360.sas.com
@@ -20251,6 +20254,7 @@
 .um-public-panel-prod.s3.amazonaws.com
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
+.pvtag.yahoo.co.jp
 .stat.adultium.com
 .c1.wfinterface.com
 .l.typesquare.com
@@ -22453,7 +22457,6 @@
 .hotjar.io
 .hotlog.ru
 .hs-analytics.net
-.hs-scripts.com
 .hsadspixel.net
 .hscta.net
 .htlbid.com
@@ -23754,7 +23757,6 @@
 .urlself.com
 .usabilitytools.com
 .usabilla.com
-.usablenet.com
 .usefathom.com
 .useinsider.com
 .useitbetter.com
@@ -25103,6 +25105,7 @@
 .events.medio.com
 .events.ocdn.eu
 .events.realgravity.com
+.events.shareably.net
 .events.tubecup.org
 .events.whisk.com
 .events.yourcx.io
@@ -27012,6 +27015,7 @@
 .hits.eluniversal.com.mx
 .pixel.zumby.io
 .reachandrich.antevenio.com
+.stats.bitban.com
 .stats.miarroba.info
 .stats.sec.telefonica.com
 .tag.shopping-feed.com
@@ -31787,6 +31791,7 @@
 .adimp.excite.co.jp
 .adimpkwd.excite.co.jp
 .adingo.jp.eimg.jp
+.a-i-ad.com
 .managedweb.net
 .thench.net
 .adtechjp.com
@@ -33540,7 +33545,6 @@
 .h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 .m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 .wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
-.hxssj.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -34371,6 +34375,7 @@
 .hxlif.com
 .hxnzyy.com
 .hxscba.com
+.hxssj.cn
 .hxtwl.cn
 .hxyifu.com
 .hxyx360.com
@@ -35817,6 +35822,7 @@
 .ztyumn.ifeng.com
 .immedlinkum.info
 .xayah.date
+.shili.wanyx.com
 .003store.com
 .1.01fy.cn
 .1.1010pic.com
@@ -36567,11 +36573,8 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.yamahahb.com
-.ic86doc.com
-.wuyuande.com
-.xmstpay.com
-.ebuysolar.com
+.taikangshenyuan.com
+.szhgmd.com
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -37197,6 +37200,7 @@
 .dzooo.cn
 .dzrenju2.cn
 .e9emh.cn
+.ebuysolar.com
 .echomilly.com
 .ecuwa.cn
 .edajin.com
@@ -37539,6 +37543,7 @@
 .iangs.com
 .iavfta8090.com
 .ibeiling.cn
+.ic86doc.com
 .icebeatuy.com
 .icyrd.com
 .idanmei.cn
@@ -38533,6 +38538,7 @@
 .wuwuhh.top
 .wuyanauto.com
 .wuylp.com
+.wuyuande.com
 .wvcdn.cn
 .wvfgiio.cn
 .wvver.com
@@ -38606,6 +38612,7 @@
 .xmndrx.cn
 .xmseaside.com
 .xmstcw.cn
+.xmstpay.com
 .xn--2qu92fhtx4ff.club
 .xn--2qu92fhtx4ff.gold
 .xn--2qu92fhtx4ff.ink
@@ -38654,6 +38661,7 @@
 .y7wr7.cn
 .yaba.org.cn
 .yajiuwz.xyz
+.yamahahb.com
 .yanbenji.cn
 .yangtzeev.com
 .yangzhenpeng.top
