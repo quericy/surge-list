@@ -133,6 +133,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.reendian.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -2983,7 +2984,7 @@
 .ztyumn.ifeng.com
 .immedlinkum.info
 .xayah.date
-.shili.wanyx.com
+.rc.ie13.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3584,6 +3585,7 @@
 .sdd.hi1718.com
 .sh996.dftoutiao.com
 .shili.downxia.com
+.shili.wanyx.com
 .shiyaokejishanghai.com
 .shzzzz.dftoutiao.com
 .sjbaiduadv1.redou.com
@@ -3789,8 +3791,7 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.taikangshenyuan.com
-.szhgmd.com
+.lantuyj.com
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4901,7 +4902,7 @@
 .juyour8.org
 .juyzr.com
 .jvyigg.biquge.lu
-.jvyigg.biqumo.com
+.jvyigg.biqugeq.com
 .jvyigg.zbzw.la
 .jwhfn.cn
 .jxbtl.com
@@ -5028,7 +5029,7 @@
 .louisan.cn
 .lousivency.com.cn
 .lownguw.top
-.lq.booktxt.net
+.lq.xsbooktxt.com
 .lq0s3c.cn
 .lq1.abcxs.com
 .lqmohun.com
@@ -5543,6 +5544,7 @@
 .sytsr.com
 .syxchj.cn
 .syxsa.cn
+.szhgmd.com
 .szmxwjm.com
 .szqifu.com
 .szshouzhai.com
@@ -5551,6 +5553,7 @@
 .t3s9j.xyz
 .tabwl.com
 .tabyee.cn
+.taikangshenyuan.com
 .tajxgs.com
 .taobaocoupon.cn
 .taolicloud.com
@@ -6006,6 +6009,7 @@
 .yzdcb.xyz
 .yzfbank.com
 .yzftqx.cn
+.yzt001.com
 .yzylm.com
 .yzyszy.com
 .z65j.cn
