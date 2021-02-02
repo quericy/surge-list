@@ -5,6 +5,7 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.dataunion.com.br
 .breathebuds.com
 .4sqt6jq.de
 .sprocket-ping.s3.amazonaws.com
@@ -4243,6 +4244,7 @@
 .infinityid.condenastdigital.com
 .track.berliner-kurier.de
 .collect.usefathom.com
+.cdn.usefathom.com
 .wwwlog.thebell.co.kr
 .d1miwkthq39xj8.cloudfront.net
 .stats1.wpmudev.com
