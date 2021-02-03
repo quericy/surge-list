@@ -5,6 +5,8 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.event.syndigo.cloud
+.event.webcollage.net
 .dataunion.com.br
 .breathebuds.com
 .4sqt6jq.de

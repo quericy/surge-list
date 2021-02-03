@@ -1976,6 +1976,7 @@
 .banner.mob.hr
 .rsz.sk
 .bannery.navratdoreality.cz
+.report.seznamzpravy.cz
 .a.b.napiszar.com
 .pijama.*.elasticbeanstalk.com
 .zumads.vrixon.com
@@ -2718,6 +2719,7 @@
 .adultcamchatfree.com
 .adultcamfree.com
 .adultcamliveweb.com
+.adultiq.club
 .adultlinkexchange.com
 .adultmoviegroup.com
 .adultsense.net
@@ -2744,6 +2746,7 @@
 .adxite.com
 .adxnexus.com
 .adxpansion.com
+.adxpartner.com
 .adziondin.club
 .ae1a1e258b8b016.com
 .ae21a0ad95016488.com
@@ -9539,6 +9542,7 @@
 .ptpefoctzmmvd.com
 .ptrqrnadg.com
 .ptuarytannual.club
+.ptuxinewhi.pro
 .ptvcfltikpdi.com
 .pucemara.com
 .puddingreluctantly.com
@@ -12456,6 +12460,7 @@
 .xelllwrite.com
 .xenddwrxygjcbq.com
 .xeqbdmuvjqt.com
+.xesigyno.pro
 .xeverirpunyv.com
 .xevhszzauj.com
 .xfasadle.com
@@ -27202,6 +27207,8 @@
 .xclk-integracion.com
 .yestorrents.org
 .zebestof.com
+.acmetex.ru
+.prdlam.com
 .kkmacsqsbf.info
 .xxyolk.com
 .zswzri7ju3.ru
@@ -31272,6 +31279,7 @@
 .xifg6h.ru
 .zfvklk.ru
 .cpm.wargaming.net
+.adbn.masterinvest.info
 .bs.orsk.ru
 .vast4.kinogo.la
 .dsn-kuban.krasnodar.su
@@ -32937,7 +32945,6 @@
 .clickbuy.bz
 .contineljs.com
 .dable.io
-.discovery.api.zaloapp.com
 .donglogs.com
 .eclick.vn
 .eva*-ad.24hstatic.com
@@ -33009,6 +33016,7 @@
 .sharks.vn
 .shop-cdn.coccoc.com
 .shopping.coccoc.com
+.slimads.vn
 .smartconvert.co
 .sourcetobin.com
 .sporttv.today
@@ -33146,6 +33154,7 @@
 .bluemaulpuffs.com
 .boxpr.aiservice.vn
 .cdn-ads.thesaigontimes.vn
+.cdn.bongdadem.net
 .cdn2.cache.vn
 .cdnasset.dantri.com.vn
 .chiasephim.xyz
@@ -33315,6 +33324,7 @@
 .logsbin.dantri.com.vn
 .logscafef.channelvn.net
 .monitor.teko.vn
+.myharavan.com
 .newlog.daidoanket.vn
 .nstat.headlines.pw
 .partner.accesstrade.vn
@@ -33383,10 +33393,12 @@
 .widget.subiz.net
 .widget.subiz.xyz
 .widgetv4.subiz.com
+.1126bet.com
 .11bet.com
 .11bet.net
 .11bet.win
 .12b99.com
+.179bet.net
 .1xbetvn.com
 .388bet.top
 .388bet.us
@@ -33432,6 +33444,7 @@
 .fb88go.com
 .fb88live.com
 .fb88sports.com
+.fb88viet.com
 .fcb8.com
 .fcb88d.com
 .five88.biz
@@ -33448,10 +33461,12 @@
 .income88.com
 .interwinvn.com
 .jbovn.com
+.k8vina17.com
 .k8vn03.com
 .keotot.net
 .letou8868.com
 .lixi88.info
+.lixi888.online
 .lode88.vip
 .lucky88.com
 .lucky88.live
@@ -33497,6 +33512,7 @@
 .sodo14.com
 .sun.win
 .sv88.com
+.t8betvip.com
 .tai789.net
 .taib52.club
 .taimacau.club
@@ -33510,6 +33526,7 @@
 .v7ac.com
 .v8.club
 .v9bet.com
+.v9jvn.com
 .vic.fun
 .vic.win
 .vicwin.vip
@@ -33524,6 +33541,9 @@
 .vua1004.club
 .vua1005.club
 .vwinnow.com
+.vwinthethao.com
+.vx88.com
+.vx88e.com
 .w388.com
 .w88.vin
 .w88bro.com
@@ -33557,7 +33577,7 @@
 .h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 .m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 .wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
-.sundady.online
+.vtfwgfo.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -35011,6 +35031,7 @@
 .stsywl.com
 .suangtianw.com
 .sufficient.cn
+.sundady.online
 .suning.beer
 .suning.design
 .suning.fit
@@ -36588,8 +36609,9 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.hzhongjianfund.com
-.ol6nhf.cn
+.jindingguopin.com
+.anyihuan.com
+.zbqmsc.com
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -37545,6 +37567,7 @@
 .hyyazhaji.com
 .hyzhongchuang.com
 .hzhfhkj.cn
+.hzhongjianfund.com
 .hzht666.com
 .hzqzxf.com
 .hzsrjs.com
@@ -38008,6 +38031,7 @@
 .okshishi.com
 .okuis.com
 .okwan.cn
+.ol6nhf.cn
 .olc0.cn
 .on1q0.cn
 .once88.cn

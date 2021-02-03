@@ -2056,6 +2056,7 @@
 .banner.mob.hr
 .rsz.sk
 .bannery.navratdoreality.cz
+.report.seznamzpravy.cz
 .a.b.napiszar.com
 .pijama.*.elasticbeanstalk.com
 .zumads.vrixon.com
@@ -2925,6 +2926,7 @@
 .adultcamchatfree.com
 .adultcamfree.com
 .adultcamliveweb.com
+.adultiq.club
 .adultlinkexchange.com
 .adultmoviegroup.com
 .adultoafiliados.com.br
@@ -9622,6 +9624,7 @@
 .ptpefoctzmmvd.com
 .ptrqrnadg.com
 .ptuarytannual.club
+.ptuxinewhi.pro
 .ptvcfltikpdi.com
 .pucemara.com
 .puddingreluctantly.com
@@ -12494,6 +12497,7 @@
 .xelllwrite.com
 .xenddwrxygjcbq.com
 .xeqbdmuvjqt.com
+.xesigyno.pro
 .xeverirpunyv.com
 .xevhszzauj.com
 .xfasadle.com
@@ -18330,6 +18334,7 @@
 .adx-t.com
 .adxite.com
 .adxpansion.com
+.adxpartner.com
 .adxprtz.com
 .afclickoffers.com
 .afcpatrk.com
