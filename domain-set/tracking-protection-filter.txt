@@ -4082,6 +4082,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.stat.adguard.com
 .pvtag.yahoo.co.jp
 .stat.adultium.com
 .c1.wfinterface.com
