@@ -493,6 +493,7 @@
 .tags.adsafety.net
 .adsage.com
 .adsame.com
+.adsbynimbus.com
 .cotads.adscale.de
 .hb.adscale.de
 .ih.adscale.de
@@ -5476,7 +5477,6 @@
 .eks-prod-1b.vungle.com
 .eks-prod-1c.vungle.com
 .ingest.vungle.com
-.v.w-x.co
 .w3i.com
 .ads.w55c.net
 .i.w55c.net
