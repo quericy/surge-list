@@ -5,6 +5,7 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.phar.gu-web.net
 .stats.vk-portal.net
 .cws.conviva.com
 .event.syndigo.cloud
