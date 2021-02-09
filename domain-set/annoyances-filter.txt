@@ -598,7 +598,6 @@
 .corover.mobi
 .wat.atms.at
 .purechat.com
-.secure.livechatinc.com
 .sge-chat.skorpik.ru
 .widgets.coingecko.com
 .cdnjs.buymeacoffee.com

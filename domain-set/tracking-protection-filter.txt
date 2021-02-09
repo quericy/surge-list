@@ -5,6 +5,8 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.tk.promit.ru
+.ztest1track.com
 .phar.gu-web.net
 .stats.vk-portal.net
 .cws.conviva.com
@@ -4085,6 +4087,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.pappagallu.onefootball.com
 .stat.adguard.com
 .pvtag.yahoo.co.jp
 .stat.adultium.com
