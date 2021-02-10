@@ -1,3 +1,4 @@
+.yourdestinationlink.com
 .localsnaughty.com
 .alawachi.net
 .vessoupy.com
@@ -19109,6 +19110,8 @@
 .xlog.snssdk.com
 .log.snssdk.com
 .visilabs.com
+.analytic-client.playful-fairies.com
+.tk.promit.ru
 .ztest1track.com
 .phar.gu-web.net
 .stats.vk-portal.net
@@ -20568,7 +20571,6 @@
 .targeting.tbt.arcpublishing.com
 .spixel.socy.es
 .app-analytics.snapchat.com
-.d2p3zdq8vjvnxd.cloudfront.net
 .logger.applovefrom.com
 .gstat.orange.fr
 .deliver.oztam.com.au
@@ -25236,6 +25238,7 @@
 .d2nxi61n77zqpl.cloudfront.net
 .d2o67tzzxkqap2.cloudfront.net
 .d2oh4tlt9mrke9.cloudfront.net
+.d2p3zdq8vjvnxd.cloudfront.net
 .d2r7bmv6l6bnd1.cloudfront.net
 .d2rnkf2kqy5m6h.cloudfront.net
 .d2ry9vue95px0b.cloudfront.net
@@ -35836,6 +35839,8 @@
 .100.pncdn.cn
 .201*.myhard.com
 .2016.bkill.net
+.3337723.com
+.3337738.com
 .360safego.com
 .5y9nfpes.52pk.com
 .614514.com
@@ -36104,10 +36109,9 @@
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
-.3337723.com
-.3337738.com
 .immedlinkum.info
 .xayah.date
+.a.78yx.net
 .003store.com
 .1.01fy.cn
 .1.1010pic.com
@@ -36861,10 +36865,7 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.happyyong.com
-.n18uji.xyz
-.oppaid.com
-.cndaizi.com
+.beizhoujt.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -37179,7 +37180,7 @@
 .babalink.top
 .baful.net
 .bahu.xyz
-.baidu.bxwx555.org
+.baidu.bxwx3.org
 .baiduspider1.cn
 .bailequan.net.cn
 .baitaoidc.com
@@ -37349,6 +37350,7 @@
 .clmmw.com
 .clxxkz.com.cn
 .cn-3drp.com
+.cndaizi.com
 .cniuv.com
 .cnlhg.cn
 .cnliken.com
@@ -37719,6 +37721,7 @@
 .haomaojin.com
 .haoxianyangrouye.com
 .haoxinq.top
+.happyyong.com
 .hasiad.cn
 .hatbiz.cn
 .hawbfa.com
@@ -37751,6 +37754,7 @@
 .hesepd.cn
 .heshunjituan.com
 .heylookhere.top
+.hflvhua.com
 .hfyxdl.com
 .hgdanbas.cn
 .hguas.com
@@ -38217,6 +38221,7 @@
 .myuf6.xyz
 .myycrw.com
 .mzclass.club
+.n18uji.xyz
 .nabeghlavi.com.cn
 .nainaimi.top
 .najingyi.cn
@@ -38305,6 +38310,7 @@
 .onlyshow.top
 .onsiterope.com
 .opengam.com
+.oppaid.com
 .opyyy.com
 .orlandomp.com
 .orvibum.cn

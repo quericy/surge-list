@@ -5,6 +5,7 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.analytic-client.playful-fairies.com
 .tk.promit.ru
 .ztest1track.com
 .phar.gu-web.net
@@ -3040,6 +3041,7 @@
 .zqtk.net
 .zroitracker.com
 .functionalclam.com
+.wearbasin.com
 .puffypaste.com
 .stiffgame.com
 .satisfycork.com

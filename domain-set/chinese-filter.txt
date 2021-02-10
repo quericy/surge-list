@@ -2714,6 +2714,8 @@
 .100.pncdn.cn
 .201*.myhard.com
 .2016.bkill.net
+.3337723.com
+.3337738.com
 .360safego.com
 .5y9nfpes.52pk.com
 .614514.com
@@ -2988,10 +2990,10 @@
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
-.3337723.com
-.3337738.com
 .immedlinkum.info
 .xayah.date
+.bd.watu.cn
+.a.78yx.net
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3800,10 +3802,9 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.happyyong.com
-.n18uji.xyz
-.oppaid.com
-.cndaizi.com
+.wjaa23.com
+.nggwhyk.cn
+.beizhoujt.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4120,7 +4121,7 @@
 .babalink.top
 .baful.net
 .bahu.xyz
-.baidu.bxwx555.org
+.baidu.bxwx3.org
 .baiduspider1.cn
 .bailequan.net.cn
 .baitaoidc.com
@@ -4291,6 +4292,7 @@
 .clmmw.com
 .clxxkz.com.cn
 .cn-3drp.com
+.cndaizi.com
 .cniuv.com
 .cnlhg.cn
 .cnliken.com
@@ -4661,6 +4663,7 @@
 .haomaojin.com
 .haoxianyangrouye.com
 .haoxinq.top
+.happyyong.com
 .hasiad.cn
 .hatbiz.cn
 .hawbfa.com
@@ -4693,6 +4696,7 @@
 .hesepd.cn
 .heshunjituan.com
 .heylookhere.top
+.hflvhua.com
 .hfyxdl.com
 .hgdanbas.cn
 .hguas.com
@@ -5164,6 +5168,7 @@
 .myycrw.com
 .myyxapp.com
 .mzclass.club
+.n18uji.xyz
 .nabeghlavi.com.cn
 .nainaimi.top
 .najingyi.cn
@@ -5252,6 +5257,7 @@
 .onlyshow.top
 .onsiterope.com
 .opengam.com
+.oppaid.com
 .opyyy.com
 .orlandomp.com
 .orvibum.cn
