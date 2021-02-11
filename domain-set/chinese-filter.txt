@@ -2992,8 +2992,6 @@
 .ztyumn.ifeng.com
 .immedlinkum.info
 .xayah.date
-.bd.watu.cn
-.a.78yx.net
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3101,6 +3099,7 @@
 .a.4aqq.com
 .a.52wubi.com
 .a.52zxw.com
+.a.78yx.net
 .a.91nets.cn
 .a.91zhongkao.com
 .a.armystar.com
@@ -3206,6 +3205,7 @@
 .bd.beimap.com
 .bd.czxuexi.com
 .bd.ershenghuo.com
+.bd.watu.cn
 .bd1-china.6789.com
 .bd1-china.xsfaya.com
 .bd1.365qilu.com
@@ -3802,9 +3802,7 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.wjaa23.com
-.nggwhyk.cn
-.beizhoujt.cn
+.dtxdwl.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4146,6 +4144,7 @@
 .bdxnc.com
 .bei7.clewx.com
 .beifmu.com
+.beizhoujt.cn
 .bentengcn.com
 .berfd.xyz
 .betohomeall.com
@@ -5187,6 +5186,7 @@
 .netfix8.info
 .newknowledge.cn
 .ngceq.cn
+.nggwhyk.cn
 .ngmaul.cn
 .ngsaang.top
 .nickarini.com
@@ -5782,6 +5782,7 @@
 .whxhhjx.com
 .wikevs.cn
 .win999.com.cn
+.wjaa23.com
 .wjdfv.com
 .wjyljl.cn
 .wkjava.top

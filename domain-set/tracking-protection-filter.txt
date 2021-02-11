@@ -5,6 +5,7 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.counter.monkeybanana3.com
 .analytic-client.playful-fairies.com
 .tk.promit.ru
 .ztest1track.com
@@ -4089,6 +4090,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.metrics-broker.prod.p.tf1.fr
 .pappagallu.onefootball.com
 .stat.adguard.com
 .pvtag.yahoo.co.jp
