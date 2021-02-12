@@ -1536,9 +1536,7 @@
 .sender.clevernt.com
 .ui.clevernt.com
 .api.cleverpush.com
-.geoip-api.cleverpush.com
 .static.cleverpush.com
-.statistacomdev.cleverpush.com
 .static.clevertap.com
 .aorta.clickagy.com
 .i.clickagy.com
@@ -4266,7 +4264,6 @@
 .log.tbs.qq.com
 .log.wtlogin.qq.com
 .masdk.3g.qq.com
-.mazu.3g.qq.com
 .mi.gdt.qq.com
 .misc.wcd.qq.com
 .monitor.uu.qq.com
