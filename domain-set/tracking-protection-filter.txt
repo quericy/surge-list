@@ -4091,6 +4091,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.media.fc2.com
 .metrics-broker.prod.p.tf1.fr
 .pappagallu.onefootball.com
 .stat.adguard.com
