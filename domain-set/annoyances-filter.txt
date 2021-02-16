@@ -11,6 +11,7 @@
 .wb.whatsbroadcast.com
 .signup.e2ma.net
 .7q1z79gxsi.global.ssl.fastly.net
+.unwieldyhealth.com
 .wearbasin.com
 .producecopy.com
 .rhetoricalloss.com
@@ -464,6 +465,7 @@
 .shaidolt.com
 .sitreleastme.info
 .api.pushnami.com
+.first.megas44.ru
 .pp.teksty-pesenok.ru
 .gu7socdn.txxx.com
 .cdn.pushowl.com

@@ -1988,7 +1988,6 @@
 .go-mpulse.net.edgekey.net
 .innovid.com.edgekey.net
 .insightexpressai.com.edgekey.net
-.kaltura.com.edgekey.net
 .marketo.com.edgekey.net
 .marketo.net.edgekey.net
 .mathtag.com.edgekey.net

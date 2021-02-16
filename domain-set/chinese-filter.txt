@@ -1,3 +1,5 @@
+.cdn.upthinking.cn
+.quxiangkeji.cn
 .sogo.uc.continuefaf.top
 .local.hniux.cn
 .ce.wlaoc.cn
@@ -133,7 +135,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.tan1dian.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -2058,6 +2059,7 @@
 .ta80.com
 .tad.suning.com
 .tamedia.com.tw
+.tan1dian.com
 .tanwanyx.com
 .taobaoaliyun.cn
 .taobaojx.com
@@ -3809,7 +3811,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.ymxlm.cc
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -6002,6 +6003,7 @@
 .yljmeishi.cn
 .ylkqw.com
 .ymmdpk.cn
+.ymxlm.cc
 .ynbzxh.com
 .yndushi.cn
 .ynhuya.cn
