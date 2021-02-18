@@ -1256,7 +1256,6 @@
 .emetriq.de
 .emjcd.com
 .emltrk.com
-.emsecure.net
 .enecto.com
 .engageya.com
 .engine212.com
@@ -4169,8 +4168,6 @@
 .asumi.shinobi.jp
 .tracking.epicgames.com
 .t*.zcvh.net
-.app.adjust.net.in
-.app.adjust.world
 .d3nq5jrakcyw1w.cloudfront.net
 .tracking.netdoktor.at
 .targeting.tbt.arcpublishing.com
@@ -5764,6 +5761,7 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.events.claspws.tv
 .tracking-receiver.prod-general.stocard-backend.com
 .metrics.happycolor.app
 .digianalytics.airtel.in
