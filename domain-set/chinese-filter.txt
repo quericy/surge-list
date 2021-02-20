@@ -134,10 +134,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.acptkgp.com
-.szxhybj.com
-.abcdlm.com
-.xuchuang.com
+.longdidi.top
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -505,10 +502,12 @@
 .aafuck.xyz
 .aasyy.com
 .aazcio.cn
+.abcdlm.com
 .abie14.top
 .acasys88.cn
 .acgbase.com
 .achicih.gitee.io
+.acptkgp.com
 .acs86.com
 .ad-plus.cn
 .ad-survey.com
@@ -2053,6 +2052,7 @@
 .szrk3.com
 .sztbjs.com
 .szvr.com
+.szxhybj.com
 .szxiuchang.com
 .szxpsg.com
 .szxzytech.com
@@ -2436,6 +2436,7 @@
 .xu7b.com
 .xuanmeiguoji.com
 .xuanmin.wang
+.xuchuang.com
 .xuehelei.com
 .xueyongbao.com
 .xugsh.cn
@@ -3006,6 +3007,7 @@
 .wofjhs.com
 .immedlinkum.info
 .xayah.date
+.lynr.com
 .003store.com
 .0512s.com
 .1.01fy.cn

@@ -5761,6 +5761,7 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.analytics.mobilegamestats.com
 .p.statp.com
 .api.imqtyik.com
 .events.claspws.tv
