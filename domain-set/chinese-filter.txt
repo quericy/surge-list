@@ -134,7 +134,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.longdidi.top
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -1421,6 +1420,7 @@
 .k12shequ.com
 .k1815.com
 .k3851.com
+.k9dzax.cn
 .ka12138.top
 .kaixinjiehun.com
 .kakayy.com
@@ -1599,6 +1599,7 @@
 .meiti1.net
 .meituan.xn--io0a7i
 .meituan.yoga
+.meituangov.cn
 .mengbingyuan.com
 .mengbli.com
 .mengheyu.com
@@ -2197,6 +2198,7 @@
 .v-links.net
 .v.center
 .v.xi666.com
+.v9wuyulou.com
 .vaedan.top
 .vamaker.com
 .vdazz.net
@@ -3007,7 +3009,6 @@
 .wofjhs.com
 .immedlinkum.info
 .xayah.date
-.lynr.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3395,6 +3396,7 @@
 .fpb*.51edu.com
 .fpb.sohu.com
 .fpb1.apple886.com
+.fpb1.tabuzhe.com
 .fwccw.com
 .fxjs.2541.com
 .g.3lian.com
@@ -3514,6 +3516,7 @@
 .luolikong.net
 .luoshenbest.cn
 .lv.myapks.com
+.lynr.com
 .lyz.radio366.com
 .m1.100how.com
 .m1.27com.com
@@ -3968,6 +3971,7 @@
 .6945k6.cn
 .69yll.cn
 .6l1967.cn
+.6s7v78.cn
 .6shuge.com
 .6yush.cn
 .70bhsd.cn
