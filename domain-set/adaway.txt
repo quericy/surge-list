@@ -2027,7 +2027,6 @@
 .marketingassets.staples.com.edgekey.net
 .metrics.fidelity.com.edgekey.net
 .metrics.hackerrank.com.edgekey.net
-.mobilepartner.avcdn.net.edgekey.net
 .smetrics.att.com.edgekey.net
 .stats.mediaforge.com.edgekey.net
 .tag.aticdn.net.edgekey.net
