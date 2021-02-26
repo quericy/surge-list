@@ -134,6 +134,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.quehq.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -3008,6 +3009,7 @@
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
+.cbjs.ciwei.in
 .3336672.com
 .3337729.com
 .3337751.com
@@ -3830,7 +3832,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.qpmztk.cn
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4757,6 +4758,7 @@
 .hlgglm.com
 .hlhulu.com
 .hljhufengling.cn
+.hmfcyy.com
 .hmttoly.com
 .hmyangshengji.com
 .hmyzsgf.com
@@ -5415,6 +5417,7 @@
 .qneit.com
 .qnpov.cn
 .qpmue.xyz
+.qpmztk.cn
 .qqdashabi.top
 .qqiat.com
 .qrdqbe.cn
@@ -5879,7 +5882,6 @@
 .xccpro.vip
 .xcdzsw.com
 .xcmxsw.com
-.hmfcyy.com
 .xdkje.com
 .xdrzdh.cn
 .xdyszx.com

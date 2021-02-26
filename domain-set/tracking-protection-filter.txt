@@ -5,6 +5,9 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.uncn.jp
+.ad-spire.net
+.f-counter.net
 .moshimo.com
 .counter.monkeybanana3.com
 .analytic-client.playful-fairies.com
@@ -4090,6 +4093,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.t.lidyana.com
 .stats.muasamcong.gov.vn
 .beacon.watch.impress.co.jp
 .metrics-broker.prod.p.tf1.fr
