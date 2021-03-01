@@ -134,7 +134,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.adiniky.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -530,6 +529,7 @@
 .adget.cn
 .adhouyi.com
 .adidaschile62tracksuit.com
+.adiniky.com
 .adkongjian.com
 .adm.cnzz.net
 .admaji.com
@@ -2940,7 +2940,6 @@
 .miniye.xjts.cn
 .mm.nwell.net
 .money.qz828.com
-.myad.toocle.com
 .nirentang.com
 .ok.432kkk.com
 .p.7060.la
