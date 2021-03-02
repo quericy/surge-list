@@ -5,10 +5,12 @@
 .ads.1mobile.com
 .api.1mobile.com
 .api4.1mobile.com
+.sync.1rx.io
 .s.206ads.com
 .api.247-inc.net
 .tie.247-inc.net
 .247realmedia.com
+.s0.2mdn.net
 .2mdnsys.com
 .360in.com
 .3cinteractive.com
@@ -25,6 +27,7 @@
 .img.3lift.com
 .staging-tlx.3lift.com
 .staging-us-east-tlx.3lift.com
+.tlx.3lift.com
 .update.3lift.com
 .us-east-tlx.3lift.com
 .us-west-eb2.3lift.com
@@ -236,6 +239,8 @@
 .adj.st
 .adjust.com
 .adjust.io
+.app.adjust.net.in
+.app.adjust.world
 .dsp-uswest.adkernel.com
 .static-rtb.adkernel.com
 .svc-analytics.adkernel.com
@@ -259,6 +264,7 @@
 .gwk.adlibr.com
 .gwx.adlibr.com
 .cdn.adligature.com
+.tagan.adlightning.com
 .am.adlooxtracking.com
 .am01.adlooxtracking.com
 .am02.adlooxtracking.com
@@ -755,6 +761,9 @@
 .aimatch.com
 .airpush.com
 .ads.aitype.net
+.s3-iad-2.cf.dash.row.aiv-cdn.net
+.s3-iad-ww.cf.videorolls.row.aiv-cdn.net
+.s3.ll.videorolls.row.aiv-cdn.net
 .comscore.akadns.net
 .dvgtm.akadns.net
 .eyeblaster.akadns.net
@@ -782,6 +791,7 @@
 .supersonicads-a.akamaihd.net
 .cdn-guile.akamaized.net
 .dyn-beacon.akamaized.net
+.jioads.akamaized.net
 .ma85-r-analytics.akamaized.net
 .speee-ad.akamaized.net
 .abcd.mdc.akamaized.net
@@ -872,6 +882,7 @@
 .later-analytics-reports.s3-accelerate.amazonaws.com
 .mobileanalytics.us-east-1.amazonaws.com
 .nativead.s3.amazonaws.com
+.surveygizmobeacon.s3.amazonaws.com
 .yieldify-static-files.s3.amazonaws.com
 .ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com
 .adktracking-1671721947.eu-west-3.elb.amazonaws.com
@@ -1189,6 +1200,7 @@
 .dptr.areyouahuman.com
 .n-cdn.areyouahuman.com
 .n.areyouahuman.com
+.api.arity.com
 .rcn.asapp.com
 .sdk.asapp.com
 .sprint-srs-appopen.asapp.com
@@ -1224,6 +1236,8 @@
 .y.atwola.com
 .adctrl.aubemobile.com
 .update.aubemobile.com
+.configs-community-app.audent.io
+.sentry.audent.io
 .auditude.com
 .augur.io
 .autoads.asia
@@ -1253,6 +1267,7 @@
 .optchk.ayads.co
 .sac.ayads.co
 .masdpanalytics.azureedge.net
+.opimedia.azureedge.net
 .ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 .b2c.com
 .adm.baidu.com
@@ -1316,6 +1331,7 @@
 .udc.safe.baidu.com
 .update.pan.baidu.com
 .baidustatic.com
+.appanalysis.banggood.com
 .bango.net
 .bannerads.co.in
 .bannersnack.com
@@ -1371,6 +1387,8 @@
 .match.prod.bidr.io
 .segment.prod.bidr.io
 .bidsopt.com
+.grid.bidswitch.net
+.x.bidswitch.net
 .west.bidtellect.com
 .bat.bing.com
 .a.bitmango.com
@@ -1440,6 +1458,8 @@
 .yield-manager.browsiprod.com
 .analyticsapi.bsbportal.com
 .sdk.appadhoc.com.bsclink.cn
+.cdn.bskarn.com
+.loc.bskarn.com
 .web.btncdn.com
 .btrll.com
 .bttn.io
@@ -1483,12 +1503,14 @@
 .as.casalemedia.com
 .dsum-sec.casalemedia.com
 .dsum.casalemedia.com
+.htlb.casalemedia.com
 .js.casalemedia.com
 .r.casalemedia.com
 .ssum-sec.casalemedia.com
 .ssum.casalemedia.com
 .castplatform.com
 .ad.cauly.co.kr
+.tealium.cbsnews.com
 .ccgateway.net
 .cdn-image.com
 .cdn7.rocks
@@ -1524,6 +1546,7 @@
 .chartboosts.com
 .chitika.com
 .smetrics.chrysler.com
+.chtbl.com
 .jp.cinarra.com
 .collector.cint.com
 .qps.cint.com
@@ -1542,6 +1565,7 @@
 .i.clickagy.com
 .tags.clickagy.com
 .track.clickbooth.com
+.monitor.clickcease.com
 .analytics-au.clickdimensions.com
 .analytics-eu.clickdimensions.com
 .analytics.clickdimensions.com
@@ -1598,6 +1622,7 @@
 .mobile.cmtelematics.com
 .id1.cn.com
 .agility.cnn.com
+.lightning.cnn.com
 .mms.cnn.com
 .sdc.cnn.com
 .smetrics.cnn.com
@@ -1688,6 +1713,7 @@
 .livepassdl-global.conviva.com
 .pings.conviva.com
 .vrl.m.conviva.com
+.api.coralogix.com
 .coremetrics.com
 .locator1.corevm.com
 .locatorpp.corevm.com
@@ -1771,6 +1797,7 @@
 .s79.research.de.com
 .sting.de17a.com
 .tb.de17a.com
+.prod-dcs-eventlog.decagames.com
 .api.decibelinsight.net
 .cdn.decibelinsight.net
 .collection.decibelinsight.net
@@ -1860,9 +1887,12 @@
 .disqusads.com
 .prebid.districtm.ca
 .st.districtm.ca
+.cdn.districtm.io
+.dmx.districtm.io
 .tag.divvit.com
 .pebed.dm.gg
 .b.dmlimg.com
+.bob.dmpxs.com
 .ciq.dmpxs.com
 .ufz.doesxyz.com
 .ads.dofunapps.com
@@ -1872,6 +1902,7 @@
 .domob.cn
 .collector.doordash.com
 .dotandad.com
+.uk-script.dotmetrics.net
 .dotomi.com
 .sdk.dotui.cn
 .flash.doubleclick-analytics.com
@@ -1912,6 +1943,7 @@
 .rtbcdn.doubleverify.com
 .sgcp-hlb.doubleverify.com
 .tps.doubleverify.com
+.tps11005.doubleverify.com
 .tps11031.doubleverify.com
 .tps30.doubleverify.com
 .tps711.doubleverify.com
@@ -1957,6 +1989,10 @@
 .ads.easy-ads.com
 .beacon.eb-collector.com
 .ebz.io
+.apituner.ecbsn.com
+.ffconf.ecbsn.com
+.api.engager.ecbsn.com
+.events.engager.ecbsn.com
 .static.ecorebates.com
 .analytics.edgekey.net
 .applovinres.edgekey.net
@@ -2109,6 +2145,7 @@
 .info.evidon.com
 .l.evidon.com
 .l3.evidon.com
+.cdn-channels-pixel.ex.co
 .tp-emea.exactag.com
 .inbox.exacttarget.com
 .mc.exacttarget.com
@@ -2293,6 +2330,7 @@
 .static.getclicky.com
 .api.getdrip.com
 .tag.getdrip.com
+.analytics.getshogun.com
 .hades.getsocial.im
 .sdk.open.talk.getui.net
 .getwisdom.io
@@ -2333,6 +2371,8 @@
 .geoip.goforandroid.com
 .navigation.api.hk.goforandroid.com
 .goldspotmedia.com
+.log1.golfrival.net
+.log3.golfrival.net
 .adcdn.goo.ne.jp
 .owb101.goo.ne.jp
 .secure.gooddata.com
@@ -2400,6 +2440,8 @@
 .sync.hariken.co
 .hasmobi.net
 .hbi-ingest.net
+.cdn.heapanalytics.com
+.glimmer.hearstapps.com
 .adv.herocraft.com
 .gamestats.herocraft.com
 .collection-endpoint-prod.herokuapp.com
@@ -2450,9 +2492,14 @@
 .analytics.hostyour.video
 .sdk.hostyour.video
 .hot-mob.com
+.script.hotjar.com
+.static.hotjar.com
+.vars.hotjar.com
+.vc.hotjar.io
 .howdoesin.net
 .hs-analytics.net
 .analytics.htmedia.in
+.app.hubspot.com
 .api.huqindustries.co.uk
 .charles.huqindustries.co.uk
 .crosspromo.hutchgames.io
@@ -2565,6 +2612,7 @@
 .bks.imonomy.com
 .srv.imonomy.com
 .tag.imonomy.com
+.d.impactradius-event.com
 .ct.impactradius.com
 .customtraffic.impactradius.com
 .partners-hotwire-com.impactradius.com
@@ -2598,6 +2646,7 @@
 .imwx.com
 .trk.in25app.com
 .update.indexww.com
+.mobileads.indiatimes.com
 .api.indicative.com
 .cdn.indicative.com
 .api.infinario.com
@@ -2755,6 +2804,7 @@
 .log.isnssdk.com
 .mon.isnssdk.com
 .open.isnssdk.com
+.pangolin16.isnssdk.com
 .tnc16-alisg.isnssdk.com
 .tnc16-useast1a.isnssdk.com
 .banners.isoftmarketing.com
@@ -2978,6 +3028,7 @@
 .api.hdtv.letv.com
 .api.itv.letv.com
 .api.platform.letv.com
+.metrics.lfanalytics.io
 .ads1.lfengmobile.com
 .204.scloud.lfengmobile.com
 .agnes.scloud.lfengmobile.com
@@ -3004,6 +3055,7 @@
 .playables-debug.lfstmedia.com
 .scadxrtb.lfstmedia.com
 .scapplovinrtb.lfstmedia.com
+.licensebuttons.net
 .adexp.liftoff.io
 .applovin-asia-rtb.liftoff.io
 .build-cdn.liftoff.io
@@ -3057,6 +3109,7 @@
 .powerwifi.lionmobi.com
 .updater.lionmobi.com
 .tracking.listhub.net
+.player.stats.live-video.net
 .server.iad.liveperson.net
 .sds.livesegmentservice.com
 .ad.lkqd.net
@@ -3158,6 +3211,7 @@
 .ecs.mantisadnetwork.com
 .resize.mantisadnetwork.com
 .resizer.mantisadnetwork.com
+.events.mapbox.com
 .marfeel.com
 .alexandria.marfeelcdn.com
 .mbid.marfeelrev.com
@@ -3414,6 +3468,7 @@
 .api.mixpanel.com
 .decide.mixpanel.com
 .switchboard.mixpanel.com
+.ml314.com
 .mmaglobal.com
 .ac.mmstat.com
 .cnzz.mmstat.com
@@ -3746,6 +3801,7 @@
 .prod-m-node-1212.nexage.com
 .prod-m-node-2112.nexage.com
 .api.analytics.nexonm.com
+.ccpa.psg.nexstardigital.net
 .nextclick.pl
 .ads.nicovideo.jp
 .apps.nielsen.com
@@ -3777,6 +3833,7 @@
 .cdn.o333o.com
 .consent.cmp.oath.com
 .service.cmp.oath.com
+.techcrunch.mydashboard.oath.com
 .oclaserver.com
 .go.oclasrv.com
 .adcanopus.offerstrack.net
@@ -3863,6 +3920,7 @@
 .sdkstatic.onemt.co
 .click.oneplus.com
 .onesignal.com
+.geolocation.onetrust.com
 .aa.online-metrix.net
 .eu-aa.online-metrix.net
 .h-ebay.online-metrix.net
@@ -3881,6 +3939,7 @@
 .ads.ontarget.mobi
 .onthe.io
 .analytics.ooyala.com
+.tagger.opecloud.com
 .opensharecount.com
 .openstat.net
 .log.opentracker.net
@@ -4034,6 +4093,7 @@
 .lto.personali.com
 .report.personali.com
 .scripts.personalics.com
+.tracker.personizely.net
 .count.personyze.com
 .api.perzonalization.com
 .cdn.perzonalization.com
@@ -4083,9 +4143,12 @@
 .api.placer.io
 .conf.placer.io
 .65c6.playfabapi.com
+.92ab.playfabapi.com
 .b343.playfabapi.com
+.b77ad.playfabapi.com
 .ca87.playfabapi.com
 .playhaven.com
+.stats.playrix.com
 .sdk.playtem.com
 .playtomic.com
 .analytics.po.st
@@ -4294,6 +4357,7 @@
 .api.radar.io
 .proximitykit.radiusnetworks.com
 .beacon.rallydev.com
+.client.rave-api.com
 .sdk-h5-cdn.rayjoy.com
 .rayjump.com
 .rbnt.org
@@ -4354,6 +4418,7 @@
 .beacon.riskified.com
 .c.riskified.com
 .img.riskified.com
+.mid.rkdms.com
 .rlcdn.com
 .metric-android-am.road404.com
 .ads.roblox.com
@@ -4545,6 +4610,7 @@
 .m.servedby-buysellads.com
 .static.servedby-buysellads.com
 .slader.servedbyopenx.com
+.e.serverbid.com
 .serving-sys.com
 .trk.serving-technology003.com
 .ws.sessioncam.com
@@ -4764,6 +4830,7 @@
 .api.splkmobile.com
 .sponsorpay.com
 .ak-events-collector.spot.im
+.direct-events-collector.spot.im
 .events-collector.spot.im
 .metrics-logger.spot.im
 .adeventtracker.spotify.com
@@ -4777,10 +4844,9 @@
 .event.spotxchange.com
 .iad02-event.spotxchange.com
 .iad02-search.spotxchange.com
+.search.spotxchange.com
 .sin01-event.spotxchange.com
 .sin01-search.spotxchange.com
-.sin01.search.spotxchange.com
-.sync.search.spotxchange.com
 .bc-ssb-iad.springserve.com
 .cdn.springserve.com
 .datplus.springserve.com
@@ -5111,6 +5177,7 @@
 .tia.timeinc.net
 .metrics.timewarnercable.com
 .beacon.tingyun.com
+.tags.tiqcdn.com
 .tnkfactory.com
 .ar.tns-counter.ru
 .kz.tns-counter.ru
@@ -5156,7 +5223,9 @@
 .beacon.tru.am
 .pushid-noneu.truecaller.com
 .choices.trustarc.com
+.consent.trustarc.com
 .preferences.trustarc.com
+.choices.truste.com
 .gateway.ttpsdk.info
 .promo-images.ttpsdk.info
 .s3.ttpsdk.info
@@ -5180,6 +5249,7 @@
 .activity.tuifish.com
 .yun.tuitiger.com
 .ma.tune.com
+.ad.turn.com
 .cdns.turn.com
 .d-sjc2.turn.com
 .img.turn.com
@@ -5265,6 +5335,8 @@
 .origin-evt.undertone.com
 .usr.undertone.com
 .stats.unibiller.com
+.cmp.uniconsent.com
+.edge.uniconsent.com
 .unimhk.com
 .sa.unionstatistics.com
 .tag.unionstatistics.com
@@ -5513,6 +5585,7 @@
 .bcdn-god.we-stats.com
 .cfr.us.v2.we-stats.com
 .log-dbff2e04.us.v2.we-stats.com
+.airlytics.airlock.twcmobile.weather.com
 .and-ads.pulse.weatherbug.net
 .analytics.webads.eu
 .scripts.webcontentassessor.com
@@ -5541,6 +5614,7 @@
 .wigetmedia.com
 .analytics.wildtangent.com
 .tracker.winudf.com
+.fast.wistia.com
 .opensdk.wlanbanlv.com
 .api.wonderpush.com
 .static.woopra.com
@@ -5561,6 +5635,8 @@
 .s.baomoi.xdn.vn
 .xdrig.com
 .events.xg4ken.com
+.resources.xg4ken.com
+.services.xg4ken.com
 .api.ad.xiaomi.com
 .api.admob.xiaomi.com
 .cdn.ad.xiaomi.com
@@ -5674,11 +5750,17 @@
 .ylx-1.com
 .ymcdn.ymtrack6.co
 .ymtracking.com
+.anti.yodo1api.com
+.olc.yodo1api.com
+.rodeoconfig.yodo1api.com
+.sensors.yodo1api.com
 .analytics.yolacdn.net
 .sdk.yolanda.hk
 .yomedia.vn
 .s.yomob.com.cn
 .sgpublic.yomob.com.cn
+.cdn-loyalty.yotpo.com
+.cdn-widgetsrepository.yotpo.com
 .rg.yottos.com
 .sdk.youappi.com
 .infinity-c4.youboranqs01.com

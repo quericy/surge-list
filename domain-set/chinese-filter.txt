@@ -683,6 +683,7 @@
 .blogdaka.cc
 .blogdaka.xyz
 .bloggerads.net
+.bmbaike.cn
 .bmw100.cn
 .bnq86.com
 .bnuni.com
@@ -752,6 +753,7 @@
 .chapm.com
 .charlesfc.com
 .chaxinyong.net
+.chayayeon.com
 .che0.com
 .chehuanjie.com
 .chenghangtech.com
@@ -4503,6 +4505,7 @@
 .enq5ur.cn
 .epanr.com
 .epcqyac.cn
+.erhfnv.cn
 .erkesi.cn
 .erocw.com
 .esuzm.cn
@@ -4556,6 +4559,7 @@
 .fjtzjy.com
 .fjylcy.com
 .fkkse.com
+.fkm2wv.cn
 .flbmfc.com
 .fll007.com
 .fnpet.cn
@@ -5143,6 +5147,7 @@
 .maoyumao.net
 .maro30.com
 .matchjia.cn
+.mavuz.com
 .maxoi.cn
 .mbusdw.cn
 .mcjjibr.cn
