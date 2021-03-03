@@ -5,6 +5,8 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.tracking02.adweb.co.kr
+.d-collector.jennifersoft.com
 .adsmetadata.mobileadexchange.net
 .adsmetadata.startappk8s.com
 .counter.yandro.ru
@@ -4102,6 +4104,9 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.log.ttbc-hcm.gov.vn
+.eventapi.afreecatv.com
+.stat.nate.com
 .track.clkfly.com
 .pf.intuit.com
 .sci.intuit.com

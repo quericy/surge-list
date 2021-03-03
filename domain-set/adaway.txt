@@ -427,6 +427,7 @@
 .geo.adobe.com
 .sstats.adobe.com
 .adtag.primetime.adobe.com
+.adolf.tv
 .adserver.adotmob.com
 .dmp.adotmob.com
 .dsp.adotmob.com
@@ -2745,7 +2746,6 @@
 .intermarkets.net
 .intowow.com
 .ads.inven.co.kr
-.investingapp.net
 .config.ioam.de
 .irqs.ioam.de
 .script.ioam.de
@@ -5101,6 +5101,7 @@
 .sonata-notifications-us-east.taptapnetworks.com
 .sonata-notifications.taptapnetworks.com
 .taptica.com
+.target2sell.com
 .targetspot.com
 .metrics.tbliab.net
 .analytics.tdameritrade.com
@@ -5264,6 +5265,7 @@
 .srv2.tusdk.com
 .hail-reporting.tutelatechnologies.com
 .reporting.tutelatechnologies.com
+.tutoads.tv
 .asdkd.tutuapp.com
 .sdkgw.us1.twilio.com
 .ads-api.twitter.com
@@ -5463,6 +5465,8 @@
 .trk.vidible.tv
 .ads.use1.prod.vidible.tv
 .vidora.com
+.ad.vidver.to
+.ad.vidverto.io
 .cdn.viewdeos.com
 .go1.viewdeos.com
 .sync.viewdeos.com
