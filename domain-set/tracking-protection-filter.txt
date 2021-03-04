@@ -5,6 +5,12 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.log.gs3.goo.ne.jp
+.static.karte.io
+.wonder-ma.com
+.sync.ebis.ne.jp
+.taj1.ebis.ne.jp
+.taj2.ebis.ne.jp
 .tracking02.adweb.co.kr
 .d-collector.jennifersoft.com
 .adsmetadata.mobileadexchange.net
@@ -4089,6 +4095,7 @@
 .eulerian.belambra.be
 .2o7.net
 .omtrdc.net
+.data.adobedc.net
 .tagcommander.com
 .commandersact.com
 .wizaly.com
