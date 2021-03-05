@@ -2193,6 +2193,7 @@
 .api.factual.com
 .fam-ad.com
 .fastapi.net
+.mparticle.map.fastly.net
 .sonar-iad.xx.fbcdn.net
 .affiliate.fc2.com
 .aimg.fc2.com
@@ -2909,6 +2910,7 @@
 .cdn.keywee.co
 .pixel.keywee.co
 .log.kgrid.co.kr
+.analytics.kidoz.net
 .kiip.me
 .clientmetrics-augmentum.kik.com
 .clientmetrics.kik.com
@@ -3707,11 +3709,13 @@
 .config2.mparticle.com
 .cookiesync.mparticle.com
 .identity.mparticle.com
+.jssdkcdn.mparticle.com
 .jssdkcdns.mparticle.com
 .jssdks.mparticle.com
 .nativesdks.mparticle.com
 .pixels.mparticle.com
 .s2s.mparticle.com
+.static.mparticle.com
 .cj.mplxtms.com
 .secure-cdn.mplxtms.com
 .mpnrs.com
@@ -4710,6 +4714,7 @@
 .s.skimresources.com
 .t.skimresources.com
 .x.skimresources.com
+.mparticle.slack.com
 .analytics.slashdotmedia.com
 .slicktext.com
 .smaato.com
@@ -4927,8 +4932,10 @@
 .u.superadbox.com
 .trk.superads.cn
 .ads.superawesome.tv
+.ads.staging.superawesome.tv
 .exchange.superfastmediation.com
 .logs.supersonic.com
+.mobilelogs.supersonic.com
 .supersonicads.com
 .api.survicate.com
 .survey.survicate.com
@@ -5266,6 +5273,8 @@
 .hail-reporting.tutelatechnologies.com
 .reporting.tutelatechnologies.com
 .tutoads.tv
+.adstrck.tutotoons.com
+.tracker.tutotoons.com
 .asdkd.tutuapp.com
 .sdkgw.us1.twilio.com
 .ads-api.twitter.com
