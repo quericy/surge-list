@@ -81,8 +81,12 @@
 .pingapi.accengage.com
 .api.accengage.net
 .daraz-by.accengage.net
-.accesstrade.com.vn
-.accesstrade.vn
+.ad.accesstrade.vn
+.cv.accesstrade.vn
+.partner.accesstrade.vn
+.service-api.accesstrade.vn
+.static.accesstrade.vn
+.track.accesstrade.vn
 .tags.acmeaom.com
 .as.ad-brix.com
 .campaign.ad-brix.com
@@ -5229,6 +5233,10 @@
 .ads.triongames.com
 .tracking.trnox.com
 .beacon.tru.am
+.ads-router-noneu.truecaller.com
+.ads5-noneu.truecaller.com
+.ads5.truecaller.com
+.batchlogging4.truecaller.com
 .pushid-noneu.truecaller.com
 .choices.trustarc.com
 .consent.trustarc.com
