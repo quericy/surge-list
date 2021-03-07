@@ -137,6 +137,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.gg.miued.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -3847,6 +3848,11 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.linkjingkeji.com
+.anhaochem.com
+.wzjs1.oss-accelerate.aliyuncs.com
+.feizailin.com
+.uu7ey6.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
 .0234408.cn
