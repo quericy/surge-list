@@ -2711,7 +2711,6 @@
 .trackeame.com
 .trackedlink.net
 .trackedweb.net
-.trackfeed.com
 .tracking100.com
 .tracking202.com
 .trackinglabs.com
@@ -4114,7 +4113,6 @@
 .stat.nate.com
 .track.clkfly.com
 .pf.intuit.com
-.bilanx.dcard.tw
 .track.libii.cn
 .track.oasis.magictavern.com
 .kooappslogs.com
