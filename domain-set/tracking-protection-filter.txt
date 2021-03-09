@@ -5,6 +5,7 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.smart-bdash.com
 .analytics.contents.by-fw.jp
 .appier.net
 .depart.trinitymedia.ai

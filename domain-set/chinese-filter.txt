@@ -144,6 +144,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.huataisangao.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -2387,7 +2388,6 @@
 .2016.bkill.net
 .3337723.com
 .3337738.com
-.360safego.com
 .5y9nfpes.52pk.com
 .614514.com
 .7xsf3h.com1.z0.glb.clouddn.com
@@ -2403,7 +2403,6 @@
 .abc.hkepc.com
 .abc.hkepc.net
 .acodes.b2b.cn
-.acv5e.cn
 .ad-api.cnblogs.com
 .ad-img.diyidan.net
 .ad.52av.one
@@ -2465,7 +2464,6 @@
 .btn.onlylady.com
 .btn.pchome.net
 .business.92wy.com
-.by8974.com
 .c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 .cacafly.net
 .cbjs.ciwei.in
@@ -3485,6 +3483,11 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.fuchuqu.cn
+.xiaokeaiapp.com
+.p0pm5z.cn
+.dedayuntong.com
+.cw49z0.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
 .027whht.com

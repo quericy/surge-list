@@ -473,6 +473,7 @@
 .sitreleastme.info
 .api.pushnami.com
 .first.megas44.ru
+.sdk.jeeng.com
 .pp.teksty-pesenok.ru
 .gu7socdn.txxx.com
 .cdn.pushowl.com
