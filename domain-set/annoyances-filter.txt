@@ -4,13 +4,13 @@
 .cdn.convertbox.com
 .app.conversiobot.com
 .sdk.getsitekit.com
-.web.webformscr.com
 .engine.findaphd.com
 .alertme.news
 .ipepostman.com
 .wb.whatsbroadcast.com
 .signup.e2ma.net
 .7q1z79gxsi.global.ssl.fastly.net
+.boilingcredit.com
 .unwieldyhealth.com
 .wearbasin.com
 .producecopy.com
@@ -144,6 +144,7 @@
 .mailget.net
 .optnmnstr.com
 .cdn*.pdmntn.com
+.form.typeform.com
 .vote.sibnet.ru
 .malerex.ru
 .pushiki.ru
@@ -153,6 +154,11 @@
 .karuna4u.com
 .pushofferpro.com
 .leechiza.net
+.loulouly.net
+.vistoolr.net
+.traglencium.com
+.pushex.net
+.sdkloc1.com
 .stumtererum.com
 .chensenconter.com
 .powr.io
@@ -466,6 +472,7 @@
 .sitreleastme.info
 .api.pushnami.com
 .first.megas44.ru
+.sdk.jeeng.com
 .pp.teksty-pesenok.ru
 .gu7socdn.txxx.com
 .cdn.pushowl.com
