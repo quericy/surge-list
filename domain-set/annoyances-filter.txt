@@ -4,7 +4,6 @@
 .cdn.convertbox.com
 .app.conversiobot.com
 .sdk.getsitekit.com
-.web.webformscr.com
 .engine.findaphd.com
 .alertme.news
 .ipepostman.com

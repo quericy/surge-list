@@ -144,7 +144,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.huataisangao.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -911,7 +910,6 @@
 .fexiaen.com
 .ffa9.cn
 .fghlmiaoqrtyfl65ha0ss22k3dqi6lng.com
-.fijipic.xyz
 .fisher56.com
 .fjbzjc.com
 .fjdy.cc
@@ -1102,6 +1100,7 @@
 .huaerduo.com
 .huapuzs.com
 .huashengtai.net
+.huataisangao.cn
 .huichenbz.com
 .huigun.top
 .huimee.com
@@ -1433,6 +1432,7 @@
 .metro114.com
 .mgtv-bbqn.oss-cn-beijing.aliyuncs.com
 .mgwcn.com
+.miaolejieshui.cn
 .miaozhen.com
 .mieyisi.com
 .mindopu.com
@@ -2407,6 +2407,7 @@
 .ad-img.diyidan.net
 .ad.52av.one
 .ad.bobi.tw
+.ad.byfuh.com
 .ad.ccement.com
 .ad.cdnjm.cn
 .ad.walkgame.com
@@ -3483,11 +3484,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.fuchuqu.cn
-.xiaokeaiapp.com
-.p0pm5z.cn
-.dedayuntong.com
-.cw49z0.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
 .027whht.com
@@ -3901,6 +3897,7 @@
 .cshwhy.cn
 .cssjs.info
 .cuoss.com
+.cw49z0.cn
 .cxb4.cn
 .cxcxt.com
 .cxmob.net
@@ -3937,6 +3934,7 @@
 .ddskyuu.com
 .ddyingyan.com
 .ddzeg.com
+.dedayuntong.com
 .dehuaguanyin.com
 .deskt.cn
 .deyidesign.com
@@ -4057,6 +4055,7 @@
 .fstaw.com
 .fszhxd.com
 .ftslkw.cn
+.fuchuqu.cn
 .fuhaimuye.cn
 .fuligrs.cn
 .futengbao.com.cn
@@ -4633,6 +4632,7 @@
 .oycslia.xyz
 .oycslib.xyz
 .oycslic.xyz
+.p0pm5z.cn
 .panwenjun.top
 .pbtxt.win
 .pbvxtgn.cn
@@ -5065,6 +5065,7 @@
 .xiangyuym.cn
 .xiaobingmai.cn
 .xiaogouzhuanqian.cn
+.xiaokeaiapp.com
 .xieyanmin.com.cn
 .xindelin.cn
 .xinghao89.com
