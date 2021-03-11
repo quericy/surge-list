@@ -5,6 +5,8 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.aff.trackinglibrary.prodperfect.com
+.logbor.com
 .click-plus.net
 .smart-bdash.com
 .analytics.contents.by-fw.jp
@@ -3062,6 +3064,7 @@
 .zqtk.net
 .zroitracker.com
 .functionalclam.com
+.bawdybalance.com
 .unwieldyhealth.com
 .boilingcredit.com
 .wearbasin.com
@@ -4110,6 +4113,10 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.uep.gaijin.net
+.event.impression-neo.naver.com
+.er.search.naver.com
+.s.search.naver.com
 .log.tf.co.kr
 .log.zdnet.co.kr
 .weblog.zdnet.co.kr

@@ -1,3 +1,13 @@
+.lubowitz.biz
+.pedestrianneighbourly.com
+.thugitori.pro
+.grainstucked.com
+.blogads*.blogspot.com
+.keydawnawe.com
+.fuqypaqu.xyz
+.demurcobsoho.com
+.pdxgfnnoan.com
+.duamilsyr.com
 .elathalobolo.com
 .bayirksrap.com
 .web-redirecting.com
@@ -6,7 +16,6 @@
 .capsheirspages.com
 .shrillbighearted.com
 .cpm.media
-.displayformatcontent.com
 .ad.chandrabindu.net
 .oupaumul.net
 .wolaufie.com
@@ -45,7 +54,6 @@
 .loftsbaacad.com
 .dmmzkfd82wayn.cloudfront.net
 .engagedhits.com
-.choconart.com
 .coinad.xyz
 .andibringto.biz
 .oranegfodnd.com
@@ -420,7 +428,6 @@
 .adtol.com
 .feboni.info
 .secret-photos.com
-.topflownews.com
 .ck-cdn.com
 .poptival.com
 .rubiginose.com
@@ -2011,6 +2018,7 @@
 .cb8717377086c72d.com
 .go.mobiprotg.com
 .samsungtvads.com
+.yotta.scrolller.com
 .tontent.povwideo.me
 .ad.holmesmind.com
 .j83ad.speedrun.com
@@ -2164,7 +2172,6 @@
 .sp.tennessean.com
 .storesurprise.com
 .gjc.gjirafa.com
-.embed.dugout.com
 .code.ainsyndication.com
 .ads1-adselo.com
 .adsy.mail.bg
@@ -4098,6 +4105,7 @@
 .chkfdt.com
 .chocheligli.pro
 .chocohjuanfhdhf.com
+.choconart.com
 .chofezrj.com
 .choinsiden.club
 .chooksee.net
@@ -4653,6 +4661,7 @@
 .disparitypuppetfestivity.com
 .displaycontentnetwork.com
 .displaycontentprofit.com
+.displayformatcontent.com
 .displayformatrevenue.com
 .displaynetworkcontent.com
 .displaynetworkprofit.com
@@ -5258,6 +5267,7 @@
 .expresentc.top
 .expsevdkqyr.com
 .exrtbsrv.com
+.extraordinarygeorgianaanomalous.com
 .extrementtgfa.site
 .extyoasigus.com
 .exualpaignp.info
@@ -6195,6 +6205,7 @@
 .hubturn.info
 .hubvotrpjios.com
 .huctgggrvw.com
+.hufwitew.com
 .huglivoa.net
 .huhkfzino.com
 .huhughyaw.com
@@ -9043,6 +9054,7 @@
 .retirementlash.com
 .returnessety.site
 .reurbanisant.xyz
+.revampcdn.com
 .revbigo.com
 .revengemeantjackpot.com
 .revenuecpmnetwork.com
@@ -17858,6 +17870,7 @@
 .trafyield.com
 .traktrafficflow.com
 .trcklks.com
+.trejar.com
 .trellian.com
 .trfsltions.info
 .trido.club
@@ -18216,6 +18229,7 @@
 .imglnkc.com
 .impactslam.com
 .impressionmonster.com
+.incrediblevideosvst.com
 .inheart.ru
 .intelensafrete.stream
 .intellichatadult.com
@@ -18667,6 +18681,7 @@
 .xtrafficads.com
 .xtremeserve.xyz
 .xvstvids.co
+.xvstvids.com
 .xxltr.com
 .xxxadv.com
 .xxxallaccesspass.com
@@ -19212,7 +19227,6 @@
 .indieclick.3janecdn.com
 .inline.playbryte.com
 .intermrkts.vo.llnwd.net
-.justanswer.com
 .karma.mdpcdn.com
 .kbnetworkz.s3.amazonaws.com
 .leaddyno-client-images.s3.amazonaws.com
@@ -19516,6 +19530,7 @@
 .record.affiliatelounge.com
 .record.sportsbetaffiliates.com.au
 .rocketgames.com
+.saucepanstream.com
 .serve.prestigecasino.com
 .serve.williamhillcasino.com
 .settlecruise.org
@@ -19523,7 +19538,9 @@
 .sharecash.org
 .static.akacdn.ru
 .sunnyplayer.com^*^aff
+.theonlygames.com
 .thetraderinpajamas.com
+.topflownews.com
 .track.mypcbackup.com
 .vpnfortorrents.best
 .weeklyprizewinner.com-net.info

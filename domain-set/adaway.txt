@@ -2504,7 +2504,6 @@
 .howdoesin.net
 .hs-analytics.net
 .analytics.htmedia.in
-.app.hubspot.com
 .api.huqindustries.co.uk
 .charles.huqindustries.co.uk
 .crosspromo.hutchgames.io
@@ -3033,7 +3032,6 @@
 .api.hdtv.letv.com
 .api.itv.letv.com
 .api.platform.letv.com
-.metrics.lfanalytics.io
 .ads1.lfengmobile.com
 .204.scloud.lfengmobile.com
 .agnes.scloud.lfengmobile.com
@@ -5634,7 +5632,6 @@
 .wigetmedia.com
 .analytics.wildtangent.com
 .tracker.winudf.com
-.fast.wistia.com
 .opensdk.wlanbanlv.com
 .api.wonderpush.com
 .static.woopra.com
