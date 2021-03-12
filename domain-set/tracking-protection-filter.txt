@@ -5,6 +5,13 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.goatcounter.com
+.gc.zgo.at
+.fryvzw.com
+.ttrace.ru
+.c.dpgmedia.net
+.brandmetrics.com
+.adgainersolutions.com
 .aff.trackinglibrary.prodperfect.com
 .logbor.com
 .click-plus.net
