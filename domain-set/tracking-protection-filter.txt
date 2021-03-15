@@ -5,6 +5,8 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.k-analytix.com
+.i.btg360.com.br
 .tracdelight.io
 .goatcounter.com
 .gc.zgo.at

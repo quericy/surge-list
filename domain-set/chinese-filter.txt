@@ -146,7 +146,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.hfoyjg.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -1062,6 +1061,7 @@
 .heygugu.com
 .hezhenzi.com
 .hfjuki.com
+.hfoyjg.cn
 .hfsteel.net
 .hg-labs.com
 .hhhhbf.com
@@ -3449,8 +3449,12 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.haomaiweb.com
-.xunzhuo123.com
+.h4kdxs.com
+.xiaoshuoyun.cn
+.ir2aok.com
+.j5sq8.com
+.appstreets.com
+.houfang8.com
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
 .027whht.com
@@ -4122,6 +4126,7 @@
 .hanmiyong.com
 .hanqingstudio.com
 .hanzhixin.cn
+.haomaiweb.com
 .haomaojin.com
 .haoxianyangrouye.com
 .happyyong.com
@@ -5082,6 +5087,7 @@
 .xuenengyoujiaoyu.com
 .xujx8.com
 .xunhuaji.cn
+.xunzhuo123.com
 .xuro006.com
 .xuxiangkj.com
 .xuyssur.cn
