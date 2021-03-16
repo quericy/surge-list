@@ -749,6 +749,7 @@
 .appnext-a.akamaihd.net
 .ds-aksb-a.akamaihd.net
 .inmobisdk-a.akamaihd.net
+.middycdn-a.akamaihd.net
 .supersonicads-a.akamaihd.net
 .cdn-guile.akamaized.net
 .dyn-beacon.akamaized.net
@@ -977,6 +978,7 @@
 .sdk.appbrain.com
 .api.appcelerator.com
 .cloud.appcelerator.com
+.in.appcenter.ms
 .ads.appchair.com
 .log.appchina.com
 .mobile.appchina.com
@@ -1176,6 +1178,8 @@
 .y.atwola.com
 .adctrl.aubemobile.com
 .update.aubemobile.com
+.configs-community-app.audent.io
+.sentry.audent.io
 .auditude.com
 .augur.io
 .autoads.asia
@@ -1339,6 +1343,7 @@
 .licensing.blinkreceipt.com
 .sdk-resources.blinkreceipt.com
 .tr.blismedia.com
+.personalization.bloomberg.com
 .cdn.bluebillywig.com
 .stats.bluebillywig.com
 .vms.bluebillywig.com
@@ -1483,6 +1488,7 @@
 .api.circularhub.com
 .app.cision.com
 .prapi.cision.com
+.www.clarity.ms
 .i.clean.gg
 .report.clevernt.com
 .sender.clevernt.com
@@ -2087,6 +2093,8 @@
 .fastapi.net
 .mparticle.map.fastly.net
 .sonar-iad.xx.fbcdn.net
+.video-dfw5-1.xx.fbcdn.net
+.video-dfw5-2.xx.fbcdn.net
 .affiliate.fc2.com
 .aimg.fc2.com
 .enrichmentservices.fccinteractive.com
@@ -2315,6 +2323,9 @@
 .phar.gu-web.net
 .gumgum.com
 .ad-specs.guoshipartners.com
+.beacons.gvt2.com
+.beacons.gcp.gvt2.com
+.beacons5.gvt3.com
 .gwallet.com
 .h12-media.com
 .hadarone.com
@@ -2946,6 +2957,7 @@
 .updater.lionmobi.com
 .tracking.listhub.net
 .player.stats.live-video.net
+.lptag.liveperson.net
 .server.iad.liveperson.net
 .sds.livesegmentservice.com
 .ad.lkqd.net
@@ -3261,6 +3273,10 @@
 .microad.net
 .send.microadinc.com
 .bingads.microsoft.com
+.vortex.data.microsoft.com
+.mobile.events.data.microsoft.com
+.mobile.pipe.aria.microsoft.com
+.self.events.data.microsoft.com
 .midasplayer.com
 .client.midosoo.com
 .minimob.com
@@ -3586,6 +3602,7 @@
 .prod-m-node-2112.nexage.com
 .ccpa.psg.nexstardigital.net
 .nextclick.pl
+.geo.ngtv.io
 .ads.nicovideo.jp
 .apps.nielsen.com
 .cec-global.nielsen.com
@@ -3749,6 +3766,7 @@
 .vastcdn.outbrain.com
 .videoclientsservicescalls.outbrain.com
 .videoevents.outbrain.com
+.vrt.outbrain.com
 .widget-pixels.outbrain.com
 .widgetmonitor.outbrain.com
 .widgets.outbrain.com
@@ -3763,6 +3781,7 @@
 .log.outbrainimg.com
 .tcheck.outbrainimg.com
 .zem.outbrainimg.com
+.prod-collecticon.outlookmobile.com
 .bidder.owneriq.net
 .px.owneriq.net
 .local.ownlocal.com
@@ -4302,6 +4321,7 @@
 .ios-quinoa-personal-identify-prod.sense360eng.com
 .quinoa-personal-identify-prod.sense360eng.com
 .api.sentiance.com
+.o430870.ingest.sentry.io
 .servebom.com
 .m.servedby-buysellads.com
 .slader.servedbyopenx.com
@@ -5313,6 +5333,7 @@
 .ads.yap.yahoo.com
 .analytics.query.yahoo.com
 .bats.video.yahoo.com
+.edge-mcdn-beacon.secure.yahoo.com
 .geo.query.yahoo.com
 .m.yap.yahoo.com
 .onepush.query.yahoo.com

@@ -5,6 +5,10 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.logger.eigene.io
+.receiver.eigene.io
+.c-rings.net
+.t.felmat.net
 .k-analytix.com
 .i.btg360.com.br
 .tracdelight.io
@@ -4123,6 +4127,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.logcol.kyobobook.co.kr
 .uep.gaijin.net
 .event.impression-neo.naver.com
 .er.search.naver.com
