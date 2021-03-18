@@ -5,6 +5,7 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.px.za.zaloapp.com
 .jg.wensixuetang.com
 .tapjoy.com
 .tapjoy.net
@@ -4130,6 +4131,8 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.stat.5-tv.ru
+.log.zingnews.vn
 .logcol.kyobobook.co.kr
 .uep.gaijin.net
 .event.impression-neo.naver.com

@@ -441,7 +441,6 @@
 .pushengage.com
 .pushwoosh.com
 .push4site.com
-.cleverpush.com
 .pushaya.com
 .trendentrium.com
 .purchacade.info
