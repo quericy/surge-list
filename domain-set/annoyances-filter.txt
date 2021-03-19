@@ -606,6 +606,7 @@
 .widgets.opinary.com
 .app.mycountrytalks.org
 .insticator.com
+.chat.mundiale.com.br
 .cdn-chat.grattis.ru
 .widget.replain.cc
 .cdn.qform24.com
