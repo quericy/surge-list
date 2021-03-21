@@ -5,6 +5,7 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.tm.msgs.jp
 .randiul.com
 .px.za.zaloapp.com
 .jg.wensixuetang.com
