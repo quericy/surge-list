@@ -657,6 +657,7 @@
 .bnq86.com
 .bnuni.com
 .bole.asia
+.boleimg.com
 .bolimen.top
 .bosatria.cn
 .bosiwangzi.cn
@@ -1020,6 +1021,7 @@
 .gugeys.com
 .guidashu.com
 .guominziben.com
+.guotaotaoci.net
 .guoxintdh.com
 .gutouwang.net
 .guzijie.top
@@ -1082,6 +1084,7 @@
 .hi760.com
 .hiad.myweb.hinet.net
 .hivecn.cn
+.hizbpdu.cn
 .hk662.com
 .hkfuy.com
 .hktv10.com
@@ -1592,6 +1595,7 @@
 .pos.baidu.com
 .poyang.cn
 .poyang.com
+.ppcdweb.cc
 .pr00001.com
 .pro.cn
 .prohibited.cn
@@ -2697,8 +2701,6 @@
 .wofjhs.com
 .immedlinkum.info
 .xayah.date
-.aijiamao.top
-.isu.weidianyuedu.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -2787,6 +2789,7 @@
 .5.douben8.com
 .5.gzfenda.com
 .51dengshan.cn
+.51ertong.com
 .51gxqm.com
 .51yhzp.com
 .5pub.com
@@ -2884,6 +2887,7 @@
 .adccoo.cn
 .adjb.5nd.com
 .ag1.zuszw.com
+.aijiamao.top
 .aili.com
 .aiwen.cc
 .al.newxue.com
@@ -3144,6 +3148,7 @@
 .inone517.com
 .ios.426g.com
 .ishuoshuo.com
+.isu.weidianyuedu.com
 .iy.com.cn
 .j.baminw.cn
 .j.diangon.com
@@ -3373,6 +3378,7 @@
 .xiaoling.ixiunv.com
 .xiaomiaoquan.com
 .xiaopangtao.com
+.xiaopinwo.com
 .xinju.cc
 .xitongku.cc
 .xne1ocient87zxz.360doc.cn
@@ -3477,7 +3483,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.rvsosm.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
 .027whht.com
@@ -4471,6 +4476,7 @@
 .llffaev.cn
 .llqd5.cn
 .lmdknj.vbiquge.com
+.lnalttc.com
 .lobmuc.cn
 .lolvsdota.cn
 .longfenfa.com
@@ -4755,6 +4761,7 @@
 .rqvfewi.cn
 .ruyidk.com
 .ruyiqufu.com
+.rvsosm.cn
 .rxconkz.cn
 .rxxdq.cn
 .rzlib.net
