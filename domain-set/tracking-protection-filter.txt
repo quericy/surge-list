@@ -5,6 +5,10 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.tracker.digitalcamp.co.kr
+.tracker.adbinead.com
+.burpee.xyz
+.spnx.jp
 .ac.ecai-report.com
 .track.span-smt.jp
 .trk.fensi.plus
@@ -1826,7 +1830,7 @@
 .logdy.com
 .logentries.com
 .loger.ru
-.logger.co.kr
+.trk*.logger.co.kr
 .loggly.com
 .lognormal.net
 .logua.com
