@@ -72,6 +72,7 @@
 .cookielaw.org
 .cookiebot.com
 .gdpr-wrapper.privacymanager.io
+.cookiemanager.wirth-horn.de
 .consent.trustarc.com
 .consent.dumont.de
 .metomic.io

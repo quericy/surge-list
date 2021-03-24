@@ -5,6 +5,9 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.nave.foone.com.br
+.cdn-ra.rockcontent.com
+.ra.rockcontent.com
 .tracker.digitalcamp.co.kr
 .tracker.adbinead.com
 .burpee.xyz
@@ -61,6 +64,7 @@
 .pvk.jp
 .uncn.jp
 .ad-spire.net
+.investingchannel.com
 .f-counter.net
 .moshimo.com
 .counter.monkeybanana3.com
@@ -510,7 +514,7 @@
 .personaclick.com
 .counter*.freecounter.ovh
 .noy90o.com
-.logsss.com
+.analytics.logsss.com
 .tnative.ru
 .redatastore.ru
 .cinarra.com
