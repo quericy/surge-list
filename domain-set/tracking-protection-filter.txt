@@ -5,6 +5,8 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.mci1.co.kr
+.vercel-insights.com
 .nave.foone.com.br
 .cdn-ra.rockcontent.com
 .ra.rockcontent.com
