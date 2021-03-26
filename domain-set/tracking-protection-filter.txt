@@ -5,6 +5,13 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.pensebig.com.br
+.suite*.linximpulse.net
+.retargeter.com.br
+.shotarget.co.uk
+.shopback.net
+.shopconvert.com.br
+.neemu.com
 .mci1.co.kr
 .vercel-insights.com
 .nave.foone.com.br
@@ -169,6 +176,7 @@
 .iesnare.com
 .lngtd.com
 .dw-eu.com.com
+.counter.jdi5.com
 .indexww.com
 .i.viafoura.co
 .adsrvr.org
@@ -4265,7 +4273,6 @@
 .d18p8z0ptb8qab.cloudfront.net
 .pixel.trackverify.com
 .cdn.contalyze.com
-.log.news.zing.vn
 .px.gfycat.com
 .vhsrwd.aip24.pl
 .analytics.dpd.com

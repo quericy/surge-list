@@ -4,7 +4,6 @@
 .getbutton.io
 .getbtn.com
 .snapwidget.com
-.widget.instagramm.ru
 .widget.instodom.com
 .mediabuttons.ru
 .tgwidget.com
@@ -15,14 +14,10 @@
 .button.flattr.com
 .cdn.wibiya.com
 .changetip.com
-.cim.meebo.com
 .coverweb.org
 .filamentapp-assets.s3.amazonaws.com
 .filamentapp.s3.amazonaws.com
 .goodshare.ru
-.i.po.st
-.iknopo.ru
-.img-trkcllcropy.mncdn.com
 .lessbuttons.com
 .likebtn.com
 .linksalpha.com
@@ -35,7 +30,6 @@
 .shareaholic.com
 .sharethis.com
 .shorte.st
-.socpost.net
 .static.hootsuite.com
 .sumome-140a.kxcdn.com
 .taboolasyndication.com
