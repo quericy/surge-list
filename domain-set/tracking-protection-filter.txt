@@ -5,6 +5,8 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.heymatic.com
+.ad-log.dable.io
 .pensebig.com.br
 .suite*.linximpulse.net
 .retargeter.com.br

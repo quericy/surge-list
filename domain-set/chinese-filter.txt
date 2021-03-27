@@ -156,6 +156,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.dce0k0.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -2703,6 +2704,7 @@
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
+.ad-1258444056.cos.accelerate.myqcloud.com
 .3336672.com
 .3337729.com
 .3337751.com
@@ -3497,8 +3499,9 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.s28xvp.com
-.yundingmap.com
+.zvqbbj.cn
+.lamaowei.com
+.7b6l2j.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
 .027whht.com
@@ -4783,6 +4786,7 @@
 .rxxdq.cn
 .rzlib.net
 .rzxlszy.vip
+.s28xvp.com
 .saastt.com
 .sachbs.club
 .sakuraquant.com
@@ -5243,6 +5247,7 @@
 .yuhuanjiuye.com
 .yun-pdm2000.cn
 .yun-pdm5000.cn
+.yundingmap.com
 .yunl1.com
 .yushengyuancaishui.com
 .yuxiny.com

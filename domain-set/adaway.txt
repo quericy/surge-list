@@ -963,7 +963,6 @@
 .ymsdk.apkcar.com
 .app-adforce.jp
 .app-measurement.com
-.app.link
 .cdn-api.appadhoc.com
 .experiment.appadhoc.com
 .sdk.appadhoc.com
@@ -3275,9 +3274,8 @@
 .bingads.microsoft.com
 .vortex.data.microsoft.com
 .mobile.events.data.microsoft.com
-.mobile.pipe.aria.microsoft.com
 .self.events.data.microsoft.com
-.midasplayer.com
+.adtrack1.midasplayer.com
 .client.midosoo.com
 .minimob.com
 .tracking.miui.com
@@ -3667,7 +3665,6 @@
 .apicosdk.onemt.co
 .apicssdk.onemt.co
 .click.oneplus.com
-.onesignal.com
 .geolocation.onetrust.com
 .aa.online-metrix.net
 .eu-aa.online-metrix.net
