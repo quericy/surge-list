@@ -156,7 +156,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.dce0k0.cn
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -816,6 +815,7 @@
 .dazibenwm.com
 .dbncp.com
 .dbojetp.cn
+.dce0k0.cn
 .dcxmy.com
 .dddddd.net
 .ddhtek.com
@@ -2447,6 +2447,7 @@
 .abc.hkepc.com
 .abc.hkepc.net
 .acodes.b2b.cn
+.ad-1258444056.cos.accelerate.myqcloud.com
 .ad-api.cnblogs.com
 .ad-img.diyidan.net
 .ad.52av.one
@@ -2704,7 +2705,6 @@
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
-.ad-1258444056.cos.accelerate.myqcloud.com
 .3336672.com
 .3337729.com
 .3337751.com
@@ -3499,9 +3499,7 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.zvqbbj.cn
-.lamaowei.com
-.7b6l2j.cn
+.uaevivi.top
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
 .027whht.com
@@ -3621,6 +3619,7 @@
 .73cm.com
 .74vc.cn
 .76xs.com
+.7b6l2j.cn
 .7ez4.cn
 .7j7jv5.cn
 .7kkqq.com
@@ -4456,6 +4455,7 @@
 .laiye315.top
 .lalaaal.cn
 .lalaxit.cn
+.lamaowei.com
 .lanshiwan.cn
 .lantuyj.com
 .laojiayoufang.com
@@ -5330,6 +5330,7 @@
 .zunss.com
 .zuopp.com
 .zutodu.cn
+.zvqbbj.cn
 .zwhkug.cn
 .zwkssb.com
 .zwychain.cn
