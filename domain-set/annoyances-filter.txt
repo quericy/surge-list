@@ -60,6 +60,7 @@
 .cookie-sl.s3.*.amazonaws.com
 .consent.cookiefirst.com
 .hs-banner.com
+.aloofvest.com
 .hs-scripts.com
 .cookiehub.net
 .cdn.opencmp.net
