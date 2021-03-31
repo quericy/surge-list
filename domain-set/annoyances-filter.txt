@@ -75,6 +75,7 @@
 .gdpr-wrapper.privacymanager.io
 .cookiemanager.wirth-horn.de
 .consent.trustarc.com
+.onetrust.com
 .consent.dumont.de
 .metomic.io
 .privacy-center.org
