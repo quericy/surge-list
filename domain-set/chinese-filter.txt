@@ -570,6 +570,7 @@
 .aishangcan.com
 .ajaxcdn.org
 .ak0429.com
+.aklm.cc
 .alifixed.cn
 .alightin.com
 .alimama.alicdn.com
@@ -982,6 +983,7 @@
 .gaycloud.cn
 .gclick.cn
 .gdbly.com
+.gdcytv.cn
 .gdgy56.com
 .gdskywings.com
 .gdxxb.com
@@ -2162,6 +2164,7 @@
 .xn--xhq9mt12cf5v.site
 .xn--xhq9mt12cf5v.top
 .xn--xhq9mt12cf5v.website
+.xn--xhq9mt12cf5v.xn--io0a7i
 .xnjpg.com
 .xnmcmnt.cn
 .xp3366.com
@@ -3678,6 +3681,7 @@
 .aduic.com
 .affiliate6.com
 .aganj.com
+.agpligj.cn
 .ah808.com
 .ahidna.cn
 .ahuac.com
@@ -3872,6 +3876,7 @@
 .chinawms.cn
 .chinaxingyin.com
 .chinayutai.cn
+.chongnikeji.com
 .chuangjulm.cn
 .chuzrra.cn
 .cifree.xyz
@@ -5066,6 +5071,7 @@
 .wlaoc.cn
 .wlbqczk.vip
 .wlshotel.cn
+.wmk0099.xyz
 .wnsoth.cn
 .wokekk.com
 .workbizs.com
