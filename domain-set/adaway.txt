@@ -1559,10 +1559,6 @@
 .cmcore.com
 .appconfig.cmgdigital.com
 .cmgfeeds.cmgdigital.com
-.mobile-dssf-prod.cmtelematics.com
-.mobile-log-dssf-prod.cmtelematics.com
-.mobile-log.cmtelematics.com
-.mobile.cmtelematics.com
 .id1.cn.com
 .agility.cnn.com
 .lightning.cnn.com

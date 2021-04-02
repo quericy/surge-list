@@ -5,7 +5,13 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.hktracker.hankookilbo.com
+.ibeat-analytics.com
+.tag-based.s3.*.amazonaws.com
 .oeqirr.com
+.cbdatatracker.com
+.pages-stats.rbl.ms
+.res.rbl.ms
 .hubble.netease.com
 .im.cbsileads.com
 .heymatic.com
@@ -59,6 +65,7 @@
 .aff.trackinglibrary.prodperfect.com
 .logbor.com
 .click-plus.net
+.stats.vliplatform.com
 .smart-bdash.com
 .analytics.contents.by-fw.jp
 .appier.net
@@ -3047,6 +3054,7 @@
 .zqtk.net
 .zroitracker.com
 .functionalclam.com
+.fumblingform.com
 .aloofvest.com
 .bawdybalance.com
 .unwieldyhealth.com
@@ -4057,6 +4065,8 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.cwt.citywire.info
+.ua.indianexpress.com
 .a-reporting.nytimes.com
 .metrika.lookmovie.io
 .s.deepl.com
