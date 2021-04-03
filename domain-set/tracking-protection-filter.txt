@@ -96,6 +96,7 @@
 .moshimo.com
 .counter.monkeybanana3.com
 .analytic-client.playful-fairies.com
+.eventapi.libring.com
 .tk.promit.ru
 .ztest1track.com
 .phar.gu-web.net
@@ -3054,6 +3055,7 @@
 .zqtk.net
 .zroitracker.com
 .functionalclam.com
+.warmafterthought.com
 .fumblingform.com
 .aloofvest.com
 .bawdybalance.com
@@ -12318,6 +12320,9 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.api*.amplitude.com
+.conversions.appsflyer.com
+.collect.serious.li
 .analytics.jodelapis.com
 .analytics.mobilegamestats.com
 .p.statp.com
