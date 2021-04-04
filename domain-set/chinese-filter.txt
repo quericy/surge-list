@@ -1,4 +1,3 @@
-.qichetuoyun.com.cn
 .ef9i0f3oev47.com
 .d2kadvyeq051an.cloudfront.net
 .oyvyxj.cn
@@ -2719,7 +2718,6 @@
 .wofjhs.com
 .immedlinkum.info
 .xayah.date
-.qiyegongqiu1.qiyegongqiu.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3295,6 +3293,7 @@
 .qifake.com
 .qiji1.jdwx.info
 .qiyeb.iaskbus.com
+.qiyegongqiu1.qiyegongqiu.com
 .ql.uzuzuz.com
 .qpb.sohu.com
 .qqhuhu.com
@@ -3506,9 +3505,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.lylifa.com
-.jpqgxy.com
-.gssdsj.com
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
 .027whht.com
@@ -4160,6 +4156,7 @@
 .grjs08.com
 .grtnahd.cn
 .grubfast.com
+.gssdsj.com
 .gtchong.com
 .gtifund.cn
 .gtnde.com
@@ -4392,6 +4389,7 @@
 .jollyspring.com
 .jotrening.com
 .jpg1.oss-cn-beijing.aliyuncs.com
+.jpqgxy.com
 .jqhevyf.cn
 .jqpvv.cn
 .jskang.cn
@@ -4535,6 +4533,7 @@
 .lychangxu.cn
 .lyczhb.com
 .lyjz001.com
+.lylifa.com
 .lzida.com
 .lzytt.com
 .m06nev.com
@@ -4736,6 +4735,7 @@
 .qianggou8.top
 .qianyuntengyue.com
 .qiaopiguniang.com
+.qichetuoyun.com.cn
 .qiditrade.com
 .qilungroup.cn
 .qinchugudao.com
