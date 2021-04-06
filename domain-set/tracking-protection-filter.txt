@@ -5,6 +5,13 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.sp.dpgmedia.net
+.beak.bigdata.dpgmmservices.nl
+.sat.public.bd.313.nl
+.distillery.wistia.com
+.pipedream.wistia.com
+.mutinycdn.com
+.estatcounter.co.uk
 .hktracker.hankookilbo.com
 .ibeat-analytics.com
 .tag-based.s3.*.amazonaws.com
@@ -4067,6 +4074,9 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.temptation.ad.nl
+.events.reclamefolder.nl
+.analytics-api.smzdm.com
 .cwt.citywire.info
 .ua.indianexpress.com
 .a-reporting.nytimes.com
