@@ -5,6 +5,7 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.c-api-bit.shopeemobile.com
 .sp.dpgmedia.net
 .beak.bigdata.dpgmmservices.nl
 .sat.public.bd.313.nl
@@ -4074,6 +4075,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.dtrace.nvidia.com
 .temptation.ad.nl
 .events.reclamefolder.nl
 .analytics-api.smzdm.com
