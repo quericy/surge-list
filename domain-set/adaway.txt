@@ -5342,6 +5342,7 @@
 .data.mistat.india.xiaomi.com
 .data.mistat.intl.xiaomi.com
 .data.mistat.rus.xiaomi.com
+.diagnosis.ad.intl.xiaomi.com
 .sdkconfig.ad.intl.xiaomi.com
 .zeus.ad.intl.xiaomi.com
 .ad-sdk.altamob.xiaoying.co

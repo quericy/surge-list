@@ -13,11 +13,11 @@
 .pipedream.wistia.com
 .mutinycdn.com
 .estatcounter.co.uk
-.hktracker.hankookilbo.com
 .ibeat-analytics.com
 .tag-based.s3.*.amazonaws.com
 .oeqirr.com
 .cbdatatracker.com
+.hktracker.hankookilbo.com
 .pages-stats.rbl.ms
 .res.rbl.ms
 .hubble.netease.com
@@ -27,12 +27,14 @@
 .sitescout.com
 .ad-log.dable.io
 .pensebig.com.br
+.analytics.ratopanda.com
 .suite*.linximpulse.net
 .retargeter.com.br
 .shotarget.co.uk
 .shopback.net
 .shopconvert.com.br
 .neemu.com
+.prod-sb-appanalytics-us1.servicebus.windows.net
 .mci1.co.kr
 .analytics.sitewit.com
 .ecomm.events
@@ -4075,6 +4077,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.crta.metro.co.uk
 .dtrace.nvidia.com
 .temptation.ad.nl
 .events.reclamefolder.nl

@@ -3508,10 +3508,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.zhangdujia.com
-.nbwmsod.cn
-.sxbxzc.com
-.dofkfhv.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
 .027whht.com
@@ -3839,6 +3835,7 @@
 .bulankk.com
 .bulkeach.com
 .buyuninfo.com
+.buzx53.cn
 .bvoer.com
 .bx9000.top
 .bytb996.top
@@ -3929,6 +3926,7 @@
 .coyvzui.cn
 .cpcc.xyz
 .cqbaitong.cn
+.cqerbihou.com
 .cqgya.com
 .cqshaseng.com
 .cs12d.com
@@ -3996,6 +3994,7 @@
 .dmswhw.cn
 .dnfkong.com
 .dodomo.info
+.dofkfhv.cn
 .doryhome.com
 .downcdn.top
 .dreamrecord.cn
@@ -4615,6 +4614,7 @@
 .nashlin.top
 .nazhenkj.com
 .nbhotpo.com
+.nbwmsod.cn
 .ncoyqc.com
 .nduop.com
 .ndusa.cn
@@ -4903,6 +4903,7 @@
 .sw9t.ml
 .swq48b.cn
 .swyhome.com
+.sxbxzc.com
 .sxehny.cn
 .sxjxhg.com
 .sxljldh.top
@@ -5261,6 +5262,7 @@
 .youshouge513.cn
 .youweiprint.com
 .yqqlm.vip
+.yrqwyn.cn
 .yrrsckr.cn
 .yscci.com
 .ysjweb.com
@@ -5319,6 +5321,7 @@
 .zgjkv.com
 .zgncpjyw.cn
 .zgsxhx.com
+.zhangdujia.com
 .zhangshiyuan.com
 .zhanjiangletian.com
 .zhanlan5.cn
