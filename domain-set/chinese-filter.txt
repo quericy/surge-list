@@ -1013,6 +1013,7 @@
 .govgift.com
 .govhunan.cn
 .govjiangsu.cn
+.govshenzhen.cn
 .gowin01.com
 .gowinxp.com
 .gqswg.com
@@ -1428,6 +1429,7 @@
 .lv55p.cn
 .lv711.net
 .lvehaisen.com
+.lvt1980.cn
 .lx167.com
 .lxqcgj.com
 .lyadu.com
@@ -3589,6 +3591,7 @@
 .517kp.com
 .519397.com
 .51dianji.cn
+.51elandt.com
 .51fishplace.com
 .51foodsafe.cn
 .51gpt.com
@@ -4067,6 +4070,7 @@
 .feipaihehuoren.cn
 .feizailin.com
 .fengmishop.cn
+.fengousm.com
 .ff01s.cn
 .ffg34fg.877zw.com
 .ffhre.com
@@ -4165,6 +4169,7 @@
 .grjs08.com
 .grtnahd.cn
 .grubfast.com
+.gslyxny.com
 .gssdsj.com
 .gtchong.com
 .gtifund.cn
@@ -5002,6 +5007,7 @@
 .u05m.cn
 .u0r9.cn
 .u2c8.cn
+.u5wzi0h.cn
 .u98ql6o.top
 .uaevivi.top
 .ubt573.org

@@ -5,6 +5,7 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.pointmediatracker.com
 .c-api-bit.shopeemobile.com
 .sp.dpgmedia.net
 .beak.bigdata.dpgmmservices.nl
@@ -2661,6 +2662,7 @@
 .sysomos.com
 .t-analytics.com
 .t4ft.de
+.taboola.com.cn
 .taboola.com
 .tag4arm.com
 .tagsrvcs.com
