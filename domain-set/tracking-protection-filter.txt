@@ -5,6 +5,7 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.t.rainide.com
 .durationmedia.net
 .pointmediatracker.com
 .c-api-bit.shopeemobile.com

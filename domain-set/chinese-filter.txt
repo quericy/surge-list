@@ -158,6 +158,8 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.xcsci.cn
+.ysjkbk.com
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -985,7 +987,6 @@
 .gaycloud.cn
 .gclick.cn
 .gdbly.com
-.gdcytv.cn
 .gdgy56.com
 .gdskywings.com
 .gdxxb.com
@@ -3511,11 +3512,8 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.shrtswkj.com
-.yunnanpulasi.com
-.ly2si17.cn
-.tn34lkn.com
-.v5levm1.com
+.91yktong.com
+.lxhjaq.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
 .027whht.com
@@ -4550,6 +4548,7 @@
 .lvkuaizi.com
 .lvsechufang.com
 .lwlscy.com
+.ly2si17.cn
 .ly5200.cn
 .lychangxu.cn
 .lyczhb.com
@@ -4866,6 +4865,7 @@
 .shjrwh.cn
 .shjsxx.com
 .shorug.cn
+.shrtswkj.com
 .shsnjj.top
 .shunxinyuancaiwu.cn
 .signstu.top
@@ -4979,6 +4979,7 @@
 .tlwl1.cn
 .tlwl2.cn
 .tmrmixer.cn
+.tn34lkn.com
 .tnl808z.cn
 .tochgw.com
 .tongbuchi.com
@@ -5042,6 +5043,7 @@
 .uxnycjr.cn
 .uyueread.com
 .uzyid.cn
+.v5levm1.com
 .vasb.cn
 .vbanm.com
 .vbnm888.com
@@ -5295,6 +5297,7 @@
 .yun-pdm5000.cn
 .yundingmap.com
 .yunl1.com
+.yunnanpulasi.com
 .yushengyuancaishui.com
 .yuxiny.com
 .ywbwsm.com
