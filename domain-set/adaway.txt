@@ -2838,7 +2838,6 @@
 .ilb.pns.kt.com
 .olb.pns.kt.com
 .dataapi.ktplay.com
-.dwimg.ktplay.com
 .track.ktplay.com
 .c.ktxtr.com
 .t.ktxtr.com
@@ -3953,7 +3952,6 @@
 .cdn-otf-cas.prfct.cc
 .cdn-resources.prfct.cc
 .track.pricespider.com
-.sdk.privacy-center.org
 .static.privacytrck.com
 .privy.com
 .tracking.prmtracking.com

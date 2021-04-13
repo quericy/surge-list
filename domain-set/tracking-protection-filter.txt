@@ -5,6 +5,8 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.instapagemetrics.com
+.mas.protecmedia.com
 .t.rainide.com
 .durationmedia.net
 .pointmediatracker.com
@@ -3069,6 +3071,7 @@
 .zqtk.net
 .zroitracker.com
 .functionalclam.com
+.ticketaunt.com
 .warmafterthought.com
 .fumblingform.com
 .aloofvest.com
@@ -4081,6 +4084,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.dmp.citiservi.es
 .crta.metro.co.uk
 .dtrace.nvidia.com
 .temptation.ad.nl
@@ -12545,7 +12549,6 @@
 .api.ad.xiaomi.com
 .a.bitmango.com
 .tracking.directservices.it
-.vortex.data.microsoft.com
 .onedrive-collection.device.mobileengagement.windows.net
 .metrics.timewarnercable.com
 .flurry.agentportal-*.yahoodns.net
