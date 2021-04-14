@@ -5,6 +5,10 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.didna.io
+.log.nordot.jp
+.solutionshindsight.net
+.d.wi-fi.ru
 .instapagemetrics.com
 .mas.protecmedia.com
 .t.rainide.com
@@ -32,6 +36,7 @@
 .sitescout.com
 .ad-log.dable.io
 .pensebig.com.br
+.tracking.m6r.eu
 .analytics.ratopanda.com
 .suite*.linximpulse.net
 .retargeter.com.br
@@ -4084,6 +4089,8 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.track.wattpad.com
+.stat.download.xunlei.com
 .dmp.citiservi.es
 .crta.metro.co.uk
 .dtrace.nvidia.com
