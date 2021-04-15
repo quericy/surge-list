@@ -1,3 +1,4 @@
+.sofseo.cn
 .fo.iphonevip.cn
 .ef9i0f3oev47.com
 .d2kadvyeq051an.cloudfront.net
@@ -2602,7 +2603,6 @@
 .wofjhs.com
 .immedlinkum.info
 .xayah.date
-.t.inping.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3216,6 +3216,7 @@
 .static.ichehome.com
 .static.jiaquyi.com
 .t.cnscore.com
+.t.inping.com
 .t1.612.com
 .tech.jiukang.org
 .thetestpage.39.net
@@ -3374,7 +3375,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.yuyanhe.com
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz
 .0323wqpioutyuencsamxsd.xyz
@@ -4895,6 +4895,7 @@
 .xjsytoy.com
 .xkqpco.com
 .xl4z7.cn
+.xlhwzx.cn
 .xmcxz.com
 .xmljx.cn
 .xmseaside.com
@@ -5010,6 +5011,7 @@
 .yunnanpulasi.com
 .yushengyuancaishui.com
 .yuxiny.com
+.yuyanhe.com
 .ywbwsm.com
 .ywqpgy.com
 .ywqum.cn
@@ -5041,6 +5043,7 @@
 .zgjjkk.com
 .zgjkv.com
 .zgncpjyw.cn
+.zgnieka.cn
 .zgsxhx.com
 .zhangdujia.com
 .zhangshiyuan.com
