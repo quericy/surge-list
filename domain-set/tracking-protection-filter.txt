@@ -5,11 +5,14 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.atom-log.3.cn
+.ezodn.com
 .x-storage-a1.cir.io
 .didna.io
 .log.nordot.jp
 .solutionshindsight.net
 .d.wi-fi.ru
+.api.ipdata.co
 .instapagemetrics.com
 .mas.protecmedia.com
 .t.rainide.com
@@ -23,6 +26,7 @@
 .pipedream.wistia.com
 .mutinycdn.com
 .estatcounter.co.uk
+.statcollector.sidearmsports.com
 .ibeat-analytics.com
 .tag-based.s3.*.amazonaws.com
 .oeqirr.com
@@ -4090,6 +4094,8 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.behave.noen.at
+.tracking.noen.at
 .track.wattpad.com
 .stat.download.xunlei.com
 .dmp.citiservi.es

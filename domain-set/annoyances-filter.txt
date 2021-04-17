@@ -49,6 +49,7 @@
 .puffypull.com
 .copperchickens.com
 .ttauri.toptenreviews.com
+.cdn.privacytools.com.br
 .goadopt.io
 .traceprof.com
 .cookihq.com
@@ -163,6 +164,7 @@
 .karuna4u.com
 .pushofferpro.com
 .leechiza.net
+.pushpanda.io
 .burningpushing.info
 .inpptouch.info
 .push.knd.ro

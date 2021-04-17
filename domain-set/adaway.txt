@@ -5,6 +5,7 @@
 .ads.1mobile.com
 .api4.1mobile.com
 .sync.1rx.io
+.tag.1rx.io
 .s.206ads.com
 .api.247-inc.net
 .tie.247-inc.net
@@ -753,6 +754,7 @@
 .ds-aksb-a.akamaihd.net
 .inmobisdk-a.akamaihd.net
 .middycdn-a.akamaihd.net
+.snappytvpoc-vh.akamaihd.net
 .supersonicads-a.akamaihd.net
 .cdn-guile.akamaized.net
 .dyn-beacon.akamaized.net
@@ -1155,6 +1157,8 @@
 .sprint-srs-appopen.asapp.com
 .sprint.asapp.com
 .verizon.asapp.com
+.images.aspireclicks.com
+.aswpsdkus.com
 .ad.atdmt.com
 .aidps.atdmt.com
 .c.atdmt.com
@@ -1217,6 +1221,8 @@
 .opimedia.azureedge.net
 .ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 .b2c.com
+.matomoprod.babelstreet.com
+.mobileapi.babelstreet.com
 .adm.baidu.com
 .afd.baidu.com
 .als.baidu.com
@@ -1383,6 +1389,7 @@
 .cnn.bounceexchange.com
 .pixel.bounceexchange.com
 .tag.bounceexchange.com
+.atlantisjs.brafton.com
 .brainient.com
 .client-analytics.braintreegateway.com
 .branch.io
@@ -1400,11 +1407,13 @@
 .adserver.bridgebase.com
 .sec-citi.bridgetrack.com
 .metrics.brightcove.com
+.cdn.britepool.com
 .events.browsiprod.com
 .yield-manager.browsiprod.com
 .sdk.appadhoc.com.bsclink.cn
 .cdn.bskarn.com
 .loc.bskarn.com
+.btloader.com
 .web.btncdn.com
 .btrll.com
 .bttn.io
@@ -1489,6 +1498,7 @@
 .www.chartboost.com
 .chartboosts.com
 .smetrics.chrysler.com
+.chtbl.com
 .jp.cinarra.com
 .collector.cint.com
 .qps.cint.com
@@ -1547,6 +1557,7 @@
 .bi-analytics.cloudapp.net
 .bkt.clouddn.com
 .metrics.cloudflarebolt.com
+.static.cloudflareinsights.com
 .us-central1-production-242307.cloudfunctions.net
 .cloudmobi.net
 .cas.cluep.com
@@ -1579,6 +1590,7 @@
 .ads.cogocast.net
 .tag.cogocast.net
 .sdk.collabollc.com
+.colossusssp.com
 .engage.commander1.com
 .mytheresa.commander1.com
 .privacy.commander1.com
@@ -1686,6 +1698,7 @@
 .step-service.crossinstall.io
 .apps.crowdtangle.com
 .resources.crowdtwist.com
+.snippet.omm.crownpeak.com
 .tag.crsspxl.com
 .ad.crwdcntrl.net
 .bcp.crwdcntrl.net
@@ -1815,6 +1828,7 @@
 .st.districtm.ca
 .cdn.districtm.io
 .dmx.districtm.io
+.analytics.ens.dive.games
 .tag.divvit.com
 .bob.dmpxs.com
 .ciq.dmpxs.com
@@ -2177,6 +2191,7 @@
 .query.fqtag.com
 .s.fqtag.com
 .freegeoip.net
+.c.ftstats.com
 .dat.funheroic.com
 .pub.funshion.com
 .enjoynet.fuse-ad.com
@@ -2213,9 +2228,9 @@
 .tribez.game-insight.com
 .gameanalytics.com
 .crosspromo-cdn.gamecircus.com
-.gamehouse.com
 .igp06.gameloft.com
 .ingameads.gameloft.com
+.html5.gamemonetize.com
 .api.gameofwhales.com
 .app.games-to-run123.com
 .trk.games-to-run123.com
@@ -2376,6 +2391,7 @@
 .med.heyzap.com
 .hghit.com
 .cdn-cf-hc-banners.hgonline.net
+.h30-deploy.hiconversion.com
 .cdn.hiido.com
 .config.hiido.com
 .dlog.hiido.com
@@ -2547,6 +2563,7 @@
 .events.influencemobile.com
 .messaging.influencemobile.com
 .targeting.influencemobile.com
+.image.influenster.com
 .images.informatm.com
 .i151125.infourl.net
 .studcat.infra.systems
@@ -2851,6 +2868,7 @@
 .logonext.tv.kuyun.com
 .sumome-140a.kxcdn.com
 .api.lanistaads.com
+.largosoft.co.kr
 .launch1.co
 .mobile.launchdarkly.com
 .lavanetwork.net
@@ -3256,6 +3274,7 @@
 .memeglobal.com
 .chanalytics.merchantadvantage.com
 .secure.merchantadvantage.com
+.imagesvc.meredithcorp.io
 .ipw.metadsp.co.uk
 .analytics.metalocator.com
 .cdn.metalocator.com
@@ -3294,6 +3313,8 @@
 .adtrack1.midasplayer.com
 .client.midosoo.com
 .minimob.com
+.apv-launcher.minute.ly
+.snippet.minute.ly
 .tracking.miui.com
 .api.sec.miui.com
 .tracking.india.miui.com
@@ -3524,6 +3545,7 @@
 .d.r10.mopub.com
 .morgdm.ru
 .mobileapi.motus.com
+.analytics.mousebirdconsulting.com
 .analytics.moz.com
 .mozbar.moz.com
 .config2.mparticle.com
@@ -3546,6 +3568,8 @@
 .ads2.msn.com
 .mobileads.msn.com
 .rads.msn.com
+.srtb.msn.com
+.superapp.msn.com
 .a.ads1.msn.com
 .b.ads1.msn.com
 .sdkconf.msstatic.com
@@ -3570,6 +3594,7 @@
 .n176adserv.com
 .naiadsystems.com
 .nanigans.com
+.static.narrativ.com
 .io.narrative.io
 .api.native.ai
 .cdn.native.ai
@@ -3611,6 +3636,7 @@
 .mobile-crash-origin.newrelic.com
 .mobile-crash.newrelic.com
 .staging-insights-collector.newrelic.com
+.us.tags.newscgp.com
 .nex8.net
 .nexac.com
 .ads.nexage.com
@@ -3753,6 +3779,7 @@
 .a.optnmnstr.com
 .a.optnmstr.com
 .api.optnmstr.com
+.static.ordergroove.com
 .otherlevels.com
 .log.oto.com.vn
 .cp.oupeng.com
@@ -3807,12 +3834,14 @@
 .local.ownlocal.com
 .secure.ownlocal.com
 .snowplow.ownlocal.com
+.cdn.p-n.io
 .padsdel.com
 .asset.pagefair.com
 .asset.pagefair.net
 .sc.pages03.net
 .tracking.pandoiq.com
 .adserver.pandora.com
+.pi.pardot.com
 .parrable.com
 .api.parse.com
 .api.parsely.com
@@ -3850,6 +3879,8 @@
 .collector-pxvi2rjzgl.perimeterx.net
 .px-conf.perimeterx.net
 .ad.period-calendar.com
+.secure.perk0mean.com
+.af89dacd-4aec-4ac1-9d52-2a66ce5e4fb5.edge.permutive.app
 .permutive.com
 .persona.ly
 .api.personali.com
@@ -3952,9 +3983,11 @@
 .cdn-otf-cas.prfct.cc
 .cdn-resources.prfct.cc
 .track.pricespider.com
+.schemea.prinit.net
 .static.privacytrck.com
 .privy.com
 .tracking.prmtracking.com
+.af89dacd-4aec-4ac1-9d52-2a66ce5e4fb5.prmutv.co
 .ads.pro-market.net
 .att.productmadness.com
 .ads.programattik.com
@@ -3967,6 +4000,7 @@
 .partners.propellerads.com
 .promo.propellerads.com
 .publishers.propellerads.com
+.global.proper.io
 .gsdk.proximabeta.com
 .abs-v2.proxistore.com
 .pub.network
@@ -3990,6 +4024,7 @@
 .image6.pubmatic.com
 .image8.pubmatic.com
 .openbid.pubmatic.com
+.ow.pubmatic.com
 .showads-sg.pubmatic.com
 .showads-sgc.pubmatic.com
 .showads.pubmatic.com
@@ -4087,9 +4122,11 @@
 .tgw-sasdk.3g.qq.com
 .tools.3g.qq.com
 .v.gdt.qq.com
+.siteintercept.qualtrics.com
 .quantcount.com
 .2kpixel.quantserve.com
 .cms.quantserve.com
+.edge.quantserve.com
 .exch.quantserve.com
 .pixel.quantserve.com
 .px.quantserve.com
@@ -4120,6 +4157,7 @@
 .redtram.com
 .ads.reembed.com
 .registeridm.com
+.regmedia.co.uk
 .adserver.reklamstore.com
 .adimg.rekmob.com
 .ads.rekmob.com
@@ -4167,6 +4205,7 @@
 .c.riskified.com
 .img.riskified.com
 .mid.rkdms.com
+.id.sv.rkdms.com
 .rlcdn.com
 .metric-android-am.road404.com
 .ads.roblox.com
@@ -4178,6 +4217,7 @@
 .ads-cloud.rovio.com
 .videoads-cloud.rovio.com
 .app.roximity.com
+.widget-cdn.rpxnow.com
 .adconf.rqmob.com
 .adcs.rqmob.com
 .amp-cdn.rqmob.com
@@ -4263,16 +4303,9 @@
 .ak.sail-horizon.com
 .api.sail-personalize.com
 .aws-api.sail-personalize.com
-.ak.sailthru.com
 .api.sailthru.com
 .cb.sailthru.com
-.cdn.sailthru.com
-.condenast-a.sailthru.com
-.condenast-b.sailthru.com
-.ha-link.sailthru.com
 .horizon.sailthru.com
-.media.sailthru.com
-.njmta-173.sailthru.com
 .beacon.my.salesforce.com
 .d.la1-c2-iad.salesforceliveagent.com
 .analytics.salmonads.com
@@ -4505,14 +4538,20 @@
 .ww3232.smartadserver.com
 .smartclip.net
 .api.smartechmetrics.com
+.global.smarterhq.io
+.onsiteshq.smarterhq.io
+.tr2.smarterhq.io
 .cdn.smartnews-ads.com
 .conf.smartnews-ads.com
 .i.smartnews-ads.com
 .thumbnail.smartnews-ads.com
 .ads.smartstream.tv
+.cdn.smassets.net
+.prod.smassets.net
 .abort-count.smbeat.jp
 .api.smbeat.jp
 .control.smbeat.jp
+.counter.snackly.co
 .snapads.com
 .ads.snapchat.com
 .adsapi.snapchat.com
@@ -4849,6 +4888,8 @@
 .visitor-service-eu-west-1.tealiumiq.com
 .visitor-service-us-east-1.tealiumiq.com
 .visitor-service.tealiumiq.com
+.ad-cdn.technoratimedia.com
+.prebid.technoratimedia.com
 .error-collector.ted.com
 .metrics.ted.com
 .api.videometrics.ted.com
@@ -4897,6 +4938,7 @@
 .adservice.tohsoft.com
 .android-com-fungames-blockcraft.topaz-analytics.com
 .android-com-fungames-sniper3d.topaz-analytics.com
+.android-com-tfgco-games-sports-free-tennis-clash.topaz-analytics.com
 .android-com-wildlife-games-battle-royale-free-zooba.topaz-analytics.com
 .playtest-api.topaz-analytics.com
 .push-api.topaz-analytics.com
@@ -4928,6 +4970,7 @@
 .trfmxt.com
 .trialpay.com
 .ads.triongames.com
+.midrollmedia.mc.tritondigital.com
 .tracking-3-9f58.trnox.com
 .tracking.trnox.com
 .trcakingapp.trnox.com
@@ -5230,6 +5273,8 @@
 .trackers.voodoo-analytics.io
 .api-gdpr.voodoo-tech.io
 .crosspromo.voodoo.io
+.concertads-configs.vox-cdn.com
+.optimize-stats.voxmedia.com
 .dailymotion-cs.vpadn.com
 .ids-dmp.vpadn.com
 .m.vpadn.com
@@ -5269,8 +5314,10 @@
 .smetrics.walgreens.com
 .analytics.mobile.walmart.com
 .sdk.wappier.com
+.wizzogames-sdk.wappier.com
 .wapstart.ru
 .apd1.warnlog.com
+.cdn.watchingthat.net
 .waust.at
 .t.wayfair.com
 .ads-resources-legacy.waze.com
@@ -5307,6 +5354,8 @@
 .track.wesdk.co
 .widespace.com
 .wigetmedia.com
+.cads.wildlifestudios.com
+.exchange.wildlifestudios.com
 .analytics.wildtangent.com
 .tracker.winudf.com
 .pie.wirelessregistry.com
@@ -5496,6 +5545,7 @@
 .logv2.mp3.zing.vn
 .stats.zmags.com
 .ssl.zoomanalytics.co
+.widget-mediator.zopim.com
 .track.zorkanetwork.com
 .stats.zotabox.com
 .api-us-east.zqtk.net
