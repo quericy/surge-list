@@ -159,8 +159,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.ptv1f5dh4s35df4h5fg.xyz
-.xn01.xyz
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -1534,6 +1532,7 @@
 .prohibited.cn
 .prohost.com.tw
 .ptkhy.com
+.ptv1f5dh4s35df4h5fg.xyz
 .pubbirdf.com
 .pyzkk.com
 .pzrj6.top
@@ -2060,6 +2059,7 @@
 .xn--xhq9mt12cf5v.top
 .xn--xhq9mt12cf5v.website
 .xn--xhq9mt12cf5v.xn--io0a7i
+.xn01.xyz
 .xnjpg.com
 .xnmcmnt.cn
 .xp3366.com
@@ -3377,11 +3377,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.qhruisen.cn
-.bdcanef.cn
-.qhweisen.cn
-.hbhyc.cn
-.dbxnvh.cn
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz
 .0323wqpioutyuencsamxsd.xyz
@@ -3619,6 +3614,7 @@
 .bbtys.net
 .bbvdd.com
 .bd2fbnfg.com
+.bdcanef.cn
 .bdcapweb.xyz
 .bdcouc.xyz
 .bdxnc.com
@@ -3797,6 +3793,7 @@
 .daskm.com
 .datazhan.com
 .daylskg.cn
+.dbxnvh.cn
 .dceni.com
 .ddanq.com
 .dddyun.com
@@ -4022,6 +4019,7 @@
 .haoxianyangrouye.com
 .happyyong.com
 .hbbww.com
+.hbhyc.cn
 .hbkhqc.com
 .hblanghun.cn
 .hbnygj.com
@@ -4529,6 +4527,8 @@
 .qgdvyvd.cn
 .qhdmqzc.cn
 .qhdop.com
+.qhruisen.cn
+.qhweisen.cn
 .qhxcdmfj.cn
 .qi-shi.top
 .qianggou8.top
