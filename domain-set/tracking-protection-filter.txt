@@ -9,7 +9,6 @@
 .ezodn.com
 .x-storage-a1.cir.io
 .didna.io
-.log.nordot.jp
 .solutionshindsight.net
 .d.wi-fi.ru
 .api.ipdata.co

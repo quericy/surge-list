@@ -2115,8 +2115,6 @@
 .fastapi.net
 .mparticle.map.fastly.net
 .sonar-iad.xx.fbcdn.net
-.video-dfw5-1.xx.fbcdn.net
-.video-dfw5-2.xx.fbcdn.net
 .affiliate.fc2.com
 .aimg.fc2.com
 .enrichmentservices.fccinteractive.com
@@ -4154,10 +4152,7 @@
 .redintelligence.net
 .redirectpopads.com
 .api.redshell.io
-.redtram.com
 .ads.reembed.com
-.registeridm.com
-.regmedia.co.uk
 .adserver.reklamstore.com
 .adimg.rekmob.com
 .ads.rekmob.com
