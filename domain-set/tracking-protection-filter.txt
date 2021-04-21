@@ -3080,6 +3080,7 @@
 .zqtk.net
 .zroitracker.com
 .functionalclam.com
+.ancientact.com
 .ticketaunt.com
 .warmafterthought.com
 .fumblingform.com
@@ -4093,6 +4094,9 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.d2ieqaiwehnqqp.cloudfront.net
+.lc.fresheye.com
+.lcexp.fresheye.com
 .behave.noen.at
 .tracking.noen.at
 .track.wattpad.com
@@ -14137,6 +14141,7 @@
 .analytics-sprint.qoqa.com
 .analytics.qoqa.ch
 .analytics.qoqa.com
+.af-event-logger.appsflyer.com
 .inapps.appsflyer.com
 .gcdsdk.appsflyer.com
 .statsgoogle.appsflyer.com

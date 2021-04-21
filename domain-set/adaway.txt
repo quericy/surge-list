@@ -3305,9 +3305,6 @@
 .microad.net
 .send.microadinc.com
 .bingads.microsoft.com
-.vortex.data.microsoft.com
-.mobile.events.data.microsoft.com
-.self.events.data.microsoft.com
 .adtrack1.midasplayer.com
 .client.midosoo.com
 .minimob.com
@@ -4965,7 +4962,6 @@
 .trfmxt.com
 .trialpay.com
 .ads.triongames.com
-.midrollmedia.mc.tritondigital.com
 .tracking-3-9f58.trnox.com
 .tracking.trnox.com
 .trcakingapp.trnox.com
@@ -4977,6 +4973,8 @@
 .consent.trustarc.com
 .preferences.trustarc.com
 .choices.truste.com
+.cdn.tsyndicate.com
+.lcdn.tsyndicate.com
 .gateway.ttpsdk.info
 .promo-images.ttpsdk.info
 .ttplugins.ttpsdk.info
@@ -5375,6 +5373,7 @@
 .events.xg4ken.com
 .resources.xg4ken.com
 .services.xg4ken.com
+.collector.xhamster.com
 .api.ad.xiaomi.com
 .log.ad.xiaomi.com
 .sdkconfig.ad.xiaomi.com
