@@ -5,6 +5,11 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.tracking.atreemo.com
+.collector-*.pxchk.net
+.collector-*.px-cdn.net
+.thrtle.com
+.imhd.io
 .atom-log.3.cn
 .ezodn.com
 .x-storage-a1.cir.io
@@ -3080,6 +3085,7 @@
 .zqtk.net
 .zroitracker.com
 .functionalclam.com
+.dockdigestion.com
 .ancientact.com
 .ticketaunt.com
 .warmafterthought.com
@@ -4094,6 +4100,8 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.pla-tk.flipkart.net
+.stat.myshows.me
 .d2ieqaiwehnqqp.cloudfront.net
 .lc.fresheye.com
 .lcexp.fresheye.com
