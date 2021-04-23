@@ -11,6 +11,7 @@
 .wb.whatsbroadcast.com
 .signup.e2ma.net
 .7q1z79gxsi.global.ssl.fastly.net
+.soretrain.com
 .dockdigestion.com
 .ancientact.com
 .ticketaunt.com
@@ -503,6 +504,7 @@
 .plista.com
 .booster.webtradecenter.com
 .widgets.digitalmediacommunications.com
+.avaamo.com
 .iadvize.com
 .apps.azhelp.ru
 .widget.lawyer-feedot.ru

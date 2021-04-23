@@ -1498,7 +1498,6 @@
 .www.chartboost.com
 .chartboosts.com
 .smetrics.chrysler.com
-.chtbl.com
 .jp.cinarra.com
 .collector.cint.com
 .qps.cint.com
@@ -4538,8 +4537,6 @@
 .i.smartnews-ads.com
 .thumbnail.smartnews-ads.com
 .ads.smartstream.tv
-.cdn.smassets.net
-.prod.smassets.net
 .abort-count.smbeat.jp
 .api.smbeat.jp
 .control.smbeat.jp
