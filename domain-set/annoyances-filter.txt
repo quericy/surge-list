@@ -594,6 +594,7 @@
 .widgets.livetex.ru
 .gubagootracking.com
 .cdn.gubagoo.io
+.chatbot.lifecell.ua
 .igas.com.ua
 .date.cursorinfo.co.il
 .widget.getyourguide.com
