@@ -444,7 +444,6 @@
 .public-webservice.apdc1n.adpushup.com
 .adpxl.co
 .adserver.adreactor.com
-.s.adrise.tv
 .adroll.com
 .adrta.com
 .adstax-match-proxy.adrtx.net
@@ -5536,7 +5535,6 @@
 .logv2.mp3.zing.vn
 .stats.zmags.com
 .ssl.zoomanalytics.co
-.widget-mediator.zopim.com
 .track.zorkanetwork.com
 .stats.zotabox.com
 .api-us-east.zqtk.net
