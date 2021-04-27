@@ -159,6 +159,8 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.jikelian.xyz
+.bsjgc.com
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -2392,7 +2394,6 @@
 .afp.chinanews.com
 .afp.wasu.cn
 .afpcreative.wasu.cn
-.ahd.ruten.com.tw
 .ai.bioon.com
 .alitui.weibo.com
 .am.szhome.com
@@ -3395,6 +3396,10 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.qwddcwmwqiqwd18.cn
+.codelabbeijing.cn
+.ylykd.cn
+.k5p8f2.cn
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz
 .0323wqpioutyuencsamxsd.xyz
