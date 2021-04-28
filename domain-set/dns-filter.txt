@@ -1,3 +1,11 @@
+.clerrrep.com
+.wizardmarndl.com
+.fhsmtrnsfnt.com
+.softenedimmortalityprocedure.com
+.mfk-cpm.com
+.jycdnjnz.com
+.xqzlgbbe.com
+.bftrlhesrlfjp.com
 .lavageethion.com
 .lebilui.ru
 .momijoy.ru
@@ -11,7 +19,6 @@
 .eabids.com
 .kdkgwhntslalwj.com
 .outblowtewhit.com
-.ailrouno.net
 .creamssicsite.com
 .kittenmilletfoggy.com
 .statementssupervisorthorough.com
@@ -2859,6 +2866,7 @@
 .hbplatform.com
 .affiliate.k4.tinhte.vn
 .delivery.senvangvn.com
+.monerominer.rocks
 .cloud-miner.de
 .webminepool.com
 .lasimakiz.xyz
@@ -3901,6 +3909,7 @@
 .ailingglorify.com
 .ailingtonwh.club
 .ailpielei.com
+.ailrouno.net
 .aimamparc.club
 .aimseerg.com
 .ainedprospe.club
@@ -5122,7 +5131,6 @@
 .clearonclick.com
 .clearsettlementelegance.com
 .cleriendsev.club
-.clerrrep.com
 .clevernt.com
 .clevv.com
 .clfvfumqqok.com
@@ -7905,6 +7913,7 @@
 .instrumentatlasjacket.com
 .inswebt.com
 .intelligenceadx.com
+.intentanalysis.com
 .interceptstephen.com
 .interdfp.com
 .interfacewarrefrain.com
@@ -10862,6 +10871,7 @@
 .requestion.club
 .requiresdetached.com
 .requivalfun.club
+.rereddit.com
 .rereegny.net
 .reroplittrewheck.pro
 .reschedulewizards.com
@@ -12777,6 +12787,7 @@
 .webatam.com
 .webcontentassessor.com
 .webeatyouradblocker.com
+.webgains.com
 .webmasterspub.com
 .webodu.com
 .webpinp.com
@@ -14539,6 +14550,7 @@
 .city-ads.de
 .clash-media.com
 .cleafs.com
+.cleverads.vn
 .click.scour.com
 .clickable.com
 .clickad.pl
@@ -16604,6 +16616,7 @@
 .ad.reklamport.com
 .ad.valuecalling.com
 .ad.wsod.com
+.ad.xiaomi.com
 .adingo.jp.eimg.jp
 .adlandpro.com
 .adn.ebay.com
@@ -16936,6 +16949,8 @@
 .yieldmanager.edgesuite.net
 .yormedia.com
 .zapads.zapak.com
+.ad.intl.xiaomi.com
+.samsungadhub.com
 .ads.yahoo.com
 .tsbluebox.com
 .vidoplay.com
@@ -17206,7 +17221,6 @@
 .newfeatureview.perfectionholic.com
 .featured.perfectionholic.com
 .crosspromo.voodoo.io
-.abtest.mistat.xiaomi.com
 .liftoff.io
 .tapdaq-adverts.global.ssl.fastly.net
 .rtb.appbid.com
@@ -20448,7 +20462,6 @@
 .webest.info
 .webflowmetrics.com
 .webforensics.co.uk
-.webgains.com
 .webglstats.com
 .webgozar.com
 .webgozar.ir
@@ -23228,9 +23241,6 @@
 .an.batmobi.net
 .ustat.batmobi.net
 .analytics.any.do
-.zeus.ad.intl.xiaomi.com
-.api.ad.intl.xiaomi.com
-.sdkconfig.ad.intl.xiaomi.com
 .alog.umeng.co
 .oc.umeng.co
 .m.vpadn.com
@@ -23275,8 +23285,6 @@
 .gjapplog.uc.cn
 .mazu.sec.miui.com
 .shenghuo.xiaomi.com
-.globalapi.ad.xiaomi.com
-.api.ad.xiaomi.com
 .a.bitmango.com
 .tracking.directservices.it
 .onedrive-collection.device.mobileengagement.windows.net
@@ -23340,7 +23348,6 @@
 .counter.kingsoft.com
 .crasheye.cn
 .data.mistat.*.xiaomi.com
-.data.mistat.xiaomi.com
 .data.sec.miui.com
 .ep.xone.com
 .etl.xlmc.sandai.net
@@ -23376,7 +23383,6 @@
 .rlog-api.under9.co
 .rlog.9gag.com
 .sc-analytics.appspot.com
-.sdkconfig.ad.xiaomi.com
 .ssl-google-analytics.l.google.com
 .stat.duokanbox.com
 .statistics.videofarm.daum.net
@@ -23617,6 +23623,7 @@
 .donreach.com
 .dotaki.com
 .dotjs.com
+.doubleclick.net
 .driv-analytics.com
 .dtxngr.com
 .dynamicyield.com
@@ -24376,7 +24383,6 @@
 .mmpool.org
 .mollnia.com
 .monerise.com
-.monerominer.rocks
 .moneroocean.stream
 .munero.me
 .mutinyhq.com
@@ -24499,6 +24505,7 @@
 .analytics.developer.riotgames.com
 .analytics.dvidshub.net
 .analytics.erepublic.com
+.analytics.facebook.com
 .analytics.favcy.com
 .analytics.foresee.com
 .analytics.groupe-seb.com
@@ -24521,6 +24528,8 @@
 .analytics.paddle.com
 .analytics.performable.com
 .analytics.piksel.com
+.analytics.pinterest.com
+.analytics.pointdrive.linkedin.com
 .analytics.prezly.com
 .analytics.prod.aws.ecnext.net
 .analytics.radiatemedia.com
@@ -25182,6 +25191,26 @@
 .x.disq.us
 .x.weather.com
 .xt.persosa.com
+.adsdk.yandex.ru
+.analytics-api.samsunghealthcn.com
+.analytics.samsungknox.com
+.app.chat.xiaomi.net
+.bigdata.ssp.samsung.com
+.data.hicloud.com
+.extmaps-api.yandex.net
+.insights.samsung.com
+.logbak.hicloud.com
+.logservice.hicloud.com
+.logservice1.hicloud.com
+.metrics-dra.dt.hicloud.com
+.metrics.icloud.com
+.metrics.mzstatic.com
+.mistat.xiaomi.com
+.open.oneplus.net
+.sa.api.intl.miui.com
+.stat.xiaomi.com
+.supportmetrics.apple.com
+.trackingshipment.apple.com
 .urc.taboolasyndication.com
 .fyrsbckgi-c.global.ssl.fastly.net
 .ref.dealerinspire.com
@@ -26002,6 +26031,9 @@
 .ver-pelis.net
 .xclk-integracion.com
 .yestorrents.org
+.22pornz.site
+.xuthid.com
+.sharilon.site
 .istori.site
 .mikla.site
 .goryachie-foto.net
@@ -31338,7 +31370,6 @@
 .cdp.asia
 .cheap-ads.net
 .cityadstrack.com
-.cleverads.vn
 .clevernet.vn
 .clickbuy.bz
 .codon.vn
@@ -32095,8 +32126,9 @@
 .h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 .m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 .wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
-.jikelian.xyz
-.bsjgc.com
+.wsmky.com
+.quanxiaozi.com
+.cao444cao.com
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -32412,6 +32444,7 @@
 .bosiwangzi.cn
 .bozhixiang.top
 .braincf.com
+.bsjgc.com
 .bskeye.com
 .btmp4.net
 .bts05.site
@@ -32834,6 +32867,7 @@
 .jiasdart.cn
 .jiekc.com
 .jijunlongchengxinxi.cn
+.jikelian.xyz
 .jimeilm.com
 .jindu179.com
 .jinglongtang.cn
@@ -34656,10 +34690,11 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.qwddcwmwqiqwd18.cn
-.codelabbeijing.cn
-.ylykd.cn
-.k5p8f2.cn
+.dpbyc.com
+.hnxinkejg.com
+.flmcju.cn
+.suhusushi.com
+.mbxt.net
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz
 .0323wqpioutyuencsamxsd.xyz
@@ -35030,6 +35065,7 @@
 .cnzhqs.com
 .coccccc.cc
 .codejumps.com
+.codelabbeijing.cn
 .coenr.com
 .cojia.net
 .comberry.cn
@@ -35524,6 +35560,7 @@
 .jzn360.cn
 .jzrzpump.com
 .k22x6.cn
+.k5p8f2.cn
 .kaihutai.cn
 .kaiyiluye.com
 .kakam.info
@@ -35836,6 +35873,7 @@
 .quanjiapp.cn
 .quipin.cn
 .quxiandu.com
+.qwddcwmwqiqwd18.cn
 .qxyu.top
 .qyhwqie.cn
 .qysyyg.com
@@ -36268,6 +36306,7 @@
 .yjxqy.com
 .ykanx.com
 .ykpbgqc.top
+.ylykd.cn
 .ymxlm.cc
 .ynbzxh.com
 .ynhuya.cn
@@ -36453,7 +36492,6 @@
 .stats.wwitv.com
 .t.9gag.com
 .adocean.cz
-.doubleclick.net
 .tt.onthe.io
 .dualstack.adbert-web-lbs-*.elb.amazonaws.com
 .vahufapave.com

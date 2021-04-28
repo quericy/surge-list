@@ -5,6 +5,8 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.backend.turtlemobile.com.tw
+.batmobile.com.tw
 .analytik.xyz
 .df.pmweb.com.br
 .usesfathom.com
