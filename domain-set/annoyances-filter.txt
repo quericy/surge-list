@@ -89,7 +89,7 @@
 .metomic.io
 .privacy-center.org
 .cmp.dmgmediaprivacy.co.uk
-.policy.cookieinformation.com
+.policy*.cookieinformation.com
 .consent.truste.com
 .iubenda.com
 .r42tag.com

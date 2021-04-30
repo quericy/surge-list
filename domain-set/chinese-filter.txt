@@ -774,6 +774,7 @@
 .daikuanfanli.com
 .dalianhengtai.com
 .daliantong.com.cn
+.dameyuan.com
 .dami66.cn
 .damumu.xyz
 .dante2007.com
@@ -2185,7 +2186,6 @@
 .ysgsq.cn
 .ysjkbk.com
 .ysjwj.com
-.yskanba.com
 .ysm.ezprice.net
 .ysnj74ed.com
 .ysyjg.com
@@ -3730,6 +3730,7 @@
 .cf89.gold
 .cfdanet.com
 .cfhijdsb.cn
+.chaluoyi.cn
 .chang555.cn
 .changhehengqi.com
 .chayibu.com
@@ -4132,6 +4133,7 @@
 .hsbkr.com
 .htfmbt.com
 .htjsk.com
+.huangyeqing.cn
 .huayange.com
 .huayangli.cn
 .huayi65.com
@@ -4616,6 +4618,7 @@
 .quxiandu.com
 .quxiangkeji.cn
 .qwddcwmwqiqwd18.cn
+.qwddcwmwqiqwd19.cn
 .qxyu.top
 .qyhwqie.cn
 .qysyyg.com
