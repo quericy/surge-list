@@ -53,6 +53,7 @@
 .puffypull.com
 .copperchickens.com
 .ttauri.toptenreviews.com
+.up-cookiemon.wavecdn.net
 .cdn.privacytools.com.br
 .goadopt.io
 .traceprof.com

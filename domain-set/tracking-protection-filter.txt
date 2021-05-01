@@ -5,6 +5,8 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.analytics.omniscientai.com
+.omnitag.omniscientai.com
 .backend.turtlemobile.com.tw
 .batmobile.com.tw
 .analytik.xyz
