@@ -616,6 +616,7 @@
 .biandaosheng.com
 .bianxianmao.com
 .biaoshipai.net
+.bibilm.com
 .biddingx.com
 .bihaipack.com
 .billionfocus.com
@@ -625,6 +626,7 @@
 .birdmedia.com
 .bj-bytsk.com
 .bjgtsh.com
+.bjzsyx.cn
 .bla01.com
 .blogdaka.cc
 .bloggerads.net
@@ -1005,6 +1007,7 @@
 .gydag.com
 .gzktpf.com
 .gzqudou.com
+.gzwxdq.cn
 .gzxxty168.com
 .h41s.com
 .h501.cn
@@ -1130,6 +1133,7 @@
 .idcqi.com
 .idianfang.com
 .idoc58.com
+.idy666.com
 .iee5.com
 .iewad.net
 .ifocus.cn
@@ -1306,6 +1310,7 @@
 .koukou7.com
 .ksxcxb.cn
 .kt220.com
+.ktdlsb.com
 .ktunions.com
 .ku63.com
 .ku9377.com
@@ -1953,6 +1958,7 @@
 .whpxy.com
 .whshangsha.com
 .whytoss.com
+.whzxpm.cn
 .widget.ezprice.com.tw
 .wikigifth.com
 .winasdaq.com
@@ -4236,6 +4242,7 @@
 .jinrichaoyang.com
 .jinrungroup.cn
 .jinshzx.com
+.jinyinggroup.cn
 .jioder3e.cn
 .jioeg.com
 .jisufeifei.com
@@ -4555,6 +4562,7 @@
 .pdfmxsh.cn
 .pdkuai.com
 .peiliao-china.com
+.pengmingx.cn
 .pentaxaws.cn
 .petsfairy.com
 .petsheying.com
@@ -5147,6 +5155,7 @@
 .zhekoudajie.com
 .zhengzhoupengbo.com
 .zhide-edu.cn
+.zhinengcd.cn
 .zhipinbook.cn
 .zhivalley.cn
 .zhixd.cn
