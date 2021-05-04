@@ -10348,6 +10348,7 @@
 .pregnancyintuition.com
 .premium-members.com
 .premium4kflix.club
+.premium4kflix.top
 .premiumvertising.com
 .prepairoo.club
 .preparecanyonpendulous.com
@@ -12092,6 +12093,7 @@
 .tonexcitiessa.club
 .toodlepork.com
 .top-performance.best
+.top-performance.club
 .topbetfast.com
 .topcpmnetwork.com
 .topdisplaycontent.com
@@ -15989,6 +15991,7 @@
 .seekads.net
 .seethisinaction.com
 .seiya.work
+.sekindo.com
 .selectablemedia.com
 .selectad.com
 .selfpua.com
@@ -17590,7 +17593,6 @@
 .sas816.ujikdd041o.cn
 .sdk.native123.com
 .sdk.starbolt.io
-.sekindo.com
 .servebom.com
 .serving-sys.com
 .sessionm.com
@@ -17670,7 +17672,6 @@
 .visilabs.net
 .analytics.omniscientai.com
 .omnitag.omniscientai.com
-.backend.turtlemobile.com.tw
 .batmobile.com.tw
 .analytik.xyz
 .df.pmweb.com.br
@@ -25396,6 +25397,7 @@
 .tenmax.io
 .tomonline-inc.com
 .topsem.com
+.turtlemobile.com.tw
 .twcouponcenter.com
 .vamaker.com
 .webdissector.com
@@ -34736,6 +34738,7 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.2gmbbl.cn
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz
 .0323wqpioutyuencsamxsd.xyz
