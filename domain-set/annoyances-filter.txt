@@ -110,7 +110,6 @@
 .rodo.agora.pl
 .tracking-consent.static.anwb.nl
 .cc.silktide.com
-.consent.mz-web.de
 .2app.lk
 .br.app.link
 .server.connecto.io

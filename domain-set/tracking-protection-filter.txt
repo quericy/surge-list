@@ -4106,6 +4106,8 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.log.ajunews.com
+.dsb.yahoo.co.jp
 .pac.thetimes.co.uk
 .a-stat.appmifile.com
 .log.g-enews.com

@@ -1895,6 +1895,7 @@
 .urlat.cn
 .usingde.com
 .uuaoz.com
+.uuboos.com
 .uvclick.com
 .uzpmrbek.com
 .v-links.net
@@ -3009,6 +3010,7 @@
 .ent1.12584.cn
 .ent1.qunchua.cn
 .ent1.qunchua.com
+.er.5ykj.com
 .f1.06ps.com
 .f1.ichong123.com
 .f1.pig66.com
@@ -5211,6 +5213,7 @@
 .zywhjd.com
 .zyxwpj.com
 .zzcgw.cn
+.zzchuy.cn
 .zzhszj.com
 .zzmmkj.com
 .zzqqhb.com
