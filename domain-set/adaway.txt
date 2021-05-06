@@ -1724,7 +1724,6 @@
 .clickserve.dartsearch.net
 .databerries.com
 .tracker.databrain.com
-.api.datadoghq.com
 .brands.datahc.com
 .media.datahc.com
 .redirect.datahc.com
