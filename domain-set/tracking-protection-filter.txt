@@ -5,6 +5,8 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.t.afi-b.com
+.newrrb.bid
 .plavxml.com
 .socketviking.net
 .analytics.omniscientai.com
@@ -4232,7 +4234,6 @@
 .counter.web.money
 .stat.videonow.ru
 .insight.bellmetric.net
-.t.afi-b.com
 .tag.cribnotes.jp
 .clientlog.midomi.com
 .t.webjavaskript.net
