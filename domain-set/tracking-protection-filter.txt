@@ -4111,6 +4111,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.log.shufoo.net
 .logcollect.totalcms.ncloud.or.kr
 .discovery.newspic.kr
 .discovery-script.newspic.kr
