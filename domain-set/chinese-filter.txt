@@ -161,7 +161,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.wwwlongjiekejijishu.com
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -2000,6 +1999,7 @@
 .wwads.cn
 .wwlolbs.com
 .www-sina-cn-com.com
+.wwwlongjiekejijishu.com
 .wxbdfm.com
 .wxiansen.cn
 .wxs666.cn
@@ -2601,6 +2601,7 @@
 .super.cat898.com
 .super.kdnet.net
 .synacast.com
+.tc.18moe.net
 .teslaamg.obs.cn-east-3.myhuaweicloud.com
 .tf.360.cn
 .theta.sogoucdn.com
@@ -2634,7 +2635,6 @@
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
-.tc.18moe.net
 .3336672.com
 .3337729.com
 .3337751.com
@@ -4432,6 +4432,7 @@
 .lvkuaizi.com
 .lvsechufang.com
 .lwlscy.com
+.lxanimation.cn
 .lxhjaq.cn
 .ly2si17.cn
 .ly5200.cn
@@ -4846,6 +4847,7 @@
 .tieqifeng.com
 .tingfengyu.top
 .tiojk.com
+.tirongtech.cn
 .tiwom.com
 .tjiaa.com
 .tjlms.cn
@@ -4918,6 +4920,7 @@
 .vbanm.com
 .vchim.com
 .vf5yb4.cn
+.vhh.23txt.com
 .vinuxhome.com
 .vivi87.cn
 .vjptye.cn
