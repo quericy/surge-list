@@ -506,6 +506,7 @@
 .plista.com
 .booster.webtradecenter.com
 .widgets.digitalmediacommunications.com
+.widget.getgist.com
 .widget.helpcrunch.com
 .avaamo.com
 .iadvize.com
@@ -624,6 +625,7 @@
 .widgets.opinary.com
 .app.mycountrytalks.org
 .insticator.com
+.widget.info-static.ru
 .chat.mundiale.com.br
 .cdn-chat.grattis.ru
 .widget.replain.cc

@@ -161,6 +161,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.pcshuju.com
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -1848,6 +1849,7 @@
 .ttbc.cc
 .tttxx.cn
 .ttz.com
+.ttzhongbao.com
 .tudown.com
 .tuia.cn
 .tukeai.com
@@ -3741,7 +3743,6 @@
 .calculated.cn
 .caofta.cn
 .cathaycentury.com
-.cbvjddh.23txt.com
 .cbxe1r.cn
 .cbyckdf.cn
 .cchfjz.com
@@ -4323,6 +4324,7 @@
 .jyjhkz.com
 .jysbj.cn
 .jytjw.com
+.jzdianlan.cn
 .jzn360.cn
 .jzrzpump.com
 .k22x6.cn
@@ -4785,7 +4787,6 @@
 .sugarpuff.net
 .suhusushi.com
 .suitmatters.cn
-.suolaka.23txt.com
 .suoooi.cn
 .sv7oqa.cn
 .svfwer.top
@@ -4920,7 +4921,6 @@
 .vbanm.com
 .vchim.com
 .vf5yb4.cn
-.vhh.23txt.com
 .vinuxhome.com
 .vivi87.cn
 .vjptye.cn
