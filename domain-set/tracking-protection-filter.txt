@@ -5,6 +5,8 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.monitor.azure.com
+.static.herr.io
 .cli2020.com
 .logger.co.kr
 .t.afi-b.com
@@ -4112,6 +4114,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.l.da-te.jp
 .log.shufoo.net
 .logcollect.totalcms.ncloud.or.kr
 .discovery.newspic.kr

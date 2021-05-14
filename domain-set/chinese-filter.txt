@@ -2923,6 +2923,7 @@
 .c.mnjkw.cn
 .c.tvsou.com
 .c1.4qx.net
+.c1.chajiaotong.com
 .c1.china.cn
 .c6.friok.com
 .ca.cydp5.com
@@ -4090,6 +4091,7 @@
 .gzzena.com
 .h4kdxs.com
 .haichengdzsp.com
+.haishengwh123.cn
 .haiyinsiwang.com
 .hanmiyong.com
 .hanqingstudio.com
@@ -4845,6 +4847,7 @@
 .themaxmall.com
 .themee.cn
 .thindsoo.cn
+.this-is-living.cn
 .tiandihui9450.top
 .tianhuafund.cn
 .tiankongzudui.com
