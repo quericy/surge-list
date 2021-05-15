@@ -506,6 +506,8 @@
 .plista.com
 .booster.webtradecenter.com
 .widgets.digitalmediacommunications.com
+.helpscout.net
+.widget-v*.tidiochat.com
 .salesiq.zoho.in
 .widget.getgist.com
 .widget.helpcrunch.com
