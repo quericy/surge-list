@@ -540,6 +540,7 @@
 .ahlxxx.com
 .ahrefa.com
 .ahszgog.com
+.ahuano.com
 .ahwangtao.com
 .ahyau.com
 .ahyuns.com
@@ -1702,6 +1703,7 @@
 .shuihulu.com
 .shujuwu.com
 .shukongshebei.net
+.shunlidl.online
 .shypqc.com
 .si9377.com
 .sicentlife.com
@@ -2392,6 +2394,7 @@
 .ad.ccement.com
 .ad.cdnjm.cn
 .ad.fx168api.com
+.ad.gmw.cn
 .ad.walkgame.com
 .ad.wurangxian.top
 .adadmin.house365.com
@@ -2676,7 +2679,6 @@
 .1.glook.cn
 .1.hnyouneng.com
 .1.idc100.com
-.1.ideng.com
 .1.isanxia.com
 .1.jeasyui.net
 .1.jiqie.cn
@@ -3082,6 +3084,7 @@
 .hxbt.alading123.com
 .hy.huangye88.com.cn
 .hy.huangye88.net
+.ideng.com
 .idgdmgroup.com.cn
 .ii1.chajiaotong.com
 .iia1.pikacn.com
@@ -3141,6 +3144,7 @@
 .jscode.jbzj.com
 .jsf.cnlinfo.net
 .jss.tvzhe.com
+.junshizhanlue.com
 .jx.renrensousuo.com
 .jxdown.com
 .jy.zhongxues.com
@@ -3359,6 +3363,7 @@
 .z1.chezhuzhinan.com
 .z1.cyla.cn
 .z1.o8h7d.cn
+.z1.pclady.com.cn
 .z1hihu.xmcimg.com
 .zg.mmyuer.com
 .zhihu.xmcimg.com
@@ -3707,6 +3712,7 @@
 .bigcoon.xyz
 .binkens.cn
 .bio-lifehealth.com
+.biquter.xyz
 .birthcaker.cn
 .bishufang.cn
 .bixuyao.com.cn
@@ -4153,6 +4159,7 @@
 .hk50606.cn
 .hk9600.com
 .hkdyys.cn
+.hkosgxn.cn
 .hldwmly.com
 .hlgglm.com
 .hlhulu.com
@@ -4556,6 +4563,7 @@
 .njguluyu.cn
 .njhuashidai.cn
 .njohvxs.cn
+.njsbzc.cn
 .njxczy.com
 .nkyyls.cn
 .nkzjc.cn
@@ -4603,6 +4611,7 @@
 .opyyy.com
 .orvibum.cn
 .osndy.com
+.osqoglv.cn
 .ouhwjdv.cn
 .ow*.biqugego.com
 .ox11.com

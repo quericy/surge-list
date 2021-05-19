@@ -2302,6 +2302,7 @@
 .predictivedna.com
 .predictiveresponse.net
 .prfct.co
+.privacycounter.com
 .prnetwork.de
 .prnx.net
 .proclivitysystems.com
@@ -4119,6 +4120,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.trackdb.go3.tv
 .collector.rn.de
 .l.da-te.jp
 .log.shufoo.net
