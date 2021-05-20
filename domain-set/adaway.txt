@@ -5465,8 +5465,6 @@
 .yomedia.vn
 .s.yomob.com.cn
 .sgpublic.yomob.com.cn
-.cdn-loyalty.yotpo.com
-.cdn-widgetsrepository.yotpo.com
 .rg.yottos.com
 .sdk.youappi.com
 .infinity-c4.youboranqs01.com

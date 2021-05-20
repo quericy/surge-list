@@ -5,6 +5,13 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.pv.kuaizhan.com
+.eventsapi.grocerkey.com
+.dc-tag.jp
+.kitchen.juicer.cc
+.t.beop.io
+.contents-tracking.beop.io
+.bc.ad.daum.net
 .docomo-analytics.com
 .stats.fomo.com
 .aghtag.tech
@@ -4120,6 +4127,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.analytics.atlassian.com
 .trackdb.go3.tv
 .collector.rn.de
 .l.da-te.jp
@@ -14563,6 +14571,8 @@
 .do-not-tracker.org
 .eviltracker.net
 .trackersimulator.org
+.track.*.roku.com
+.traces.sr.roku.com
 .analytics.kidoz.net
 .track.tenjin.com
 .tracker.mtrtb.com
@@ -14599,6 +14609,7 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.telemetry.voxeet.com
 .usertrack.appcpi.net
 .api*.amplitude.com
 .conversions.appsflyer.com
