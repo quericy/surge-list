@@ -5,6 +5,10 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.rum.conde.io
+.ana.mediable.info
+.campaigns-collector.albacross.com
+.new-collect.albacross.com
 .pv.kuaizhan.com
 .eventsapi.grocerkey.com
 .dc-tag.jp
