@@ -170,10 +170,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.xujingch.com
-.govchongqing.cn
-.yinmofun.com
-.sawadeca.com
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -995,6 +991,7 @@
 .gotonav.com
 .gouweida.cn
 .govbeijing.cn
+.govchongqing.cn
 .govgift.com
 .govhunan.cn
 .govjiangsu.cn
@@ -1649,6 +1646,7 @@
 .r5g.cc
 .raonie.com
 .rayli.com.cn
+.rcyl-uni.com
 .rdance.cn
 .re.taotaosou.com
 .rebdy.com
@@ -1678,6 +1676,7 @@
 .sales-frontier.com
 .samboc.com
 .sanmiyangguang.com
+.sawadeca.com
 .sbrqp.com
 .scenepass.com
 .scfatao.com
@@ -2031,6 +2030,7 @@
 .wxxfqc.com
 .wxyun168.xyz
 .wyhzzy.com
+.wysmq.cn
 .wyttech.cn
 .wywsdx.com
 .wzjijia.com
@@ -2140,6 +2140,7 @@
 .xuchuang.com
 .xuehelei.com
 .xueyongbao.com
+.xujingch.com
 .xulizui6.com
 .xunlaile.com
 .xwdsp.com
@@ -2195,6 +2196,7 @@
 .yijia2009.com
 .yijikm.com
 .yingshidaquan.cc
+.yinmofun.com
 .yinoo.cn
 .yinyuehu.cn
 .yipanhaocai.com
@@ -2211,6 +2213,7 @@
 .ymcqb.com
 .ynbojie.com
 .ynwqls.com
+.ynyyx168.com
 .yongkang6.com
 .yongv.com
 .youfumei.com
@@ -3642,6 +3645,7 @@
 .aimiyz.com
 .aimto.cn
 .aishake.cn
+.aixuyoupin.cn
 .aiyyu.com
 .ajiez.com
 .ajkdg3.xyz
@@ -3758,6 +3762,7 @@
 .bodapet.com
 .bolili.info
 .book9.net
+.bostonceltics.com.cn
 .boweineng.cn
 .bpdffh.cn
 .bqhnj.cn
@@ -4254,6 +4259,7 @@
 .imiek.com
 .increased.cn
 .indiebuff.cn
+.infobbs.xyz
 .infvb.com
 .innvitor.com
 .intxt.cn
@@ -5106,6 +5112,7 @@
 .xmljx.cn
 .xmseaside.com
 .xmstpay.com
+.xmyejun.cn
 .xmysinter.com
 .xn--2qu92fhtx4ff.ink
 .xn--2qu92fhtx4ff.ren
