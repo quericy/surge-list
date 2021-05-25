@@ -1,7 +1,6 @@
 .digitiminimi.com
 .omt.shinobi.jp
 .friends2follow.com
-.b.hatena.ne.jp
 .getbutton.io
 .getbtn.com
 .snapwidget.com
