@@ -4141,6 +4141,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.datalytics.utair.io
 .appsanalytics.appideas.it
 .api-adservices.apple.com
 .analytics.atlassian.com
@@ -15433,6 +15434,10 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.umengcloud.com.gds.alibabadns.com
+.umeng.com.gds.alibabadns.com
+.umengjmacs.m.taobao.com
+.umengacs.m.taobao.com
 .sdk-api-v1.singular.net
 .analytics-api.liveapp.com
 .telemetry.voxeet.com

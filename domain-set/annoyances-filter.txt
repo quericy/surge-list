@@ -630,6 +630,7 @@
 .widgets.opinary.com
 .app.mycountrytalks.org
 .insticator.com
+.widget.chatbullet.com
 .widget.info-static.ru
 .chat.mundiale.com.br
 .cdn-chat.grattis.ru
