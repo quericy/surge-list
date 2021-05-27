@@ -2777,7 +2777,6 @@
 .prod.justpremium.com
 .tracking.justpremium.com
 .bmedia.justservingfiles.net
-.entitlements.jwplayer.com
 .g.jwpsrv.com
 .kaffnet.com
 .analytics.kaltura.com

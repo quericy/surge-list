@@ -55,6 +55,7 @@
 .didna.io
 .solutionshindsight.net
 .d.wi-fi.ru
+.simpleanalyticscdn.com
 .api.ipdata.co
 .instapagemetrics.com
 .mas.protecmedia.com

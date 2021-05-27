@@ -178,7 +178,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.poasotha.com
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -1577,6 +1576,7 @@
 .pk965.com
 .pmvlwjy.cn
 .pnxs.com
+.poasotha.com
 .pofang.com
 .poke88.com
 .polkoa.com
@@ -3472,8 +3472,8 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.huiqingvip.cn
-.habyc.com
+.1001lab.top
+.jsshuiyuan.com
 .01tn.cn
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz
@@ -3762,6 +3762,7 @@
 .bjmxcy.cn
 .bjpengyouhui.com
 .bjqftcty.com
+.bjsjyg.cn
 .bjtengda.cn
 .bjygfd.com
 .bjzcbx.com
@@ -4145,6 +4146,7 @@
 .gzrljx.cn
 .gzzena.com
 .h4kdxs.com
+.habyc.com
 .haichengdzsp.com
 .haishengwh123.cn
 .haiyinsiwang.com
@@ -4237,6 +4239,7 @@
 .huician.cn
 .huigoushop.com
 .huijiamei.cn
+.huiqingvip.cn
 .huitiankuaiji.com
 .huixingcheng.cn
 .huodiyun.cn
@@ -4817,6 +4820,7 @@
 .shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 .shengchaopiao.cn
 .shengdaoyiliao.com
+.shengshipump.cn
 .shenhao258.top
 .shenhuachuwei.cn
 .shenyunkeji.com
@@ -5037,7 +5041,6 @@
 .wenbangsh.com.cn
 .wenlang.com
 .wenqixiefu.cn
-.wenxuemi6.com
 .wenzhougy.cn
 .wervp.com
 .wfaffwshop.xyz
@@ -5279,10 +5282,12 @@
 .zgsxhx.com
 .zhangdujia.com
 .zhangshiyuan.com
+.zhangyiqian.top
 .zhanjiangletian.com
 .zhanlan5.cn
 .zhekoudajie.com
 .zhengzhoupengbo.com
+.zhiboiot.cn
 .zhide-edu.cn
 .zhinengcd.cn
 .zhipinbook.cn
