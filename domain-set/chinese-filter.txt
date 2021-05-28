@@ -178,6 +178,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.abiaobai.cn
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -341,6 +342,7 @@
 .51jumintong.com
 .51roadway.com
 .51sxzz.com
+.51toubu.com
 .51xumei.com
 .5207470.com
 .520meirenyu.com
@@ -3472,6 +3474,8 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.taishijian.com
+.yufuyan.cn
 .1001lab.top
 .jsshuiyuan.com
 .01tn.cn
@@ -3554,7 +3558,6 @@
 .51foodsafe.cn
 .51gpt.com
 .51showmy.com
-.51toubu.com
 .51wxyx.cn
 .52homie.cn
 .52tushuo.com

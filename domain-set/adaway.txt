@@ -2318,7 +2318,6 @@
 .pagead-googlehosted.l.google.com
 .s0-2mdn-net.l.google.com
 .video-stats.video.google.com
-.www-googletagmanager.l.google.com
 .adservice.google.com.tr
 .adservice.google.com.ua
 .adservice.google.com.vn
@@ -2332,8 +2331,6 @@
 .buttons.googlesyndication.com
 .pagead2.googlesyndication.com
 .tpc.googlesyndication.com
-.googletagmanager.com
-.googletagservices.com
 .displayads-formats.googleusercontent.com
 .gop1.co
 .gotoip55.com

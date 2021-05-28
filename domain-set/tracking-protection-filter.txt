@@ -5,6 +5,8 @@
 .log.snssdk.com
 .visilabs.com
 .visilabs.net
+.log.codemarketing.cloud
+.tracker.relaido.jp
 .bdash-cloud.com
 .analytics.fs-bdash.com
 .api.limbik.com
