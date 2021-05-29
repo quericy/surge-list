@@ -169,6 +169,7 @@
 .karuna4u.com
 .pushofferpro.com
 .leechiza.net
+.pushid.info
 .push.estart.jp
 .britopush.com
 .pushpanda.io
@@ -508,6 +509,8 @@
 .plista.com
 .booster.webtradecenter.com
 .widgets.digitalmediacommunications.com
+.ckct.ru
+.callkeeper.ru
 .helpscout.net
 .widget-v*.tidiochat.com
 .salesiq.zoho.in
