@@ -3224,7 +3224,6 @@
 .snrtp-cdn.marketo.com
 .snrtp1.marketo.com
 .munchkin.marketo.net
-.markmonitor.com
 .api.maropost.com
 .cdn.maropost.com
 .content.maropost.com
