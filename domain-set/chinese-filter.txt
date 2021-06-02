@@ -1,11 +1,6 @@
 .youqunjx.com
 .koudaiyundong.com
-.muxingkj.com
-.yeyemo4.com
-.3336637.com
-.3332899.com
 .tu2.taohuaimg.com
-.tinychinacdnweb.qiniu.com.w.kunlunno.com
 .mg.listc.cn
 .mimg.hicooer.cn
 .mscs.svaeuzh.cn
@@ -1718,6 +1713,7 @@
 .shannon-porject.com
 .sharedaddomain.com
 .sharele.cn
+.sharonyean.com
 .sharrysweb.com
 .shcy3.com
 .shenglonghg.net
@@ -2704,6 +2700,8 @@
 .wofjhs.com
 .immedlinkum.info
 .xayah.date
+.by.dyq.cn
+.da.daji.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3595,6 +3593,7 @@
 .627sf.cn
 .62wm.com
 .64si.com
+.652696.com
 .66993.top
 .66cn.com
 .6789.run
@@ -4291,6 +4290,7 @@
 .ihhii.xyz
 .iibahmd.cn
 .iigushi.com
+.imgxb.top
 .imiek.com
 .increased.cn
 .indiebuff.cn
@@ -4641,6 +4641,7 @@
 .nmlhkj.com
 .nmqdnykj.com
 .nmtouzi.com
+.nnsbbd.com
 .nongfumg.com
 .nongzhifu.cn
 .nosensor.cn

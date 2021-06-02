@@ -3,6 +3,11 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.pbjs.sskzlabs.com
+.mediarithmics.com
+.ivitrack.com
+.prisma-tr.prismamedia.com
+.pandg.tapad.com
 .track.list-finder.jp
 .inaftracker.com
 .log.codemarketing.cloud
@@ -3131,6 +3136,7 @@
 .visilabs.com
 .visilabs.net
 .functionalclam.com
+.livelylaugh.com
 .hystericalcloth.com
 .caringcast.com
 .selfishsnake.com
@@ -4145,6 +4151,8 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.fly.ohmymag.com
+.fly.gentside.com
 .tr.namu.wiki
 .track.eadv.it
 .datalytics.utair.io
@@ -4340,7 +4348,6 @@
 .d2u1npnnqecmpq.cloudfront.net
 .beam.remp.impresa.pt
 .d2wlwbnaa4keje.cloudfront.net
-.api.mediarithmics.com
 .d5etv3akk3gsa.cloudfront.net
 .tracker.thinkindot.com
 .ttauri.laptopmag.com
@@ -4394,8 +4401,6 @@
 .track.effitarget.com
 .krum.vsct.fr
 .tracking.oui.sncf
-.events.mediarithmics.com
-.cookie-matching.mediarithmics.com
 .engagefront.theweathernetwork.com
 .d2dq2ahtl5zl1z.cloudfront.net
 .d18p8z0ptb8qab.cloudfront.net
@@ -15456,6 +15461,9 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.log.avlyun.sec.intl.miui.com
+.log.avlyun.com
+.api-analytics.prod.birdapp.com
 .mpianalytics.com
 .umengcloud.com.gds.alibabadns.com
 .umeng.com.gds.alibabadns.com
