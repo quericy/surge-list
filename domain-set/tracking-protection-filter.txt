@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.reingod.com
 .pbjs.sskzlabs.com
 .mediarithmics.com
 .ivitrack.com
@@ -161,8 +162,6 @@
 .adsmetadata.startappk8s.com
 .counter.yandro.ru
 .track-aws.notsy.io
-.cdn.notsy.io
-.cdn-b.notsy.io
 .track.notsy.io
 .log.ca.gov.vn
 .tracking.gpm-rtv.ru

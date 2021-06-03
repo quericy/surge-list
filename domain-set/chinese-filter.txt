@@ -173,6 +173,8 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.yuailairuci.com
+.yqgjq.com
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -2856,7 +2858,7 @@
 .a1.gexing.me
 .a1.lshou.com
 .a1.q6u.com
-.a1.qqjay.com
+.b1.qqjay.com
 .a1.qqtn.com
 .a1.shusanqi.com
 .a1.sumiaowang.com
@@ -3488,6 +3490,11 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.nanofine.cn
+.888lianmeng.com
+.wetips.cn
+.xmcs99888.cn
+.sydswxx.com
 .01tn.cn
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz

@@ -11,6 +11,7 @@
 .wb.whatsbroadcast.com
 .signup.e2ma.net
 .7q1z79gxsi.global.ssl.fastly.net
+.absorbingcorn.com
 .livelylaugh.com
 .hystericalcloth.com
 .selfishsnake.com
@@ -55,6 +56,7 @@
 .puffypull.com
 .copperchickens.com
 .ttauri.toptenreviews.com
+.consentmanager.firststars.io
 .up-cookiemon.wavecdn.net
 .cdn.privacytools.com.br
 .goadopt.io
