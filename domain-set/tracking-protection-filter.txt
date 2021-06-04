@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.log.ma-jin.jp
 .reingod.com
 .pbjs.sskzlabs.com
 .mediarithmics.com
@@ -4150,6 +4151,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.logs.51cto.com
 .fly.ohmymag.com
 .fly.gentside.com
 .tr.namu.wiki
