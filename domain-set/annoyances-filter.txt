@@ -513,6 +513,7 @@
 .plista.com
 .booster.webtradecenter.com
 .widgets.digitalmediacommunications.com
+.leadbooster-chat.pipedrive.com
 .ckct.ru
 .callkeeper.ru
 .helpscout.net
