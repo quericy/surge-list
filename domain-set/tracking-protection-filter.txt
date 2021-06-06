@@ -94,7 +94,6 @@
 .hubble.netease.com
 .im.cbsileads.com
 .heymatic.com
-.pix.impdesk.com
 .sitescout.com
 .ad-log.dable.io
 .pensebig.com.br
@@ -4300,7 +4299,6 @@
 .clientlog.midomi.com
 .t.webjavaskript.net
 .track.nifty.com
-.analysis.shinobi.jp
 .asumi.shinobi.jp
 .tracking.epicgames.com
 .t*.zcvh.net
