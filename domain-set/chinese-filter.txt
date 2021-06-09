@@ -173,6 +173,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.faachen.cn
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -670,6 +671,7 @@
 .bozhixiang.top
 .braincf.com
 .bs777.net
+.bsfishing.cn
 .bsjgc.com
 .bskeye.com
 .btmp4.net
@@ -729,6 +731,7 @@
 .chiuhua.com.cn
 .chromc.com
 .chucity.com
+.chumanduo.com
 .chushoushijian.cn
 .chuzushijian.cn
 .ci-web.cn
@@ -1023,6 +1026,7 @@
 .gtmucs.cn
 .guang8.cc
 .guangzizai.com
+.guanmeixiangsu.com
 .guduopu.com
 .gugeys.com
 .guidashu.com
@@ -1533,6 +1537,7 @@
 .nmbtedu.com
 .nmpcdn.com
 .nmqbg.com
+.nnsbbd.com
 .nongsalei.com
 .nord-raum.com
 .notice.uchome.manyou.com
@@ -1690,6 +1695,7 @@
 .rrsubway.com
 .rscxwmj.cn
 .ruanwenclub.com
+.ruigezx.com
 .ruizhimu.cn
 .ruxianke.com
 .rwjfs.com
@@ -1893,6 +1899,7 @@
 .top888.com
 .touchrom.com
 .toufangke.com
+.toutiao.social
 .towers-shield.com
 .tpe163.com
 .trackingpro.pro
@@ -3851,6 +3858,7 @@
 .cdntlz.cn
 .cdzimeijia.com
 .ceai.xyz
+.cehbg.com
 .ceiyo.com
 .cepegas.com
 .ceyiuy.com
@@ -3947,6 +3955,7 @@
 .dadedaxue.com
 .dailiq.cn
 .daima.dsxdn.com
+.daizhangguanjia.com.cn
 .dajean.com
 .dake.net.cn
 .dalianruosen.com
@@ -4670,7 +4679,6 @@
 .nmqdnykj.com
 .nmrlx.cn
 .nmtouzi.com
-.nnsbbd.com
 .nongfumg.com
 .nongzhifu.cn
 .nosensor.cn
@@ -5225,6 +5233,7 @@
 .xuro006.com
 .xuxiangkj.com
 .xuyssur.cn
+.xvqdfwy.cn
 .xw1001.com
 .xxkio.com
 .xy98.com.cn

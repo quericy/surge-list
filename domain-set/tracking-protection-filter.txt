@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.quant.jp
 .segs.jp
 .n-analytics.io
 .b97.yahoo.co.jp
@@ -587,7 +588,6 @@
 .ubiquitousyard.com
 .i.compendium.com
 .statsp.fpop.net
-.uuidksinc.net
 .micpn.com
 .conductrics.com
 .api.cazamba.com
