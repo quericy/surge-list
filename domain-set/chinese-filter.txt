@@ -173,7 +173,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.faachen.cn
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -923,6 +922,7 @@
 .f2zd.com
 .f70123.com
 .f8272.com
+.faachen.cn
 .fadama.com
 .family-joy.com
 .fangniaowang.net
@@ -3176,6 +3176,7 @@
 .img16.diyifanwen.com
 .img50.pingguolv.com
 .inone517.com
+.inping.com
 .ios.426g.com
 .ishuoshuo.com
 .iy.com.cn
@@ -3350,7 +3351,6 @@
 .static.ichehome.com
 .static.jiaquyi.com
 .t.cnscore.com
-.t.inping.com
 .t1.612.com
 .tech.jiukang.org
 .thetestpage.39.net
@@ -3413,7 +3413,7 @@
 .xbtw.com
 .xc.gouchezj.com
 .xcf-bd-js.chuimg.com
-.xiaoling.ixiunv.com
+.ixiunv.com
 .xiaomiaoquan.com
 .xiaopinwo.com
 .xinju.cc
@@ -3600,6 +3600,7 @@
 .52homie.cn
 .52tushuo.com
 .53gem.com
+.563217.com
 .56space.com
 .5dydk.com
 .5fst22.cn
@@ -3728,6 +3729,7 @@
 .amghvzn.cn
 .angryme.cn
 .anhaochem.com
+.anhuigecui.cn
 .anqpq.cn
 .anweigongsi.com
 .anyihuan.com
@@ -3805,6 +3807,7 @@
 .bjeai.com
 .bjename.cn
 .bjhengdiao.com
+.bjhmdy.vip
 .bjhuhangjy.com
 .bjmxcy.cn
 .bjpengyouhui.com
@@ -4070,6 +4073,7 @@
 .feizailin.com
 .fengmishop.cn
 .fengousm.com
+.fenhao14.com
 .ff01s.cn
 .ffg34fg.877zw.com
 .ffhre.com
@@ -4357,6 +4361,7 @@
 .jdgsgl.com
 .jdzlxtc.com
 .jfgcxj.com
+.jgcq3003.com
 .jh3pin.com
 .jhgff23az.biqugetv.com
 .jia-huan.cn
@@ -5256,6 +5261,7 @@
 .ybrex.cn
 .ybtianxi.com
 .ydfz.org
+.ydqcjy.cn
 .yeyushe.cn
 .yfygs.cn
 .yg10x.cn

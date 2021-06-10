@@ -4153,6 +4153,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.track.elpais.com.uy
 .pixel.nur.kz
 .analytics.maileon.com
 .logs.51cto.com
