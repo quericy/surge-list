@@ -3,6 +3,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.beacon.digima.com
+.ac.miovp.com
 .quant.jp
 .segs.jp
 .n-analytics.io
@@ -4153,6 +4155,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.t.indeed.com
 .track.elpais.com.uy
 .pixel.nur.kz
 .analytics.maileon.com
