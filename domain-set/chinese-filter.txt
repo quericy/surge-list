@@ -173,8 +173,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.pinyierp.com
-.fanwoyang.com
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -929,6 +927,7 @@
 .family-joy.com
 .fangniaowang.net
 .fanli.in
+.fanwoyang.com
 .farm-cn.plista.com
 .fastable.com
 .fd7c.com
@@ -1594,6 +1593,7 @@
 .piclick.cn
 .pingping888.com
 .pinwu123.com
+.pinyierp.com
 .pinyoux.com
 .pjtymy.cn
 .pk965.com
@@ -2726,7 +2726,6 @@
 .wofjhs.com
 .immedlinkum.info
 .xayah.date
-.er.5ykj.cn
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -2786,6 +2785,7 @@
 .1017.cn
 .11.96131.com.cn
 .11.golang8.com
+.11.yiqig.cn
 .11.yiqig.com
 .12.cookcai.com
 .1224.dxsbb.com
@@ -3102,6 +3102,7 @@
 .ent1.12584.cn
 .ent1.qunchua.cn
 .ent1.qunchua.com
+.er.5ykj.cn
 .er.5ykj.com
 .f1.06ps.com
 .f1.ichong123.com
@@ -3182,6 +3183,7 @@
 .inping.com
 .ios.426g.com
 .ishuoshuo.com
+.ixiunv.com
 .iy.com.cn
 .j.9136.com
 .j.98158.com
@@ -3416,7 +3418,6 @@
 .xbtw.com
 .xc.gouchezj.com
 .xcf-bd-js.chuimg.com
-.ixiunv.com
 .xiaomiaoquan.com
 .xiaopinwo.com
 .xinju.cc
@@ -3516,8 +3517,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.totoc.top
-.totoh.top
 .01tn.cn
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz
@@ -3538,6 +3537,7 @@
 .0713bzksl.xyz
 .0727vjdl.xyz
 .0755man.cn
+.080120.com
 .0817zfbj.xyz
 .0824xfh.xyz
 .0851ok.com
@@ -3699,6 +3699,7 @@
 .agpligj.cn
 .ah808.com
 .ahidna.cn
+.ahmibai.cn
 .ahuac.com
 .ahwczn.cn
 .ahzhongzhan.cn
@@ -4099,6 +4100,7 @@
 .flctbg.com
 .fll007.com
 .flmcju.cn
+.fmketang.cn
 .fnbocll.cn
 .fnwll.cn
 .forwardhard.cn
@@ -4149,6 +4151,7 @@
 .gerunsenbo.cn
 .gflcsiot.com
 .ggsgww.cn
+.girli.top
 .giroud.top
 .gitma.info
 .glgelevator.com
@@ -4304,6 +4307,7 @@
 .huitiankuaiji.com
 .huixingcheng.cn
 .huodiyun.cn
+.huojutt.com
 .huonvd.cn
 .huosuniao.com
 .hvie6u.cn
@@ -5032,6 +5036,8 @@
 .topazedu.com
 .topvcbank.com
 .toshi.top
+.totoc.top
+.totoh.top
 .toujing4.top
 .toujing5.top
 .toujing7.top
