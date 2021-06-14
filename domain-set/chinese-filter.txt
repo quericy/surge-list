@@ -662,6 +662,7 @@
 .bnq86.com
 .bnuni.com
 .bole.asia
+.bole8dns.com
 .boleimg.com
 .bolimen.top
 .bosatria.cn
