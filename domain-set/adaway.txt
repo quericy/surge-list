@@ -1736,9 +1736,6 @@
 .clickserve.dartsearch.net
 .databerries.com
 .tracker.databrain.com
-.mobile-http-intake.logs.datadoghq.com
-.public-trace-http-intake.logs.datadoghq.com
-.rum-http-intake.logs.datadoghq.com
 .brands.datahc.com
 .media.datahc.com
 .redirect.datahc.com
@@ -2005,7 +2002,6 @@
 .ds-m.addthisedge.com.edgekey.net
 .i16-tb.isnssdk.com.edgekey.net
 .ib.snssdk.com.edgekey.net
-.log.byteoversea.com.edgekey.net
 .marketingassets.staples.com.edgekey.net
 .metrics.fidelity.com.edgekey.net
 .metrics.hackerrank.com.edgekey.net
@@ -2704,7 +2700,6 @@
 .dm.isnssdk.com
 .h5.isnssdk.com
 .hotapi-va.isnssdk.com
-.i.isnssdk.com
 .i16-tb.isnssdk.com
 .ichannel-tb.isnssdk.com
 .ichannel.isnssdk.com
