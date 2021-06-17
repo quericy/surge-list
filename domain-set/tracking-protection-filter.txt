@@ -3,6 +3,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.srmdata.com
+.eu.groupondata.com
 .beacon.digima.com
 .ac.miovp.com
 .quant.jp

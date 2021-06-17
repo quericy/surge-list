@@ -173,6 +173,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.shenzhengov.work
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -3526,10 +3527,12 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.nicelook.cn
-.22qzhao5.cn
-.kuaidube.cn
-.ahylong.cn
+.lrwgc.com
+.aigzk.com
+.mrzhifu.net
+.51zdwy.cn
+.bjzshy.cn
+.whbhsoft.cn
 .01tn.cn
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz
@@ -3574,6 +3577,7 @@
 .200ps.com
 .215to.cn
 .2227q.com
+.22qzhao5.cn
 .23txt.com
 .23uuw3.com
 .24haitao.net
@@ -3715,6 +3719,7 @@
 .ahmibai.cn
 .ahuac.com
 .ahwczn.cn
+.ahylong.cn
 .ahzhongzhan.cn
 .aibangzs.com
 .aikan6.com
@@ -4508,6 +4513,7 @@
 .ktzte.cn
 .kuaidibiaoju.com
 .kuaidibox.cn
+.kuaidube.cn
 .kuaipaobiaoju.com
 .kunloveyu.cn
 .kuzexinxi.com
@@ -4686,6 +4692,7 @@
 .ngmaul.cn
 .ngsaang.top
 .nhrlzy.com
+.nicelook.cn
 .niegg.com
 .nihao987654.top
 .ningbojipiao.com
