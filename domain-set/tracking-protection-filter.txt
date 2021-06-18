@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.mc-ya.ru
 .srmdata.com
 .eu.groupondata.com
 .beacon.digima.com

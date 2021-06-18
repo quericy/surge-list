@@ -173,7 +173,7 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.shenzhengov.work
+.tuifish.com
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -813,6 +813,7 @@
 .dagonghuzhu.com
 .dahanedu.com
 .daikuanfanli.com
+.dakang-energy.com
 .dalianhengtai.com
 .daliantong.com.cn
 .dameyuan.com
@@ -943,6 +944,7 @@
 .fengxiangstore.com
 .fexiaen.com
 .ffa9.cn
+.fg-z.com
 .fghlmiaoqrtyfl65ha0ss22k3dqi6lng.com
 .fisher56.com
 .fjbzjc.com
@@ -1746,6 +1748,7 @@
 .shenglonghg.net
 .shengyaxd.com
 .shentupk85.com
+.shenzhengov.work
 .shibagongfang.com
 .sho9wbox.com
 .shoujigushi.net
@@ -3527,12 +3530,8 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.lrwgc.com
-.aigzk.com
-.mrzhifu.net
-.51zdwy.cn
-.bjzshy.cn
-.whbhsoft.cn
+.vgimer.cn
+.quzhizhongye.top
 .01tn.cn
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz
@@ -3619,6 +3618,7 @@
 .51gpt.com
 .51showmy.com
 .51wxyx.cn
+.51zdwy.cn
 .52homie.cn
 .52tushuo.com
 .53gem.com
@@ -3722,6 +3722,7 @@
 .ahylong.cn
 .ahzhongzhan.cn
 .aibangzs.com
+.aigzk.com
 .aikan6.com
 .ailezhai.cn
 .ailiby.cn
@@ -3840,6 +3841,7 @@
 .bjtengda.cn
 .bjygfd.com
 .bjzcbx.com
+.bjzshy.cn
 .bjzywuxian.com
 .bl2030.com
 .bljpk3.cn
@@ -4543,6 +4545,7 @@
 .lezengxin.com
 .lfcepgb.cn
 .lfdydk.com
+.lflable.com
 .lfsenmei.com
 .lfzxcp.com
 .lgjygg.com
@@ -4586,6 +4589,7 @@
 .lq1.abcxs.com
 .lqmohun.com
 .lr96.top
+.lrwgc.com
 .lscckgm.cn
 .lshmjz.com
 .ltaome.cn
@@ -4656,6 +4660,7 @@
 .moxiaoyang.top
 .mozqca.cn
 .mrjfsc.cn
+.mrzhifu.net
 .msccabin.com
 .mtcat.cn
 .mudezs.com
@@ -4839,6 +4844,7 @@
 .qpmztk.cn
 .qqdashabi.top
 .quanjiapp.cn
+.quantao8.top
 .quipin.cn
 .quxiandu.com
 .quxiangkeji.cn
@@ -5070,6 +5076,7 @@
 .tsgyg.cn
 .tsrc8.com
 .ttbc33.com
+.ttshort.xyz
 .tuadong.com
 .tukexiu.com
 .tunanchangban.com
@@ -5156,6 +5163,7 @@
 .wfaffwshop.xyz
 .wfslj.cn
 .wfyqc.com
+.whbhsoft.cn
 .whrles.com
 .whxhhjx.com
 .whxjnwzhs.com

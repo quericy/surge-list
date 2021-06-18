@@ -2719,8 +2719,6 @@
 .itim.vn
 .fc.itmedia.co.jp
 .ip.itracker360.com
-.cdn.iubenda.com
-.hits-i.iubenda.com
 .itm.ivitrack.com
 .matching.ivitrack.com
 .api.ivymobile.com
