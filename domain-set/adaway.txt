@@ -753,7 +753,6 @@
 .ds-aksb-a.akamaihd.net
 .inmobisdk-a.akamaihd.net
 .middycdn-a.akamaihd.net
-.snappytvpoc-vh.akamaihd.net
 .supersonicads-a.akamaihd.net
 .cdn-guile.akamaized.net
 .dyn-beacon.akamaized.net
