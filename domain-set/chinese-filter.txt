@@ -173,7 +173,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.govgaungzhou.cn
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -1017,6 +1016,7 @@
 .gouweida.cn
 .govbeijing.cn
 .govchongqing.cn
+.govgaungzhou.cn
 .govgift.com
 .govhunan.cn
 .govjiangsu.cn
@@ -2847,6 +2847,7 @@
 .80juqing.com
 .8131.qizhihaotian.cn
 .88.yunqishi.net
+.88.yunqishi8.com
 .91friend.com
 .94ab.com
 .999d.com
