@@ -3,6 +3,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.agorahtag.tech
+.cdn.adsquirrel.ai
 .b90.yahoo.co.jp
 .mc-ya.ru
 .srmdata.com
@@ -14760,7 +14762,7 @@
 .plbslog.umeng.com
 .analysys.cn
 .logs.supersonic.com
-.datacollector-drru.dt.hicloud.com
+.datacollector-*.dt.hicloud.com
 .app-analytics-ru.huami.com
 .metrics.spbtv.com
 .android-stat.acestream.net
