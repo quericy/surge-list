@@ -1,3 +1,7 @@
+.igcdnnu.com
+.pubaka5.com
+.grothafepi.com
+.nemewagro.com
 .effectiveperformancenetwork.com
 .sciencem.club
 .akemeast.club
@@ -2154,6 +2158,7 @@
 .static.hoptopboy.com
 .strands.com
 .super-promo.cyme.info
+.syndication.exoclick.com
 .syndication.exosrv.com
 .syndication.globaltraffico.com
 .syngrestic.com
@@ -2200,6 +2205,7 @@
 .cb8717377086c72d.com
 .go.mobiprotg.com
 .samsungtvads.com
+.d13nu0oomnx5ti.cloudfront.net
 .cintent.streanplay.cc
 .centent.streanplay.cc
 .centent.steanplay.cc
@@ -2406,6 +2412,7 @@
 .bsxmuny.wp.pl
 .fusion.sydsvenskan.se
 .ad.juksy.com
+.nh-cdn.sgp1.cdn.digitaloceanspaces.com
 .hbplatform.com
 .affiliate.k4.tinhte.vn
 .delivery.senvangvn.com
@@ -3325,8 +3332,10 @@
 .adscok.com
 .adserved.net
 .adservi.com
+.adskape.ru
 .adsplay.in
 .adspop.me
+.adspyglass.com
 .adsrefundattempts.com
 .adsrv.me
 .adstarget.net
@@ -5690,7 +5699,6 @@
 .dynamitematerialisticwriting.com
 .dynpaa.com
 .dynsrvbaa.com
-.dynsrvtbg.com
 .dynsrvtyu.com
 .dz4ad.com
 .e-find.co
@@ -14287,7 +14295,6 @@
 .domainsponsor.com
 .dotomi.com
 .doubleclick.com
-.doubleclick.net
 .dreamaquarium.com
 .dstillery.com
 .dumedia.ru
@@ -14603,6 +14610,7 @@
 .imonomy.com
 .imp*.tradedoubler.com
 .impact-ad.jp
+.impactify.io
 .impactradius-go.com
 .impactradius.com
 .impeacknow.xyz
@@ -16212,8 +16220,6 @@
 .actio.systems
 .actiondesk.com
 .acweb.online
-.ad-apac.doubleclick.net
-.ad-emea.doubleclick.net
 .ad-maven.com
 .ad4game.com
 .ad6media.fr
@@ -16471,7 +16477,6 @@
 .cloudplane.xyz
 .cloudsrvtrk.com
 .cloudtraff.com
-.cm.g.doubleclick.net
 .cmllk2.info
 .cmpgns.net
 .codedexchange.com
@@ -16537,6 +16542,7 @@
 .dooloust.net
 .dormitysature.info
 .dosliggooor.com
+.doubleclick.net
 .doublepimp.com
 .down-paradise.com
 .down1oads.com
@@ -16546,6 +16552,7 @@
 .dradvice.in
 .dsstrk.com
 .dynsrvdea.com
+.dynsrvtbg.com
 .dynsrvwer.com
 .e1f95201b19594.site
 .e2b9jbowv7.com
@@ -16650,7 +16657,6 @@
 .gomo.cc
 .gonextpage.ru
 .goodbookbook.com
-.googleads.g.doubleclick.net
 .gotjobbs.com
 .gotohouse1.club
 .gotoplaymillion.com
@@ -17019,7 +17025,6 @@
 .psma02.com
 .psoomeeg.com
 .ptongouh.net
-.pubads.g.doubleclick.net
 .pubdirecte.com
 .publited.com
 .pubted.com
@@ -17184,8 +17189,6 @@
 .swagtraffcom.com
 .symkashop.ru
 .syncedvision.com
-.syndication.dynsrvtbg.com
-.syndication.exoclick.com
 .tagsd.com
 .takelnk.com
 .td563.com
@@ -17376,8 +17379,6 @@
 .ads4xxx.com
 .adsession.com
 .adsgangsta.com
-.adskape.ru
-.adspyglass.com
 .adsturn.com
 .adult3dcomics.com
 .adultforce.com
@@ -18382,6 +18383,7 @@
 .dm0acvguygm9h.cloudfront.net
 .dmkdtkad2jyb9.cloudfront.net
 .dmx.districtm.io
+.do69ll745l27z.cloudfront.net
 .dojx47ab4dyxi.cloudfront.net
 .downloadandsave-a.akamaihd.net
 .dpsq2uzakdgqz.cloudfront.net

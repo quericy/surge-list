@@ -3,6 +3,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.plugins.soclminer.com.br
+.adrizer.com
+.contentsfeed.com
+.zz.bdstatic.com
 .agorahtag.tech
 .cdn.adsquirrel.ai
 .b90.yahoo.co.jp

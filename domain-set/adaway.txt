@@ -2170,6 +2170,7 @@
 .static.gridsumdissector.com
 .api.growthbeat.com
 .api.growthpush.com
+.hearst.gscontxt.net
 .phar.gu-web.net
 .guardianapps.co.uk
 .gumgum.com
@@ -2358,6 +2359,7 @@
 .uaid-linkage.imrworldwide.com
 .imwx.com
 .trk.in25app.com
+.t.indeed.com
 .update.indexww.com
 .mobileads.indiatimes.com
 .api.indicative.com
@@ -2732,6 +2734,7 @@
 .impression-europe.liftoff.io
 .a-ssl.ligatus.com
 .a.ligatus.com
+.www.lightboxcdn.com
 .ap.lijit.com
 .ce.lijit.com
 .gslbeacon.lijit.com
@@ -3419,6 +3422,7 @@
 .nuffnang.com.my
 .als-svc.nytimes.com
 .meter-svc.nytimes.com
+.a.et.nytimes.com
 .cdn.o333o.com
 .consent.cmp.oath.com
 .service.cmp.oath.com
@@ -3464,6 +3468,7 @@
 .eu-aa.online-metrix.net
 .h-ebay.online-metrix.net
 .h-fidelity.online-metrix.net
+.h-sdk.online-metrix.net
 .h-signifyd.online-metrix.net
 .h-tdcanada.online-metrix.net
 .h.online-metrix.net
@@ -4982,6 +4987,7 @@
 .i.w55c.net
 .tags.w55c.net
 .smetrics.walgreens.com
+.drfdisvc.walmart.com
 .analytics.mobile.walmart.com
 .wapstart.ru
 .cdn.watchingthat.net
