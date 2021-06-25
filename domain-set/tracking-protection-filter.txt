@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.clarity.ms
 .plugins.soclminer.com.br
 .adrizer.com
 .contentsfeed.com
@@ -4165,6 +4166,8 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.d2uhnetoehh304.cloudfront.net
+.c.sibnet.ru
 .bc.nhk.jp
 .t.simply-hentai.com
 .track.nzz.ch

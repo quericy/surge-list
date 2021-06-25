@@ -2144,6 +2144,7 @@
 .adservice.google.nl
 .googleadservices.com
 .static.googleadsserving.cn
+.androidtvwatsonfe-pa.googleapis.com
 .clientmetrics-pa.googleapis.com
 .ade.googlesyndication.com
 .buttons.googlesyndication.com
