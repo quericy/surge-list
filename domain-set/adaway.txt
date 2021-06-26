@@ -4339,7 +4339,6 @@
 .ads-lfi3olnec7fr.stackpathdns.com
 .analytics-wildtangent-yfdbl8gzl.stackpathdns.com
 .beacons-wxm0dh1cst4.stackpathdns.com
-.hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
 .sdk-assets-zy8pe3h4v8msjk6x2sq4.stackpathdns.com
 .alkutbay.starbolt.io
 .dmp.starbolt.io
