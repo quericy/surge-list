@@ -175,7 +175,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.jessicalaurax.com
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -1230,6 +1229,7 @@
 .jczzjx.com
 .jdlhg.com
 .jehudf.com
+.jessicalaurax.com
 .jfjsp.com
 .jfqkj.com
 .jgchq.com
@@ -2760,7 +2760,7 @@
 .wofjhs.com
 .immedlinkum.info
 .xayah.date
-.pic1.dianshu119.com
+.s1.pipishu.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3344,6 +3344,7 @@
 .p1.zhumengwl.com
 .panyh123456.cn
 .pb.shuxigua.com
+.pic1.dianshu119.com
 .pic50.pingguolv.com
 .pincai.com
 .pjcn.org
@@ -3557,6 +3558,13 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.isles.cn
+.my-hr.cn
+.tpool.cn
+.txuesoft.cn
+.zgcqxjzny.cn
+.hdketang.cn
+.dzxzx.cn
 .01tn.cn
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz

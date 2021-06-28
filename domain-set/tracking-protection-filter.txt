@@ -3,6 +3,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.kaiseki-website.com
+.site-kaiseki-tool.com
 .clarity.ms
 .plugins.soclminer.com.br
 .adrizer.com
@@ -4166,6 +4168,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.events.sd-nbb.de
 .d2uhnetoehh304.cloudfront.net
 .c.sibnet.ru
 .bc.nhk.jp
