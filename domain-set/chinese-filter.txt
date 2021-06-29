@@ -175,6 +175,8 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
+.ojbknx.com
+.darren01.oss-cn-beijing.aliyuncs.com
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -2760,7 +2762,6 @@
 .wofjhs.com
 .immedlinkum.info
 .xayah.date
-.s1.pipishu.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3369,6 +3370,7 @@
 .s.yaozui.com
 .s.zixuntop.com
 .s1.dugoogle.com
+.s1.pipishu.com
 .s1.qiqutt.cn
 .s1.qiqutt.com
 .s1.tuzhaozhao.com
@@ -3558,13 +3560,12 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.isles.cn
-.my-hr.cn
-.tpool.cn
-.txuesoft.cn
-.zgcqxjzny.cn
-.hdketang.cn
-.dzxzx.cn
+.wbdsj.top
+.gongshu168.cn
+.advancedreefaquarium.com
+.jinzpeng.cn
+.zsmyzg.cn
+.vsheying.top
 .01tn.cn
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz
@@ -4090,6 +4091,7 @@
 .dyuadask.com
 .dzooo.cn
 .dzrenju2.cn
+.dzxzx.cn
 .e9emh.cn
 .ealcrrm.cn
 .ebuysolar.com
@@ -4294,6 +4296,7 @@
 .hcenc.com
 .hchik.com
 .hdfdm.com
+.hdketang.cn
 .hdminfeng.com
 .hdsahfkja.top
 .hdvwm3.cn
@@ -4421,6 +4424,7 @@
 .iruad.com
 .isgow.com
 .ishowms.com
+.isles.cn
 .itcoder.top
 .iyouhu.cn
 .izuis.com
@@ -4721,6 +4725,7 @@
 .mx.loubiqu.com
 .mxc87.org
 .mxhbkj.cn
+.my-hr.cn
 .myams.cn
 .mydownba.com
 .mysty.com.cn
@@ -5126,6 +5131,7 @@
 .toujing8.top
 .toujing9.top
 .tpcdn.top
+.tpool.cn
 .travel-together.cn
 .trhccn.cn
 .trpsm.xyz
@@ -5141,6 +5147,7 @@
 .twodogegg.cn
 .txn5n0.cn
 .txtxr.com
+.txuesoft.cn
 .txwhds.com.cn
 .tyrghj.cn
 .tyue.me
@@ -5461,6 +5468,7 @@
 .zenwq.com
 .zfood029.com
 .zgchaye123.com
+.zgcqxjzny.cn
 .zgdfvih.cn
 .zgfszs.com
 .zgjjkk.com
