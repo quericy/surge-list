@@ -4423,6 +4423,7 @@
 .beefraidmob.com
 .beegmove.com
 .beegotou.net
+.beehiveclergyman.com
 .beenmeekwarmth.casa
 .beforement.club
 .beforesfantr.club
@@ -9701,6 +9702,7 @@
 .noisysortcasualty.com
 .nomadpertexcess.com
 .nomicidenti.top
+.nominalpowerlessunable.com
 .nonerr.com
 .nonewnews.name
 .nonfictionrobustchastise.com
@@ -9850,6 +9852,7 @@
 .o626b32etkg6.com
 .oackoubs.com
 .oadaheba.net
+.oadsouzi.net
 .oaffolksy.cam
 .oagnatch.com
 .oampitsa.com
@@ -17386,6 +17389,7 @@
 .plugin.mobopay.baidu.com
 .mo.freeindoapp.com
 .adcr.naver.com
+.ads.edadeal.ru
 .pr.comet.yahoo.com
 .tapjoy.com
 .tapjoy.net
@@ -17940,6 +17944,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.calameo-beacon.global.ssl.fastly.net
+.channel-analysis-js.gmw.cn
 .kaiseki-website.com
 .site-kaiseki-tool.com
 .clarity.ms
@@ -21917,6 +21923,7 @@
 .um-public-panel-prod.s3.amazonaws.com
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
+.pixel.inforsea.com
 .l.niiblo.jp
 .events.sd-nbb.de
 .d2uhnetoehh304.cloudfront.net
@@ -22038,7 +22045,6 @@
 .geo.mattel163.com
 .tc-log.mattel163.com
 .metrics.api.yle.fi
-.analytics-sdk.yle.fi
 .events-api*.outfit7.com
 .events.emogi.com
 .log.ohmynews.com
@@ -24181,6 +24187,7 @@
 .logrocket.com
 .logrocket.io
 .loopa.net.au
+.lr-ingest.io
 .luckyorange.net
 .lyngro.com
 .m-t.io
@@ -25525,6 +25532,7 @@
 .track.strife.com
 .track.td3x.com
 .track.untd.com
+.track.venatusmedia.com
 .track.vscash.com
 .track.wayin.com
 .track.written.com
@@ -26471,6 +26479,7 @@
 .ver-pelis.net
 .xclk-integracion.com
 .yestorrents.org
+.playjusting.com
 .gafdelins.com
 .nplxa.com
 .jsrlfg.com
@@ -31126,7 +31135,6 @@
 .twiago.com
 .bauernative.com
 .7daystodie.cn
-.one.toumppk.cn
 .trenhdg.com
 .youqunjx.com
 .koudaiyundong.com
@@ -32465,6 +32473,7 @@
 .11bet.com
 .11bet.net
 .11bet.win
+.123b.com
 .12b99.com
 .179bet.net
 .1xbetvn.com
@@ -32473,6 +32482,7 @@
 .388bet.vip
 .3kingclub.com
 .50soc.com
+.5123b.com
 .520xiaojin.com
 .68rich.com
 .68rich.org
@@ -32573,6 +32583,7 @@
 .macau.club
 .macauclub.fun
 .mansion66.com
+.may88.club
 .may88.com
 .mayclub.net
 .mc876.com
@@ -32586,6 +32597,7 @@
 .ms88asia.com
 .ms88ca.com
 .nbet.com
+.nhacainbet.club
 .nhanthuong88.com
 .nhat.game
 .nhatvip.net
@@ -32607,6 +32619,7 @@
 .ric.win
 .rik.vip
 .rik.win
+.rikvip.us
 .rio66qc.club
 .sbc31.com
 .sieubomtan.com
@@ -32632,6 +32645,7 @@
 .top88.fun
 .top88.uk
 .top88.us
+.trungso.vip
 .uw88vnd.com
 .v7ac.com
 .v8.club
@@ -32668,6 +32682,7 @@
 .w88yes.com
 .wbet99.net
 .websvn.info
+.win888b.com
 .ww88club.com
 .x8.club
 .x8.vin
@@ -32705,8 +32720,9 @@
 .h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 .m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 .wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
-.ojbknx.com
-.darren01.oss-cn-beijing.aliyuncs.com
+.120571.com
+.earthahedda.com
+.betonpolite.com
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -33157,6 +33173,7 @@
 .dameyuan.com
 .dami66.cn
 .damumu.xyz
+.darren01.oss-cn-beijing.aliyuncs.com
 .dashaowu.com
 .dashet.com
 .dazhonghua.cn
@@ -33740,6 +33757,7 @@
 .nzezn.com
 .oceanbot-steam.com
 .ojbknb.com
+.ojbknx.com
 .okm918.com
 .onenews.vip
 .oneyearonechange.com
@@ -34680,6 +34698,7 @@
 .5551895.com
 .wofjhs.com
 .xayah.date
+.99js.rxys.com
 .003store.com
 .1.01fy.cn
 .1.07swz.com
@@ -35404,12 +35423,24 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.wbdsj.top
-.gongshu168.cn
-.advancedreefaquarium.com
-.jinzpeng.cn
-.zsmyzg.cn
-.vsheying.top
+.arkn81.com
+.yongshengtongda.com
+.toumppk.cn
+.gldad.com
+.rqkgcd.xyz
+.jnjcxx.com
+.slout.top
+.huojugg.com
+.meibiisheng.com
+.speaknews.cn
+.gzts188.com
+.dangrancha.com.cn
+.atomicfile.cn
+.qdglzx.com
+.flddsri.cn
+.andrewsolicitors.com
+.cy-ck.top
+.jsnqh.cn
 .01tn.cn
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz
@@ -35590,6 +35621,7 @@
 .adhdsb.cn
 .adrian.net.cn
 .aduic.com
+.advancedreefaquarium.com
 .affiliate6.com
 .agjy6.com
 .agpligj.cn
@@ -36058,6 +36090,7 @@
 .gnncc.cc
 .gobali.cn
 .gongfanglong.cn
+.gongshu168.cn
 .gongxifacai21.top
 .goodkee.cn
 .gotooback.com
@@ -36297,6 +36330,7 @@
 .jinrungroup.cn
 .jinshzx.com
 .jinyinggroup.cn
+.jinzpeng.cn
 .jioder3e.cn
 .jioeg.com
 .jisufeifei.com
@@ -37001,6 +37035,7 @@
 .vkuay.com
 .voterlin.cn
 .vq7736.com
+.vsheying.top
 .vvnna.com
 .vwb4p.cn
 .wagenlux.cn
@@ -37015,6 +37050,7 @@
 .wantezy.cn
 .watchhouse.cn
 .waterincloud.cn
+.wbdsj.top
 .wbiev.com
 .webbridcar.xyz
 .wechatpu.com
@@ -37320,6 +37356,7 @@
 .zpyfsj.cn
 .zqwlkj.cn
 .zrmxswrl.com
+.zsmyzg.cn
 .zstjy.com
 .zswph.com
 .ztxbd.com
