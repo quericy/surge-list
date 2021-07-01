@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.kilometrix.de
 .calameo-beacon.global.ssl.fastly.net
 .channel-analysis-js.gmw.cn
 .kaiseki-website.com
@@ -4170,6 +4171,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.p.gm99.com
 .pixel.inforsea.com
 .l.niiblo.jp
 .events.sd-nbb.de

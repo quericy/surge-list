@@ -695,7 +695,6 @@
 .sync.alphonso.tv
 .tr.alphonso.tv
 .api.altamob.com
-.cdn.cloud.altbalaji.com
 .altitude-arena.com
 .altrooz.com
 .am15.net

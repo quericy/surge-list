@@ -1,3 +1,5 @@
+.dns.chuzushijian.cn
+.j.sdqoi2d.com
 .my.my-hr.cn
 .one.toumppk.cn
 .youqunjx.com
@@ -1272,6 +1274,7 @@
 .jiuzhilan.com
 .jixing8.com
 .jixing8.net
+.jiyuanzhiwensuo.cn
 .jjxgly.com
 .jjz666.cn
 .jk939.com
@@ -2072,6 +2075,7 @@
 .wit.qq.com
 .wjguc.com
 .wka8.com
+.wm-mxc.com
 .wmrmb.cn
 .wnlyjhb.com
 .wo19.top
@@ -3564,6 +3568,9 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.tearf.cn
+.timup.top
+.dd-lightingshow.com
 .01tn.cn
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz
@@ -3904,6 +3911,8 @@
 .bugcreator.cn
 .bulankk.com
 .bulkeach.com
+.busxiongdi.com
+.butendecatholicparish.com
 .buyuninfo.com
 .buzx53.cn
 .bx9000.top
@@ -4065,6 +4074,7 @@
 .dilqdiw.cn
 .dirbfm.cn
 .dkjdnq.cn
+.dl12349.net
 .dldsrs.com
 .dlsdkw.cn
 .dlyukun.cn
@@ -4086,6 +4096,7 @@
 .dtzysm.com
 .du9zgx.cn
 .duluoweiyu.com
+.dushuge.net
 .duwowvo.cn
 .duyousxtd.com
 .dvzk66.cn
@@ -4560,6 +4571,7 @@
 .kbstyn.com
 .kddlearn.cn
 .keilb.xyz
+.kejiadoor.cn
 .keran.hl.cn
 .ketaoke.com
 .keyand.xyz
@@ -4641,7 +4653,7 @@
 .ljmei.com
 .llffaev.cn
 .llqd5.cn
-.lmdknj.vbiquge.com
+.lmdknj.xxbiquge.net
 .lnalttc.com
 .lobmuc.cn
 .lolvsdota.cn
@@ -4774,6 +4786,7 @@
 .ningbojipiao.com
 .ningxiayy.com
 .niutaizong.cn
+.njcengpianwang.cn
 .njcyt.com
 .njguluyu.cn
 .njhuashidai.cn
@@ -5058,6 +5071,7 @@
 .superbao.top
 .sv7oqa.cn
 .svfwer.top
+.sviss.top
 .sw9t.ml
 .swq48b.cn
 .swyhome.com
@@ -5558,6 +5572,7 @@
 .zxin131.cn
 .zxjjzx.com
 .zxlmnet.com
+.zxopen.tech
 .zxsmxt.com
 .zykxjt.com
 .zyqtc.cn
