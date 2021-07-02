@@ -760,6 +760,7 @@
 .cnfanglei.com
 .cnhbxx.com
 .cnkok.com
+.cnlongshou.com
 .cnnywz.cn
 .cnpinzhuo.com
 .cnscdj.com
@@ -1027,6 +1028,7 @@
 .govchongqing.cn
 .govgaungzhou.cn
 .govgift.com
+.govguilin.cn
 .govhunan.cn
 .govjiangsu.cn
 .govshenzhen.cn
@@ -2006,6 +2008,7 @@
 .v.xi666.com
 .v9wuyulou.com
 .vaedan.top
+.valueur.com
 .vamaker.com
 .vc370.com
 .vdazz.net
@@ -3568,9 +3571,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.tearf.cn
-.timup.top
-.dd-lightingshow.com
 .01tn.cn
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz
@@ -3970,6 +3970,7 @@
 .chuzrra.cn
 .cifree.xyz
 .cike666.com
+.cilxili.top
 .city009.com
 .cityb.xyz
 .cityd.xyz
@@ -4052,6 +4053,7 @@
 .daylskg.cn
 .dbxnvh.cn
 .dceni.com
+.dd-lightingshow.com
 .ddanq.com
 .dddyun.com
 .ddg1277.com
@@ -4907,6 +4909,7 @@
 .qi-shi.top
 .qianggou8.top
 .qianyuntengyue.com
+.qiaoenyl.xyz
 .qiaopiguniang.com
 .qichetuoyun.com.cn
 .qiditrade.com
@@ -5123,6 +5126,7 @@
 .tcnmf.com
 .tdain.com
 .tdbwgrm.cn
+.tearf.cn
 .tfg8.com
 .tgbrfv.cn
 .tglzqw.cn
@@ -5135,6 +5139,7 @@
 .tiankongzudui.com
 .tiaoweiyou.cn
 .tieqifeng.com
+.timup.top
 .tingfengyu.top
 .tiojk.com
 .tirongtech.cn
