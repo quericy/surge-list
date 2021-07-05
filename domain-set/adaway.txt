@@ -3328,7 +3328,6 @@
 .mobileads.msn.com
 .rads.msn.com
 .srtb.msn.com
-.superapp.msn.com
 .a.ads1.msn.com
 .b.ads1.msn.com
 .sdkconf.msstatic.com
@@ -3464,16 +3463,6 @@
 .apicssdk.onemt.co
 .click.oneplus.com
 .geolocation.onetrust.com
-.aa.online-metrix.net
-.eu-aa.online-metrix.net
-.h-ebay.online-metrix.net
-.h-fidelity.online-metrix.net
-.h-sdk.online-metrix.net
-.h-signifyd.online-metrix.net
-.h-tdcanada.online-metrix.net
-.h.online-metrix.net
-.h6.online-metrix.net
-.rbc.online-metrix.net
 .impl.onscroll.com
 .onetag-geo.onscroll.com
 .tag.onscroll.com

@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.track.robee.tech
 .aspservice.jp
 .kilometrix.de
 .calameo-beacon.global.ssl.fastly.net
@@ -4172,6 +4173,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.smp.tus.ac.jp
 .l.ffsagami.com
 .l.hamazo.tv
 .l.ikora.tv
