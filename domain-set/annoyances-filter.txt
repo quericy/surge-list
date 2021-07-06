@@ -12,6 +12,8 @@
 .wb.whatsbroadcast.com
 .signup.e2ma.net
 .7q1z79gxsi.global.ssl.fastly.net
+.cutechin.com
+.shakegoldfish.com
 .absorbingcorn.com
 .livelylaugh.com
 .hystericalcloth.com
@@ -512,6 +514,7 @@
 .pp.teksty-pesenok.ru
 .gu7socdn.txxx.com
 .cdn.pushowl.com
+.contributions.guardianapis.com
 .usefomo.com
 .xhamsterpremium.com
 .shop.kicker.de

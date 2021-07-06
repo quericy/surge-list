@@ -177,8 +177,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.zhangjunying.top
-.yl-zipper.com
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -2298,6 +2296,7 @@
 .yiwad.com
 .yixige.com
 .yixui.com
+.yl-zipper.com
 .ylfgybn.cn
 .ylflwbj.cn
 .ylzx.net
@@ -2392,6 +2391,7 @@
 .zhaibei112.top
 .zhandi.cc
 .zhangbaochang.top
+.zhangjunying.top
 .zhangkc.com
 .zhangranfilm.com
 .zhengyahong.cn
@@ -3577,9 +3577,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.abovede6.com
-.xafengzhij.xyz
-.fhlong2000.xyz
 .01tn.cn
 .027whht.com
 .0316dieroxiemzfjwmapk.xyz
@@ -3752,6 +3749,7 @@
 .abie18.top
 .abie25.top
 .abie9.top
+.abovede6.com
 .abuse8.com
 .ac56.xyz
 .acaog.com
@@ -4011,6 +4009,7 @@
 .codelabbeijing.cn
 .coenr.com
 .cojia.net
+.colchaguino.com
 .comberry.cn
 .continuedsys.cn
 .continuefaf.top
@@ -4180,6 +4179,7 @@
 .ffupiiv.cn
 .ffyyfy.top
 .fhixhde.cn
+.fhlong2000.xyz
 .findx2.info
 .fintechpi.com
 .fj95560.com
@@ -5324,6 +5324,7 @@
 .wzjs1.oss-accelerate.aliyuncs.com
 .xabtx.com
 .xacqp.com
+.xafengzhij.xyz
 .xafxs.cn
 .xamaky.top
 .xamiqi.top
@@ -5578,6 +5579,7 @@
 .zoepb.cn
 .zougg.com
 .zoujuhonglawyer.com
+.zouxinyan.xyz
 .zp0737.com
 .zpyfsj.cn
 .zqwlkj.cn
