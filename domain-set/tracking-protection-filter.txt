@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.adjust.com
 .a.ddli.jp
 .b92.yahoo.co.jp
 .cf-native.karte.io
@@ -16112,6 +16113,8 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.us04logfiles.zoom.us
+.us04logfiles-va.zoom.us
 .costco-adbutler.com
 .adbutler.costco.com
 .wompanalytics.azurewebsites.net
