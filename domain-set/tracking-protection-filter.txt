@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.trace21.dsb-ebusiness.com
 .adjust.com
 .a.ddli.jp
 .b92.yahoo.co.jp
