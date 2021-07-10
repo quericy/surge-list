@@ -186,6 +186,9 @@
 .tns.simba.taobao.com
 .cdnny.com
 .adblock.sina.cn
+.30mksr.cn
+.njzyjy.cn
+.hbzhenquan.cn
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -451,6 +454,7 @@
 .860010.com
 .88-baidu.com
 .887251.com
+.887591.com
 .88818122.cn
 .8881919.cc
 .88cpc.com
@@ -4105,6 +4109,7 @@
 .dodolive.cn
 .dodomo.info
 .dofkfhv.cn
+.doujl.cn
 .doulaihai.top
 .downcdn.top
 .dpbyc.com
@@ -4749,6 +4754,7 @@
 .mhi9da.cn
 .miaos11.com
 .micreative-china.cn
+.miniholiday.cn
 .mitjg.xyz
 .mituir.xyz
 .miyaluorenliziuan.cn
@@ -4912,6 +4918,7 @@
 .pppxia.com
 .pqezdo.cn
 .prazpf.cn
+.prfuxl.xyz
 .ptgezc.com
 .puqer.cn
 .pwjmzqx.cn
@@ -5470,6 +5477,7 @@
 .yoobest.cn
 .yosjob.cn
 .you6ka.cn
+.youlejia.xyz
 .youngalsobeautiful.com
 .youpukeji.cn
 .youshouge513.cn
@@ -5541,6 +5549,7 @@
 .zhanjiangletian.com
 .zhanlan5.cn
 .zhaoyafang.cn
+.zhcps.cn
 .zhekoudajie.com
 .zhengzhoupengbo.com
 .zhiboiot.cn
