@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.ar-x.site
 .analytics.chase.com
 .scripttags.jst.ai
 .trace21.dsb-ebusiness.com
