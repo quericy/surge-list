@@ -194,6 +194,7 @@
 .log.gs3.goo.ne.jp
 .static.karte.io
 .wonder-ma.com
+.ot.ebis.ne.jp
 .sync.ebis.ne.jp
 .taj1.ebis.ne.jp
 .taj2.ebis.ne.jp

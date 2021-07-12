@@ -107,6 +107,7 @@
 .clickio.mgr.consensu.org
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
+.consent.finanzen.net
 .cookies.joneslanglasalle.co.jp
 .cmp.acronymfinder.com
 .sp-consent.stuttgarter-zeitung.de
