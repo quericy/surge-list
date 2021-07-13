@@ -12,6 +12,7 @@
 .wb.whatsbroadcast.com
 .signup.e2ma.net
 .7q1z79gxsi.global.ssl.fastly.net
+.colossalcoat.com
 .cutechin.com
 .shakegoldfish.com
 .absorbingcorn.com
@@ -528,6 +529,7 @@
 .plista.com
 .booster.webtradecenter.com
 .widgets.digitalmediacommunications.com
+.userlike.com
 .frase.io
 .leadbooster-chat.pipedrive.com
 .ckct.ru
@@ -653,6 +655,7 @@
 .widgets.opinary.com
 .app.mycountrytalks.org
 .insticator.com
+.collectcdn.com
 .config.gorgias.chat
 .cdn.carrotquest.app
 .widget.chatbullet.com
