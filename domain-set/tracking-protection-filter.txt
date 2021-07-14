@@ -3,6 +3,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.requestmetrics.com
+.onelink.me
+.alpixtrack.com
 .oracleinfinity.io
 .ar-x.site
 .analytics.chase.com
@@ -4194,6 +4197,10 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.logs.gaana.com
+.track.searchiq.co
+.broker.datazoom.io
+.dot.texastribune.org
 .ping.hashnode.com
 .log.vava.com
 .beacon.samsclub.com
@@ -15690,6 +15697,13 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.analytics.rover.io
+.events-collector-api.viacom.tech
+.self.events.data.microsoft.com
+.events.data.microsoft.com
+.pipe.aria.microsoft.com
+.log-api.aillis.net
+.log.snow.me
 .events.textme-app.com
 .stocks-analytics-events.apple.com
 .stocks-analytics-events.news.apple-dns.net

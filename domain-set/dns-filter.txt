@@ -1,3 +1,4 @@
+.ausoafab.net
 .svacdnjutk.com
 .boustahe.com
 .wolverdonfilmes.ml
@@ -24,7 +25,6 @@
 .qzlglizfy.com
 .iwxzizcw.com
 .glersakr.com
-.ausoafab.net
 .widow5blackfr.com
 .spoilphysiqueteenagers.com
 .ascertaincrescenthandbag.com
@@ -2628,6 +2628,7 @@
 .november-lax.com
 .samsungads.com
 .samsungtvads.com
+.ad.kisscartoon.sh
 .d13nu0oomnx5ti.cloudfront.net
 .cintent.streanplay.cc
 .centent.streanplay.cc
@@ -10424,7 +10425,6 @@
 .prfctmney.com
 .pricestern.top
 .prieseerunbe.info
-.prikachi.net
 .prime-vpnet.com
 .primevalcherries.com
 .primroseconstellationrapidly.com
@@ -17698,6 +17698,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.requestmetrics.com
+.alpixtrack.com
 .oracleinfinity.io
 .ar-x.site
 .analytics.chase.com
@@ -21696,6 +21698,10 @@
 .um-public-panel-prod.s3.amazonaws.com
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
+.logs.gaana.com
+.track.searchiq.co
+.broker.datazoom.io
+.dot.texastribune.org
 .ping.hashnode.com
 .log.vava.com
 .beacon.samsclub.com
@@ -23287,6 +23293,12 @@
 .analytics-sprint.qoqa.com
 .analytics.qoqa.ch
 .analytics.qoqa.com
+.analytics.rover.io
+.events-collector-api.viacom.tech
+.events.data.microsoft.com
+.pipe.aria.microsoft.com
+.log-api.aillis.net
+.log.snow.me
 .events.textme-app.com
 .stocks-analytics-events.apple.com
 .stocks-analytics-events.news.apple-dns.net
@@ -23677,7 +23689,6 @@
 .airbrake.io
 .airserve.net
 .aivalabs.com
-.alpixtrack.com
 .amnet.tw
 .amplitude.com
 .ampush.io
@@ -24145,7 +24156,6 @@
 .remind.me
 .repixel.co
 .report-uri.io
-.requestmetrics.com
 .resulticks.com
 .retargettracker.com
 .retentionscience.com
@@ -25411,6 +25421,7 @@
 .visit.geocities.com
 .vmstats.varrando.com
 .vtnlog-*.elb.amazonaws.com
+.wco.crownpeak.com
 .web1.51.la
 .weblog.livesport.eu
 .weblogger-dynamic-lb.playdom.com
@@ -32541,7 +32552,7 @@
 .h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 .m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 .wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
-.88888888vip.top
+.amarketing.top
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -32726,6 +32737,7 @@
 .887591.com
 .88818122.cn
 .8881919.cc
+.88888888vip.top
 .88rpg.net
 .892155.com
 .899792.com
@@ -35257,9 +35269,13 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.n5ta9.site
-.guiyimq.fun
-.zjjrlx4.com
+.miniling.cn
+.lynmo.cn
+.cdnfjz.com
+.886721.com
+.evzimlox.cn
+.marchtools.cn
+.53953.club
 .01tn.cn
 .027whht.com
 .0511qsfhknvz.xyz
@@ -35926,6 +35942,7 @@
 .guangweixinxi345.cn
 .guannin.com
 .guansenff.cn
+.guiyimq.fun
 .guoduand.cn
 .guvdfs.cn
 .gxdianhua.com
@@ -36403,6 +36420,7 @@
 .mzcs65562.cn
 .mzirmall.com
 .n18uji.xyz
+.n5ta9.site
 .nabeghlavi.com.cn
 .nainaimi.top
 .najingyi.cn
@@ -37167,6 +37185,7 @@
 .zixun8.com
 .ziyeaiying.com
 .zizcy.com
+.zjjrlx4.com
 .zjksgl.com
 .zjlfqf.com
 .zjxkdq.cn
