@@ -12,6 +12,7 @@
 .wb.whatsbroadcast.com
 .signup.e2ma.net
 .7q1z79gxsi.global.ssl.fastly.net
+.pastoralroad.com
 .colossalcoat.com
 .cutechin.com
 .shakegoldfish.com
@@ -655,6 +656,7 @@
 .widgets.opinary.com
 .app.mycountrytalks.org
 .insticator.com
+.widget.installchatbot.com
 .collectcdn.com
 .config.gorgias.chat
 .cdn.carrotquest.app

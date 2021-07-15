@@ -933,6 +933,7 @@
 .einsuran.com.cn
 .eiv.baidu.com
 .ejin56.com
+.ellenhilary.com
 .emarbox.com
 .enohb.com
 .eoncreativity.com
@@ -1439,6 +1440,7 @@
 .lianjie.phpwind.com
 .lianle.com
 .liaoren85.com
+.lichenqx.com
 .lico-ys.com
 .lifu11.com
 .linjiajia.cn
@@ -4188,6 +4190,7 @@
 .fuchuqu.cn
 .fuhaimuye.cn
 .fuligrs.cn
+.funnyweb.fun
 .futengbao.com.cn
 .fuxin-tech.com
 .fw.zhuaji.org

@@ -3,6 +3,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.events.tubecup.org
+.rat.rakuten.co.jp
 .requestmetrics.com
 .onelink.me
 .alpixtrack.com
@@ -4197,6 +4199,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.segment-cdn.producthunt.com
 .logs.gaana.com
 .track.searchiq.co
 .broker.datazoom.io
@@ -15697,6 +15700,7 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.browser.events.data.microsoft.com
 .analytics.rover.io
 .events-collector-api.viacom.tech
 .self.events.data.microsoft.com
