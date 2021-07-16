@@ -186,6 +186,9 @@
 .tns.simba.taobao.com
 .cdnny.com
 .adblock.sina.cn
+.elsiehoney.com
+.elvirahedwig.com
+.cqdzjc.com
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -2786,6 +2789,7 @@
 .wofjhs.com
 .immedlinkum.info
 .xayah.date
+.aqc.gucheng.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3587,6 +3591,8 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.ddot.xyz
+.advancepak.com
 .01tn.cn
 .027whht.com
 .0511qsfhknvz.xyz
