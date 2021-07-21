@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.mm.actionlink.jp
 .btloader.com
 .tracklog.58.com
 .wtstats.ro
@@ -3193,6 +3194,7 @@
 .visilabs.com
 .visilabs.net
 .functionalclam.com
+.fallaciousfifth.com
 .colossalcoat.com
 .cutechin.com
 .shakegoldfish.com
@@ -4211,6 +4213,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.smetrics.foxnews.com
 .ichnaea-web.netflix.com
 .customerevents.netflix.com
 .nmtracking.netflix.com
@@ -12751,6 +12754,7 @@
 .track.appsflyer.com
 .relap.io
 .adj.st
+.api.telemetry.watchabc.go.com
 .browser.events.data.microsoft.com
 .analytics.rover.io
 .events-collector-api.viacom.tech
