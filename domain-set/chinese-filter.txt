@@ -186,6 +186,9 @@
 .tns.simba.taobao.com
 .cdnny.com
 .adblock.sina.cn
+.bjxgw.top
+.lqunionsoft.top
+.longbaojiachen.top
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -3590,6 +3593,17 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.9xwk68.cn
+.amvecurt.cn
+.erkui.tech
+.zhwyjd.cn
+.xinxbh.cn
+.ieatlu.xyz
+.ouxutong.com
+.cqut.ltd
+.e92k49.com
+.truecrimesss.com
+.ledaren.cn
 .01tn.cn
 .027whht.com
 .0511qsfhknvz.xyz
