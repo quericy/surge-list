@@ -3,6 +3,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytics.core.retell.cc
+.powerbiz.co
+.tag.search.sensefuel.live
+.api.dataunlocker.com
 .microanalytics.io
 .tracking.sexcash.com
 .fastly-insights.com
@@ -4218,10 +4222,13 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.d3in1te4fdays6.cloudfront.net
+.tracker.cdn-moneysmart.com
+.monitoring.youronlinechoices.com
+.1bw7etm93lf.www.woodbrass.com
 .t.imgur.com
 .counter1.fc2.com
 .analyzer*.fc2.com
-.analyzer52.fc2.com
 .klik.nrc.nl
 .uie.data.cbc.ca
 .ub.finanzfrage.net
