@@ -235,6 +235,7 @@
 .139site.com
 .13hangpifa.com
 .13wn.com
+.157776.com
 .16577716.com
 .1680go.com
 .168zwm.com
@@ -1314,6 +1315,7 @@
 .jnxz88.cn
 .jnyngg.cn
 .joannalaura.com
+.jocelynlaura.com
 .johtzj.com
 .jointreport-switch.com
 .jozee.cn
@@ -3195,6 +3197,7 @@
 .fanyi100.com.cn
 .feidalu.com
 .ff.guidaye.com
+.ff.qichetansuo.com
 .ff.xue163.net
 .fjzimaoqu.cn
 .fotao9.com
@@ -3605,7 +3608,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.zrbn.ltd
 .01tn.cn
 .027whht.com
 .0511qsfhknvz.xyz
@@ -4252,6 +4254,7 @@
 .gongshu168.cn
 .gongxifacai21.top
 .goodkee.cn
+.googlexbaidu.top
 .gotooback.com
 .gou1zhe.com
 .govjieyang.cn
@@ -4350,6 +4353,7 @@
 .hhhw.ren
 .hhrhl.vip
 .hhslbz.cn
+.hhsoftinfo.com
 .highter.top
 .hihifenxiang.com
 .hiibcfr.cn
@@ -5093,6 +5097,7 @@
 .sugarpuff.net
 .suhusushi.com
 .suitmatters.cn
+.sungong1987.com
 .suoooi.cn
 .superbao.top
 .svfwer.top
@@ -5431,6 +5436,7 @@
 .xw1001.com
 .xxaalsn.cn
 .xxia.xyz
+.xxjuefi.cn
 .xxkio.com
 .xxzzsj.xyz
 .xy98.com.cn
@@ -5618,10 +5624,12 @@
 .zp0737.com
 .zpyfsj.cn
 .zqwlkj.cn
+.zrbn.ltd
 .zrmxswrl.com
 .zsmyzg.cn
 .zstjy.com
 .zswph.com
+.ztffac.com
 .ztxbd.com
 .zunhuioa.cn
 .zunss.com
