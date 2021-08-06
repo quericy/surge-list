@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.simility.com
 .recs.richrelevance.com
 .analytics.sqreem.com
 .iper2.com
@@ -2278,7 +2279,6 @@
 .omkt.co
 .on-line.lv
 .onefeed.co.uk
-.onelink-translations.com
 .onestat.com
 .onetag-sys.com
 .ongsono.com
@@ -16570,6 +16570,7 @@
 .stats.paypal.com
 .t.9gag.com
 .track.ad.nl
+.tracker.ai.xiaomi.com
 .tracker.bt.uol.com.br
 .tracking.autoscout24.com
 .traveltracking.check24.de
@@ -16616,8 +16617,14 @@
 .stats.appsflyer.com
 .t.appsflyer.com
 .track.appsflyer.com
+.mtrace.qq.com
+.sngmta.qq.com
+.adstats.tencentmusic.com
+.monitor.music.qq.com
+.stat.y.qq.com
 .relap.io
 .adj.st
+.dit.whatsapp.net
 .analytics.redbubble.com
 .stats-sg.ganymede.eu
 .eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
