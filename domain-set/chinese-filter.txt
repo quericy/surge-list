@@ -190,6 +190,7 @@
 .tns.simba.taobao.com
 .cdnny.com
 .adblock.sina.cn
+.jisukuaisong.cn
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -2788,7 +2789,6 @@
 .trafficjam.cn
 .tt.biquge.la
 .u.63kc.com
-.u.cnzol.com
 .uc.zhuici.com
 .union.china.com.cn
 .union.yihaodian.com
@@ -2821,6 +2821,8 @@
 .wofjhs.com
 .immedlinkum.info
 .xayah.date
+.vip.panggugu.com
+.1.ufc7.com
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3632,6 +3634,12 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.liangzimo.ltd
+.2886115.com
+.5qoh.cn
+.shandongaosen.cn
+.zhpxkl.cn
+.szjywn.cn
 .01tn.cn
 .027whht.com
 .0511qsfhknvz.xyz
