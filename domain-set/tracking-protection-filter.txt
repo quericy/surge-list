@@ -3,6 +3,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.services.bionika-digital.ru
 .perk0mean.com
 .tm.jsuol.com.br
 .cptrack.de
@@ -4244,6 +4245,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.t.wizards.com
 .ipada.cafe.naver.com
 .boomerang.dell.com
 .fp.kakaku.com
@@ -16643,6 +16645,9 @@
 .stat.y.qq.com
 .relap.io
 .adj.st
+.liveme-sensors-collect2-*.amazonaws.com
+.online-metrix.imars.cloud
+.snowplow-collector.apartmentlist.io
 .qa-events-schema.viacom.tech
 .dns-clientinfo.cbsivideo.com
 .trace.qq.com
