@@ -1,3 +1,4 @@
+.bd.zhpxkl.cn
 .p.qlogo.cn
 .dns.chuzushijian.cn
 .j.sdqoi2d.com
@@ -189,7 +190,6 @@
 .tns.simba.taobao.com
 .cdnny.com
 .adblock.sina.cn
-.e66gg.com
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -928,6 +928,7 @@
 .dzsstye.com
 .dzxwnews.com
 .e-demx.com
+.e66gg.com
 .e7001.com
 .e70123.com
 .e7015.com
@@ -981,6 +982,7 @@
 .fengchedaomall.cn
 .fenggejiaju.com
 .fengxiangstore.com
+.fensifuligo.com
 .fexiaen.com
 .ffa9.cn
 .fg-z.com
@@ -1025,6 +1027,7 @@
 .gamecps.com
 .gameone.com
 .gaobata.com
+.gaomingbo.com
 .garacy.cn
 .gars57.cn
 .gasxf.com
@@ -1711,6 +1714,7 @@
 .qiqivv.com
 .qiqiww.com
 .qiqiyii.com
+.qixedu.com
 .qiyou.com
 .qjyzj.cn
 .qkkjd.com
@@ -2693,6 +2697,7 @@
 .greenhouseglobal.cn
 .gt.duowan.com
 .gt.yy.com
+.guang1.zhakao.cn
 .guess.h.qhimg.com
 .hades.qyer.com
 .henghost.com
@@ -2814,7 +2819,6 @@
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
-.guang1.zhakao.cn
 .3336672.com
 .3337729.com
 .3337751.com
@@ -3637,10 +3641,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.aiyun.club
-.baolanke.top
-.sunang37.cn
-.bjxfinance.cn
 .01tn.cn
 .027whht.com
 .0511qsfhknvz.xyz
@@ -3772,6 +3772,7 @@
 .9c1g.cn
 .9c1k.cn
 .9d6k.cn
+.9e0u.cn
 .9ucm.com
 .9weg7b.com
 .9xwk68.cn
@@ -3822,6 +3823,7 @@
 .aishake.cn
 .aitehao.top
 .aixuyoupin.cn
+.aiyun.club
 .aiyyu.com
 .ajiez.com
 .alibdl.xyz
@@ -3887,6 +3889,7 @@
 .baiyaqin.xyz
 .bangdu2.com
 .banma51.cn
+.baolanke.top
 .baolutongwuye.cn
 .baomeidiaosu.cn
 .baoren.tech
@@ -3933,6 +3936,7 @@
 .bjqftcty.com
 .bjsjyg.cn
 .bjtengda.cn
+.bjxfinance.cn
 .bjygfd.com
 .bjzcbx.com
 .bjzshy.cn
@@ -4010,6 +4014,7 @@
 .chinawms.cn
 .chinaxingyin.com
 .chinayutai.cn
+.chinazhaoye.com
 .chkwwg.cn
 .chongnikeji.com
 .chuangjulm.cn
@@ -4522,6 +4527,7 @@
 .itcoder.top
 .ivruc.cn
 .iwucoz.cn
+.iynmloa.cn
 .iyouhu.cn
 .izuis.com
 .j1ybkf.cn
@@ -5176,6 +5182,7 @@
 .sugarpuff.net
 .suhusushi.com
 .suitmatters.cn
+.sunang37.cn
 .sungong1987.com
 .suoooi.cn
 .superbao.top
@@ -5451,6 +5458,7 @@
 .xcho.top
 .xcmxsw.com
 .xcmz999.com
+.xddfsp.com
 .xdrzdh.cn
 .xdyszx.com
 .xeihy.com
@@ -5679,6 +5687,7 @@
 .zhengzhoupengbo.com
 .zhiboiot.cn
 .zhide-edu.cn
+.zhihuizeyuan.com
 .zhimeihui.fun
 .zhinengcd.cn
 .zhipinbook.cn
