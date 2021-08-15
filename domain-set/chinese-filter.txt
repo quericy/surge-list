@@ -2841,6 +2841,7 @@
 .1.51dongshi.com
 .1.51sxue.cn
 .1.66law.cn
+.1.78500.cn
 .1.800400.net
 .1.92caijing.com
 .1.ajiyuming.com
@@ -3656,6 +3657,7 @@
 .0713bzksl.xyz
 .0727vjdl.xyz
 .0755man.cn
+.0769liancheng.cn
 .080120.com
 .0817zfbj.xyz
 .0824xfh.xyz
@@ -3768,6 +3770,7 @@
 .958so.cn
 .979067.com
 .996f3d.cn
+.9a9j.cn
 .9b0v.cn
 .9c1g.cn
 .9c1k.cn
@@ -3973,6 +3976,7 @@
 .caiji.wiki
 .caiwanhui.top
 .calculated.cn
+.canalandco.com
 .caofta.cn
 .cathaycentury.com
 .cbgyhe.cn
@@ -4412,6 +4416,7 @@
 .hhrhl.vip
 .hhslbz.cn
 .hhsoftinfo.com
+.hicpic.net.cn
 .highter.top
 .hihifenxiang.com
 .hiibcfr.cn
@@ -4449,6 +4454,7 @@
 .hongshikai.com
 .hongwenge.com
 .hongyangbg.com
+.horselvxing.cn
 .houanjijuxie.cn
 .houfang8.com
 .hougonw.com
@@ -4642,6 +4648,7 @@
 .jytjw.com
 .jzdianlan.cn
 .jzhxzsgs.com
+.jzjxmj.com
 .jzn360.cn
 .jzq2019.top
 .jzrzpump.com
@@ -4658,6 +4665,7 @@
 .kanvideo.top
 .kbstyn.com
 .kddlearn.cn
+.kefan.info
 .keilb.xyz
 .kejiadoor.cn
 .kenxr.com
@@ -5383,6 +5391,7 @@
 .wbmvohkn.cn
 .web0513.com
 .webbridcar.xyz
+.webstd.cn
 .wechatpu.com
 .weiboyaya.cn
 .weidehuagong.com
@@ -5555,6 +5564,7 @@
 .yaodianzhineng.cn
 .yaokuan01.cn
 .yaoquanshumeiyu.com
+.yaoxing.fun
 .ybhypt.com
 .ybrex.cn
 .ybtianxi.com
@@ -5756,6 +5766,7 @@
 .zywhjd.com
 .zyxwpj.com
 .zzcgw.cn
+.zzcharming.top
 .zzchuy.cn
 .zzhszj.com
 .zzmmkj.com
