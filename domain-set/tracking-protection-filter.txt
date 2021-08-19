@@ -3,6 +3,11 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.facil-iti.com
+.api.all-internet.jp
+.p-analytics.life
+.snowplow-collector-*.amazonaws.com
+.analytics.getshogun.com
 .log.gobankingrates.com
 .v*.sitecounter.site
 .macromill.com
@@ -4255,6 +4260,10 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.zion-telemetry.api.cnn.io
+.collector.cdp.cnn.com
+.collector-dev.cdp-dev.cnn.com
+.rps-uk.rockpapershotgun.com
 .d2r1yp2w7bby2u.cloudfront.net
 .csm.cxpublic.com
 .evt.houzz.com
@@ -16957,6 +16966,7 @@
 .stat.y.qq.com
 .relap.io
 .adj.st
+.metrics.sp0n.io
 .liveme-sensors-collect2-*.amazonaws.com
 .online-metrix.imars.cloud
 .snowplow-collector.apartmentlist.io
