@@ -1,3 +1,6 @@
+.dj930.cn
+.lnhsjob.com
+.lcmqyl.cn
 .lsr62.qtd95fj.online
 .y2ax5.y0tf2wp.online
 .nzq5.u95ivu.xyz
@@ -196,12 +199,6 @@
 .tns.simba.taobao.com
 .cdnny.com
 .adblock.sina.cn
-.netcoretech.net
-.coinever.net
-.hbuweb.net
-.pagetest.top
-.lctcw.top
-.sportsdream.top
 .00-gov.cn
 .0024aaaa.com
 .008844.cc
@@ -809,6 +806,7 @@
 .code222.com
 .code668.com
 .coinadv.com
+.coinever.net
 .coolbook.cc
 .coolfenxi.com
 .cpc.cc
@@ -1145,6 +1143,7 @@
 .hbhtbn.com
 .hblinwei.com
 .hbssjd.cn
+.hbuweb.net
 .hbyingchang.cn
 .hbzhenquan.cn
 .hbzjht.com
@@ -1263,6 +1262,7 @@
 .image.qndown.com
 .imim.me
 .imneinei.com
+.imnvgma.cn
 .index8.cn
 .instreet.cn
 .intentarget.com
@@ -1461,6 +1461,7 @@
 .laolinow.com
 .laoliulaoliu.com
 .lc442.com
+.lctcw.top
 .le123.cn
 .le4le.com
 .leeleo.top
@@ -1611,6 +1612,7 @@
 .nbzq.net
 .nchte.com
 .ndtzx.com
+.netcoretech.net
 .news.tagtoo.co
 .newyiba.top
 .ni22.com
@@ -1642,6 +1644,7 @@
 .nterbx.com
 .ntxiangtai.com
 .ntzfly.cn
+.nukebomb.cn
 .nuonuo1.icu
 .nvshuyun.com
 .nwk6in.cn
@@ -1677,6 +1680,7 @@
 .p3tt.com
 .pababy.cn
 .pagechoice.net
+.pagetest.top
 .panel-cn.com
 .papa9394.com
 .papa999.xyz
@@ -1695,6 +1699,7 @@
 .pinwu123.com
 .pinyierp.com
 .pinyoux.com
+.pitudashen.top
 .pjtymy.cn
 .pk965.com
 .pl8la42.cn
@@ -1896,6 +1901,7 @@
 .sparkyinchun.com
 .spcode.baidu.com
 .spectram.pro
+.sportsdream.top
 .spxnet.com
 .sq85.press
 .sqext.com
@@ -2245,6 +2251,7 @@
 .xlgqy.com
 .xlingdi.com
 .xm9178.com
+.xmhaorizi.cn
 .xmliw.com
 .xmrepair.com
 .xmrzw.cn
@@ -2570,6 +2577,7 @@
 .801.tianyaui.com
 .874547.men
 .8jkx.com
+.99smsf.com
 .a.baomihua.com
 .a.nowscore.com
 .a.xywy.com
@@ -2868,6 +2876,7 @@
 .1.ajiyuming.com
 .1.arpun.com
 .1.bh5.com.cn
+.1.ccutu.com
 .1.cjcp.cn
 .1.codesdq.com
 .1.codezh.com
@@ -3667,10 +3676,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.zd2020.top
-.furenyanfa.cn
-.lygrydwz.cn
-.leslieyu.com.cn
 .01tn.cn
 .027whht.com
 .0511qsfhknvz.xyz
@@ -4010,6 +4015,7 @@
 .buzx53.cn
 .bwdhuanbao.com
 .bx9000.top
+.bxmuvw.cn
 .c2fsd.xyz
 .caicaiplay.cn
 .caichenguang.cn
@@ -4322,6 +4328,7 @@
 .fuligrs.cn
 .funnyweb.fun
 .fuqifyb.xyz
+.furenyanfa.cn
 .futengbao.com.cn
 .fuxin-tech.com
 .fw.zhuaji.org
@@ -4454,6 +4461,7 @@
 .hdketang.cn
 .hdminfeng.com
 .hdsahfkja.top
+.hdxxaq.cn
 .he3kz8.com
 .headwell.cn
 .heavenwil.top
@@ -4789,6 +4797,7 @@
 .lepaidaren.com
 .lerenzx.cn
 .lesanmo.top
+.leslieyu.com.cn
 .lexph.com
 .leyxue.cn
 .lezengxin.com
@@ -4865,6 +4874,9 @@
 .lychangxu.cn
 .lyczhb.com
 .lygryd.cn
+.lygrydwz.cn
+.lygrydwz.com.cn
+.lygrydwz.net.cn
 .lyjz001.com
 .lylifa.com
 .lynmo.cn
@@ -5405,6 +5417,7 @@
 .tukexiu.com
 .tunanchangban.com
 .tuoxintrade.cn
+.tutese.com.cn
 .tuwo-audio.cn
 .txn5n0.cn
 .txtxr.com
@@ -5782,6 +5795,7 @@
 .zc710956.top
 .zcand.com
 .zchange.xyz
+.zd2020.top
 .zdovrb.cn
 .zdryg.com
 .zenwq.com
@@ -5803,6 +5817,7 @@
 .zhaoyafang.cn
 .zhcps.cn
 .zhekoudajie.com
+.zhengyuanguojimc.com
 .zhengzhoupengbo.com
 .zhiboiot.cn
 .zhide-edu.cn
