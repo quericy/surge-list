@@ -50,6 +50,8 @@
 .metrics.client-eng.a2z.com
 .analytics.console.aws.a2z.com
 .notify.bugsnag.appstore.a2z.com
+.global.telemetry.insights.video.a2z.com
+.us-east-1.telemetry.insights.video.a2z.com
 .segment.a3cloud.net
 .a8.net
 .smetrics.aa.com
@@ -90,6 +92,7 @@
 .static.accesstrade.vn
 .track.accesstrade.vn
 .tags.acmeaom.com
+.activemetering.com
 .as.ad-brix.com
 .campaign.ad-brix.com
 .config.ad-brix.com
@@ -627,6 +630,9 @@
 .debug.aerserv.com
 .events.aerserv.com
 .prod-ads.aerserv.com
+.metrics.aetn.com
+.insights.vip.aetnd.com
+.pulse.svod.aetnd.com
 .track.afcpatrk.com
 .cdn.go.affec.tv
 .map.go.affec.tv
@@ -654,6 +660,7 @@
 .roundrobin-log.agoop.net
 .aimatch.com
 .airpush.com
+.pop-iad-2.cf.dash.row.aiv-cdn.net
 .s3-iad-2.cf.dash.row.aiv-cdn.net
 .s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 .s3.ll.videorolls.row.aiv-cdn.net
@@ -801,6 +808,7 @@
 .bin5y4muil.execute-api.us-east-1.amazonaws.com
 .data-collect-337392791.ap-northeast-2.elb.amazonaws.com
 .dco-jads-727222375.us-west-2.elb.amazonaws.com
+.detailed-ad-logger-load-balancer-561104410.us-east-1.elb.amazonaws.com
 .engagement-bus-prod-713264365.us-east-1.elb.amazonaws.com
 .insight-1616140656.us-west-2.elb.amazonaws.com
 .log-collectors-73517960.us-east-1.elb.amazonaws.com
@@ -1339,6 +1347,7 @@
 .app.cision.com
 .prapi.cision.com
 .www.clarity.ms
+.events.claspws.tv
 .i.clean.gg
 .net.cleverjp.com
 .report.clevernt.com
@@ -1472,18 +1481,7 @@
 .sjc-tr.contextweb.com
 .tag-st.contextweb.com
 .contineljs.com
-.cws-cctv.conviva.com
-.cws-eu.conviva.com
-.cws-hulu.conviva.com
-.cws-iad1.conviva.com
-.cws-iad4.conviva.com
-.cws-sjc2.conviva.com
-.cws-us-east.conviva.com
-.cws-usw2.conviva.com
-.cws.conviva.com
-.dl.conviva.com
-.pings.conviva.com
-.vrl.m.conviva.com
+.conviva.com
 .geoip.cookieyes.com
 .prebid.cootlogix.com
 .api.coralogix.com
@@ -1583,6 +1581,8 @@
 .compass-events.deliverimp.com
 .compass-v2.deliverimp.com
 .deloton.com
+.balanced-collect.deltadna.net
+.balanced-engage.deltadna.net
 .collect10665dd4kq.deltadna.net
 .collect10791rllrc.deltadna.net
 .collect10854wrdcr.deltadna.net
@@ -1598,6 +1598,7 @@
 .collect3515gvrnr.deltadna.net
 .collect4739mgndm.deltadna.net
 .collect5081wrdch.deltadna.net
+.collect82532756ggplc.deltadna.net
 .engage10665dd4kq.deltadna.net
 .engage10791rllrc.deltadna.net
 .engage10854wrdcr.deltadna.net
@@ -1610,6 +1611,7 @@
 .engage17070dvntr.deltadna.net
 .engage3515gvrnr.deltadna.net
 .engage5081wrdch.deltadna.net
+.engage82532756ggplc.deltadna.net
 .engage8829thscr.deltadna.net
 .deltago.com
 .api.demandbase.com
@@ -1905,6 +1907,7 @@
 .ssl.exelator.com
 .vdna.exelator.com
 .smetrics1.experian.com
+.extend.tv
 .extreme-ip-lookup.com
 .beacons.extremereach.io
 .beacons2.extremereach.io
@@ -1966,6 +1969,8 @@
 .sdk.follow-apps.com
 .sor-sdk.follow-apps.com
 .king-contenido-prod.secure2.footprint.net
+.fuse.forbes.com
+.geolocation.forbes.com
 .analytics.foresee.com
 .bd-nplb01.foresee.com
 .bd-nplb02.foresee.com
@@ -2204,6 +2209,7 @@
 .vars.hotjar.com
 .vc.hotjar.io
 .howdoesin.net
+.hrzn-nxt.com
 .hs-analytics.net
 .analytics.htmedia.in
 .api.huqindustries.co.uk
@@ -2253,6 +2259,8 @@
 .game.idoing3d.com
 .server.idreams.pl
 .d.ifengimg.com
+.adlog.ifood.tv
+.log.ifood.tv
 .igaworks.com
 .dedao.igetget.com
 .entree.igetget.com
@@ -2327,6 +2335,7 @@
 .secure-us.imrworldwide.com
 .static.imrworldwide.com
 .uaid-linkage.imrworldwide.com
+.imtwjwoasak.com
 .imwx.com
 .trk.in25app.com
 .ads.indeed.com
@@ -2463,7 +2472,7 @@
 .sin2.ipromote.com
 .api.ipstack.com
 .iqzone.com
-.ovp.iris.tv
+.iris.tv
 .iam-agof-app.irquest.com
 .irr.ru
 .irs01.com
@@ -2482,7 +2491,7 @@
 .tnc16-alisg.isnssdk.com
 .tnc16-useast1a.isnssdk.com
 .banners.isoftmarketing.com
-.pt.ispot.tv
+.ispot.tv
 .api.iterable.com
 .assets.iterable.com
 .static.iterable.com
@@ -2703,6 +2712,9 @@
 .njinmobirtb.lfstmedia.com
 .scadxrtb.lfstmedia.com
 .tracking.lg.com
+.us.ibs.lgappstv.com
+.us.lgtvsdp.com
+.us.rdx2.lgtvsdp.com
 .b-code.liadm.com
 .snap.licdn.com
 .licensebuttons.net
@@ -2758,6 +2770,7 @@
 .parameter.lionmobi.com
 .updater.lionmobi.com
 .tracking.listhub.net
+.litix.io
 .player.stats.live-video.net
 .lptag.liveperson.net
 .server.iad.liveperson.net
@@ -2823,6 +2836,7 @@
 .c.lytics.io
 .m1-shop.ru
 .ingest.m2appmonitor.com
+.macromill.com
 .metrics.macys.net
 .madadsmedia.com
 .api.madkudu.com
@@ -3365,6 +3379,7 @@
 .app.networkad.net
 .networld.hk
 .wpm.neustar.biz
+.newrelic.com
 .us.tags.newscgp.com
 .nex8.net
 .nexac.com
@@ -3829,6 +3844,7 @@
 .proximitykit.radiusnetworks.com
 .beacon.rallydev.com
 .client.rave-api.com
+.ravm.tv
 .sdk-h5-cdn.rayjoy.com
 .rayjump.com
 .assets.rbl.ms
@@ -3837,6 +3853,7 @@
 .cdn.rebel.ai
 .recreativ.ru
 .events.redditmedia.com
+.redfast.com
 .redintelligence.net
 .go.redirectingat.com
 .api.redshell.io
@@ -3893,6 +3910,9 @@
 .ads.roblox.com
 .metrics.roblox.com
 .analytics.rogersmedia.com
+.austin.logs.roku.com
+.p.ads.roku.com
+.scribe.logs.roku.com
 .roosterfirework.com
 .rotaban.ru
 .ads-cloud.rovio.com
@@ -4021,6 +4041,7 @@
 .server.seadform.net
 .track.seadform.net
 .analytics.seattleclouds.com
+.secondstreetapp.com
 .agoda.securedtouch.com
 .hub.securedtouch.com
 .static.securedtouch.com
@@ -4035,6 +4056,7 @@
 .whitelabel-apricot.xid.segment.com
 .api.segment.io
 .cdn.segment.io
+.segmentapis.com
 .cdn.segmentify.com
 .dce1.segmentify.com
 .dcetr4.segmentify.com
@@ -4273,25 +4295,8 @@
 .spotscenered.info
 .aka.spotxcdn.com
 .cdn.spotxcdn.com
-.den01-event.spotxchange.com
-.den01-search.spotxchange.com
-.event.spotxchange.com
-.iad02-event.spotxchange.com
-.iad02-search.spotxchange.com
-.search.spotxchange.com
-.sin01-event.spotxchange.com
-.sin01-search.spotxchange.com
-.bc-ssb-iad.springserve.com
-.cdn.springserve.com
-.datplus.springserve.com
-.morgdog.springserve.com
-.sps.springserve.com
-.sync.springserve.com
-.vid-io-iad.springserve.com
-.vid-io-sin.springserve.com
-.vid-io.springserve.com
-.vid.springserve.com
-.vpaid.springserve.com
+.spotxchange.com
+.springserve.com
 .sprout-ad.com
 .cf.ssacdn.com
 .cx.ssacdn.com
@@ -4352,6 +4357,7 @@
 .supersonicads.com
 .ads.supplyframe.com
 .search.supplyframe.com
+.survata.com
 .api.survicate.com
 .survey.survicate.com
 .telemetry.api.swiftkey.com
@@ -4541,6 +4547,7 @@
 .ads.themoneytizer.com
 .theoremreach.com
 .analytics-tracker.thescore.com
+.thetimmedia.site
 .thetrafficstat.net
 .mopub-server.thinknearhub.com
 .openx-server.thinknearhub.com
@@ -4548,6 +4555,7 @@
 .smaato-server.thinknearhub.com
 .thinknear-hosted.thinknearhub.com
 .thrtle.com
+.tidaltv.com
 .registration.tiltingpoint.io
 .utctime.tiltingpoint.io
 .tia.timeinc.net
@@ -4617,6 +4625,8 @@
 .ads-router-noneu.truecaller.com
 .ads5-noneu.truecaller.com
 .pushid-noneu.truecaller.com
+.truex.com
+.truoptik.com
 .choices.truste.com
 .sofia.trustx.org
 .cdn.tsyndicate.com
@@ -4644,15 +4654,7 @@
 .yun.tuitiger.com
 .ma.tune.com
 .marketing.tunity.com
-.ad.turn.com
-.cdns.turn.com
-.d-sjc2.turn.com
-.img.turn.com
-.presentation-ams1.turn.com
-.presentation-hkg1.turn.com
-.presentation-sjc2.turn.com
-.r.turn.com
-.sd.turn.com
+.turn.com
 .api.tusdk.com
 .m.tusdk.com
 .srv2.tusdk.com
@@ -4832,10 +4834,8 @@
 .static.vidazoo.com
 .wserver.vidazoo.com
 .ads.videoadex.com
-.ads-secure.videohub.tv
-.adserver.videohub.tv
-.l0-secure.videohub.tv
-.nginx13.iad1.videohub.tv
+.videoamp.com
+.videohub.tv
 .sdkcdn.videojj.com
 .kinja-com.videoplayerhub.com
 .pmc-com.videoplayerhub.com
@@ -5132,6 +5132,7 @@
 .yomedia.vn
 .rg.yottos.com
 .sdk.youappi.com
+.youborafds01.com
 .infinity-c4.youboranqs01.com
 .dsp.youdao.com
 .youmi.net
