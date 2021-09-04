@@ -1,5 +1,6 @@
 .ext-stat.ru
 .mystatext.ru
+.embeds.fanmatics.com
 .btn.createsend*.com
 .joinsubtext.com
 .activehosted.com
@@ -191,6 +192,7 @@
 .karuna4u.com
 .pushofferpro.com
 .leechiza.net
+.cr-eam.com
 .push.anews.one
 .api.infinario.com
 .mucizewus.com
