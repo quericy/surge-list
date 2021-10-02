@@ -2,6 +2,7 @@
 .mystatext.ru
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.fadewaves.com
 .breakableinsurance.com
 .cratecamera.com
 .awesomeagreement.com
@@ -224,7 +225,6 @@
 .check-now.online
 .chgilks.com
 .click-to-win-prize.com
-.coderformylife.info
 .distributiontomatoes.com
 .easyinformer.com
 .erihj.com
