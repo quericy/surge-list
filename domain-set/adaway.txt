@@ -2226,7 +2226,6 @@
 .iclickyou.com
 .ads.icloseli.com
 .api.icloseli.com
-.esd.icloseli.com
 .relaycn.icloseli.com
 .metrics.icloud.com
 .id1.cn
@@ -2695,7 +2694,6 @@
 .rp.liadm.com
 .rp4.liadm.com
 .snap.licdn.com
-.licensebuttons.net
 .adexp.liftoff.io
 .build-cdn.liftoff.io
 .cdn.liftoff.io
@@ -3418,7 +3416,6 @@
 .api.oneaudience.com
 .static.onecms.io
 .validate.onecount.net
-.image.mail.onedrive.com
 .tracking.onefeed.co.uk
 .onelink.me
 .onelnk.com
