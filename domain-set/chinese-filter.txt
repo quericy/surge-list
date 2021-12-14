@@ -217,7 +217,6 @@
 .adblock.sina.cn
 .juejdkio.com
 .symaa.cn
-.lm342.com
 .00-gov.cn
 .000123456789.site
 .0024aaaa.com
@@ -1560,6 +1559,7 @@
 .lm.35.com
 .lm245.com
 .lm335.com
+.lm342.com
 .lm343.com
 .lm465.com
 .lm663.com
@@ -2249,6 +2249,7 @@
 .wofan.net
 .wojiabaoye.com
 .wootwood.com
+.wotufeiye.com
 .wowips.com
 .wowostar.cn
 .wqzyt.net
@@ -3776,15 +3777,6 @@
 .ggtg8.com
 .runkao.net
 .stunninglover.com
-.mryang.cloud
-.xamap.club
-.whsia.cn
-.ilgze.cn
-.t5wm.cc
-.muyijia.shop
-.zhouyi.cool
-.bianpin.pw
-.jktshare.icu
 .000123456789.online
 .000123456789.space
 .01tn.cn
@@ -4058,6 +4050,7 @@
 .aiyalife365.cn
 .aiyun.club
 .aiyyu.com
+.ajiekeji.club
 .ajiez.com
 .akozxay.cn
 .alibdm.xyz
@@ -4065,6 +4058,7 @@
 .alicpd.top
 .aligiao.info
 .alilaspa.cn
+.alimama.link
 .aliweimeng.top
 .aliyoo999.com
 .aliyune.xyz
@@ -4142,6 +4136,7 @@
 .ayazsth.cn
 .ayun.ltd
 .b00.xyz
+.b04.xyz
 .b0432.cn
 .b2b5.net
 .b2xy4m.xyz
@@ -4160,6 +4155,7 @@
 .baijiangyurong.top
 .bailequan.net.cn
 .bailinghealth.cn
+.baimb.com
 .baimbw.cn
 .bairentou.com.cn
 .baisb.com
@@ -4175,6 +4171,7 @@
 .bamcsfm.com
 .banfk.com
 .banfs.com
+.banfw.com
 .banfz.com
 .banfzw.cn
 .bang8.org.cn
@@ -4250,6 +4247,7 @@
 .bhxqyeyy.cn
 .bhyddc.com
 .bian123.icu
+.bianpin.pw
 .bianxianwu.com
 .bigcooa.xyz
 .bigcoob.xyz
@@ -4598,6 +4596,7 @@
 .dlyukun.cn
 .dlzxjk.cn
 .dmpsj.cn
+.dmsyinm.cn
 .dnfkong.com
 .dnjszp.cn
 .dodolive.cn
@@ -4759,8 +4758,10 @@
 .iehtzdq.cn
 .ifc-edu.cn
 .ih740.cn
+.iiiuuu.top
 .iipbuas.cn
 .il133.cn
+.ilgze.cn
 .ilmwi.cn
 .ilyjmpg.cn
 .imspecial.club
@@ -4786,6 +4787,7 @@
 .jinyihui.vip
 .jiuji.ltd
 .jiujiinc.top
+.jktshare.icu
 .jl1130.com
 .jlbz.club
 .jmdardu.cn
@@ -4875,7 +4877,9 @@
 .mphbvtw.cn
 .mprgbyn.cn
 .mpzls.cn
+.mryang.cloud
 .msiqhvl.cn
+.muyijia.shop
 .mxxgs.cn
 .myyuye.club
 .n258.cc
@@ -4935,6 +4939,7 @@
 .propsad.com
 .ptujvmq.cn
 .puuuwqk.cn
+.puwxbcb.cn
 .pvxymnz.cn
 .pwfhjjh.cn
 .pxjafjc.cn
@@ -5012,6 +5017,7 @@
 .sxzx.live
 .syxwj.cn
 .szmjskjx.com
+.t5wm.cc
 .tangxue.me
 .taoyouhuiquan.top
 .tba4.cn
@@ -5061,6 +5067,7 @@
 .vluvpdf.cn
 .vnet.ink
 .vnlaqu.site
+.vrtrdvx.cn
 .vsznvtt.cn
 .vtlddz.cn
 .vytxocb.cn
@@ -5077,6 +5084,7 @@
 .wfeiso.top
 .wgqhwcg.cn
 .whhepyd.cn
+.whsia.cn
 .whusihgq.cn
 .whwfcm.cn
 .whyxqoc.cn
@@ -5097,6 +5105,7 @@
 .wxkouem.cn
 .wzytop.top
 .x7rrjgs.cn
+.xamap.club
 .xcgcwfc.cn
 .xcms.shop
 .xdfgrew.cn
@@ -5159,6 +5168,7 @@
 .zhifoujiaoyu.xyz
 .zhonglutang.group
 .zhongte62802.cn
+.zhouyi.cool
 .zhouziwang.cn
 .zhpfl.cn
 .zhuozhongfangshui.cn
