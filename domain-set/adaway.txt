@@ -649,6 +649,8 @@
 .bin5y4muil.execute-api.us-east-1.amazonaws.com
 .data-collect-337392791.ap-northeast-2.elb.amazonaws.com
 .dco-jads-727222375.us-west-2.elb.amazonaws.com
+.huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com
+.huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com
 .insight-1616140656.us-west-2.elb.amazonaws.com
 .log-collectors-73517960.us-east-1.elb.amazonaws.com
 .lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com
@@ -1099,6 +1101,7 @@
 .perf.cdnads.com
 .cdnstoremedia.com
 .cdnwidget.com
+.api.monedata.iomericreceiver.cellrebel.com
 .celltick.com
 .celtra.com
 .js.center.io
@@ -1854,8 +1857,6 @@
 .static.googleadsserving.cn
 .crashlyticsreports-pa.googleapis.com
 .googlesyndication.com
-.googletagmanager.com
-.www.googletagservices.com
 .displayads-formats.googleusercontent.com
 .gop1.co
 .gotoip55.com
@@ -1947,6 +1948,7 @@
 .t2.hulu.com
 .segment-api.humann.com
 .segment.humann.com
+.huq.io
 .api.huqindustries.co.uk
 .charles.huqindustries.co.uk
 .crosspromo.hutchgames.io
@@ -2682,6 +2684,7 @@
 .karma.mdpcdn.com
 .track.mdrctr.com
 .measuread.com
+.mobile.measurelib.com
 .measurementapi.com
 .abd.media.net
 .adservetx.media.net
@@ -3074,6 +3077,7 @@
 .cloud.ogury.io
 .consent-manager-events.ogury.io
 .dsp-1.ogury.io
+.sdk-monitoring.ogury.io
 .wad.ojooo.com
 .api2.okanjo.com
 .cdn.okanjo.com
@@ -4161,6 +4165,7 @@
 .metrics.ted.com
 .api.videometrics.ted.com
 .sstats.teenvogue.com
+.nav.telematicsdirect.com
 .beacon.sparta.mig.tencent-cloud.net
 .tend.io
 .track.tenjin.com
