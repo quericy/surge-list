@@ -3372,6 +3372,7 @@
 .visilabs.com
 .visilabs.net
 .functionalclam.com
+.superficialeyes.com
 .hollowafterthought.com
 .rabbitbreath.com
 .friendwool.com
@@ -4413,6 +4414,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.tracker.tubecj.com
 .log2.radiko.jp
 .log.radiko.jp
 .tl.tradetracker.net
