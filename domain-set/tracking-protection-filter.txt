@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.logevt.pubfinity.com
+.stat.tiara.kakao.com
 .ast.red.asp.appirits.com
 .pagesense.io
 .livetracker.*.pangea-cms.com
@@ -3375,6 +3377,8 @@
 .visilabs.com
 .visilabs.net
 .functionalclam.com
+.annoyedairport.com
+.auspiciousyard.com
 .superficialeyes.com
 .hollowafterthought.com
 .rabbitbreath.com
@@ -4418,6 +4422,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.events*.cre.ma
 .anon-stats.eff.org
 .improving.wuzhuiso.com
 .analytics.tebilisim.com
