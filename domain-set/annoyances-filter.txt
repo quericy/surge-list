@@ -2,6 +2,7 @@
 .mystatext.ru
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.sordidsmile.com
 .auspiciousyard.com
 .superficialeyes.com
 .hollowafterthought.com
@@ -557,6 +558,7 @@
 .kursatarak.com
 .cdn.instadrama.site
 .pushcodetop.ru
+.p.dengage.com
 .push.delivery.ethinking.de
 .pp.teksty-pesenok.ru
 .gu7socdn.txxx.com

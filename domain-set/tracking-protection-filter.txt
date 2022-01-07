@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.event.dengage.com
+.rum.uptime.com
+.sortext.com
 .websdk.appsflyer.com
 .sr.studiostack.com
 .experianmatch.info
@@ -99,7 +102,6 @@
 .eye.rd.services
 .analytics.appsbnet.com.br
 .logging.prefixbox.com
-.ads-website.ytsservice.com
 .carts.guru
 .analytics.pgncs.notion.so
 .seoab.io
@@ -3382,6 +3384,7 @@
 .visilabs.com
 .visilabs.net
 .functionalclam.com
+.sordidsmile.com
 .annoyedairport.com
 .auspiciousyard.com
 .superficialeyes.com
@@ -10048,6 +10051,7 @@
 .nfl.hb-api.omtrdc.net
 .nfl.hb.omtrdc.net
 .nhkonline.hb.omtrdc.net
+.nmetrics.samsung.com
 .nom.lds.org
 .novartispharma.hb.omtrdc.net
 .nsc.metrics-shell.com
@@ -17532,7 +17536,6 @@
 .mm.welt.de
 .montblanc.lenta.ru
 .montblanc.rambler.ru
-.nmetrics.samsung.com
 .pclick.yahoo.com
 .pixel.redditmedia.com
 .prophet.heise.de
