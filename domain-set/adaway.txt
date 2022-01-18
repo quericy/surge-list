@@ -3098,7 +3098,6 @@
 .onetag-sys.com
 .geolocation.onetrust.com
 .privacyportal-de.onetrust.com
-.privacyportal.onetrust.com
 .online-metrix.net
 .impl.onscroll.com
 .onetag-geo.onscroll.com
