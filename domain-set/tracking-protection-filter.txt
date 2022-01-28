@@ -3404,6 +3404,7 @@
 .visilabs.com
 .visilabs.net
 .functionalclam.com
+.shrillspoon.com
 .fearlessfaucet.com
 .nondescriptnote.com
 .tiresomethunder.com
@@ -20981,6 +20982,7 @@
 .analytics-sprint.qoqa.com
 .analytics.qoqa.ch
 .analytics.qoqa.com
+.appsflyer-report.honkaiimpact3.com
 .af-event-logger.appsflyer.com
 .inapps.appsflyer.com
 .gcdsdk.appsflyer.com
@@ -21015,6 +21017,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.misc.api.snaptube.app
 .dig.bdurl.net
 .trusted-collector-bk.tmocce.com
 .collect.babybus.com

@@ -2,6 +2,7 @@
 .mystatext.ru
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.shrillspoon.com
 .fearlessfaucet.com
 .nondescriptnote.com
 .tiresomethunder.com
@@ -154,6 +155,7 @@
 .br.app.link
 .delivery.satr.jp
 .server.connecto.io
+.api.sorunapp.com
 .widget.pico.tools
 .popupmaker.com
 .popcard.unibuddy.co
@@ -581,6 +583,8 @@
 .banner.consultant.ru
 .illicium.wmtransfer.com
 .illicium.web.money
+.loader.wisepops.com
+.js.emailable.com
 .inyourarea.co.uk
 .embeds.fanmatics.com
 .btn.createsend*.com
