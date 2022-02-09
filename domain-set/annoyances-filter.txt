@@ -3,6 +3,7 @@
 .mystatext.ru
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.bedsberry.com
 .shrillspoon.com
 .fearlessfaucet.com
 .nondescriptnote.com
@@ -86,6 +87,7 @@
 .puffypull.com
 .copperchickens.com
 .ttauri.toptenreviews.com
+.ccm.takuma.de
 .gdpr-legal-cookie.beeclever.app
 .ecookie.nl
 .cdn.userdatatrust.com
@@ -216,6 +218,7 @@
 .karuna4u.com
 .pushofferpro.com
 .leechiza.net
+.mediaboom.site
 .lecaleros.com
 .guideforwindows.top
 .bezrukov.fun
