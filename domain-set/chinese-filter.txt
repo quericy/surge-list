@@ -2134,6 +2134,7 @@
 .szfhl99.com
 .szggdw.com
 .szjianxin.net
+.szmsao.com
 .szpl0.com
 .szshss.com
 .sztbjs.com
@@ -4732,6 +4733,7 @@
 .chinazhaoye.com
 .chkwwg.cn
 .chmc.xyz
+.chnt.wang
 .chongnikeji.com
 .chongyuelighting.cn
 .choujimai.top
@@ -4957,6 +4959,7 @@
 .dnajc.co
 .dnfkong.com
 .dnjszp.cn
+.dnk56q7h.cn
 .dnsri.com
 .dnupzdn.cn
 .dodolive.cn
@@ -5192,6 +5195,7 @@
 .fuxin-tech.com
 .fuyangno1.top
 .fuzhang.xyz
+.fuzhuyuan1688.xyz
 .fvhbful.cn
 .fw.zhuaji.org
 .fwnetrb.cn
@@ -5213,6 +5217,7 @@
 .fzjarow.cn
 .fztattoo.cn
 .fzvve.cn
+.g081fme.cn
 .g1kb9u.xyz
 .g1mm3d.cn
 .g3ao2q.cn
@@ -5745,6 +5750,7 @@
 .jhwt.shop
 .jia-huan.cn
 .jiachangwuliu.cn
+.jiadunkeji.com
 .jiage.ink
 .jiahewine.cn
 .jiajiann.cn
@@ -6523,6 +6529,7 @@
 .opapxq.com
 .opbtc.cn
 .opengam.com
+.opiwb.com
 .opoew.top
 .oppaid.com
 .opyyy.com
@@ -6696,6 +6703,7 @@
 .qivuu.cn
 .qiyebaopin.cn
 .qiyix.cn
+.qiyu.shop
 .qizixsw.com
 .qjxszp.cn
 .qkptx.com
@@ -6939,6 +6947,7 @@
 .shsdw.cn
 .shsnjj.top
 .shua66.vip
+.shuai.love
 .shuaiqiwudixiaoliangzaidddd.icu
 .shuazili.wang
 .shufan.club
@@ -7351,6 +7360,7 @@
 .vjptye.cn
 .vkuay.com
 .vl665.cn
+.vlbvgtj.cn
 .vluvpdf.cn
 .vnet.ink
 .vngmbyij.cn
@@ -7639,6 +7649,7 @@
 .xingsky.cn
 .xingtu.ltd
 .xingxingdd.com
+.xingyou25.xyz
 .xingyou46.icu
 .xingzhu.top
 .xinheshengmce.com
@@ -8151,6 +8162,7 @@
 .zzgyly.cn
 .zzhszj.com
 .zzkbsm.cn
+.zzkj.biz
 .zzmmkj.com
 .zzqqhb.com
 .zzqsmjj.top
