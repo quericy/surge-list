@@ -220,6 +220,7 @@
 .karuna4u.com
 .pushofferpro.com
 .leechiza.net
+.jagevirom.com
 .mediaboom.site
 .varroterius.com
 .yisogarom.com
@@ -623,6 +624,7 @@
 .plista.com
 .booster.webtradecenter.com
 .widgets.digitalmediacommunications.com
+.widget.happyfoxchat.com
 .cdn.freshbots.ai
 .app.chatplus.jp
 .chatterpal.me
