@@ -986,6 +986,7 @@
 .dianwenwang.com
 .dianxin.com
 .dibaiweiai.com
+.dikematou.com
 .dilidd.com
 .displink.com
 .diuling.com
@@ -4118,6 +4119,7 @@
 .51foodsafe.cn
 .51gpt.com
 .51lx.ink
+.51niu.pro
 .51showmy.com
 .51teach.club
 .51vs.club
@@ -5094,6 +5096,7 @@
 .elvfdnj.cn
 .elvx.top
 .emgwq.com
+.emotionally.wang
 .engpeng.cn
 .enidie.cn
 .enihongo.cn
@@ -5201,6 +5204,7 @@
 .fll007.com
 .flmcju.cn
 .flydog.club
+.flyleaf.biz
 .flyly.cc
 .fmketang.cn
 .fnbocll.cn
@@ -5580,6 +5584,7 @@
 .hnwjlhg.cn
 .hnxahz.com
 .hnxinkejg.com
+.hnycwh.cn
 .hnyczs.club
 .hnylb8.cn
 .hnyoufan.com
@@ -6077,6 +6082,7 @@
 .ks67.com
 .ksdr.xyz
 .ksvftk.cn
+.ksxb.ltd
 .kszhmzp.cn
 .ktzte.cn
 .kuaidibiaoju.com
@@ -6498,6 +6504,7 @@
 .ndusa.cn
 .nernv.com
 .netfix8.info
+.netshare.ltd
 .neudata.cloud
 .newknowledge.cn
 .ngceq.cn
@@ -7423,9 +7430,11 @@
 .uaxyutpxh.xyz
 .ubt573.org
 .ububyiw6655.xyz
+.ubxqerc.cn
 .uc4a.cn
 .ucaii.com
 .ugmvoys.cn
+.uguhpfo.cn
 .uidndas.cn
 .uissm.com
 .ujiasm.com
@@ -7481,6 +7490,7 @@
 .vicustom.cn
 .vik.cx
 .vinuxhome.com
+.violates.wang
 .viphdk.xyz
 .vivi87.cn
 .vjptye.cn
@@ -8241,6 +8251,7 @@
 .zncat.cn
 .zongjiangc.top
 .zongjiangd.top
+.zonmxej.cn
 .zougg.com
 .zoujuhonglawyer.com
 .zouxinyan.xyz
