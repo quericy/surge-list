@@ -219,7 +219,6 @@
 .adblock.sina.cn
 .juejdkio.com
 .symaa.cn
-.phagueq.cn
 .00-gov.cn
 .000123456789.site
 .0024aaaa.com
@@ -1129,6 +1128,7 @@
 .fxmacd.com
 .fxxgw.com
 .fxyjmp.top
+.fydckl.com
 .fzbymy.com
 .fzdeng.com
 .fzglqyy.com
@@ -1879,6 +1879,7 @@
 .penghy.top
 .penxiangge.com
 .pg88cdn.com
+.phagueq.cn
 .pi9lxn.cn
 .pianjjiicdn.com
 .piclick.cn
@@ -3511,6 +3512,7 @@
 .dm.sg92.com
 .dm.taobaojuhuasuan.cn
 .dm.wenshenxiu.com
+.dm.zjut.cc
 .dm.zuowenku.net
 .dm1.ddwk8.cn
 .dm1.guanwawa.com
@@ -3993,10 +3995,6 @@
 .shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 .wxtp.cdn.bcebos.com
 .wzjs1.oss-accelerate.aliyuncs.com
-.concocting.wang
-.nokiadatabooklet.ltd
-.hryidhf.ltd
-.unconditionally.wang
 .000123456789.online
 .000123456789.space
 .01tn.cn
@@ -4768,6 +4766,7 @@
 .chengjunjie.top
 .chengzilte.top
 .chenjie.site
+.chenliang.link
 .chenmujiang.com.cn
 .chenqi.vip
 .chenqinghui.xyz
@@ -4848,6 +4847,7 @@
 .comberry.cn
 .comekang.xyz
 .concd.cn
+.concocting.wang
 .continuedsys.cn
 .continuefaf.top
 .cooltool.cc
@@ -4974,6 +4974,7 @@
 .deyidesign.com
 .dfggb.cc
 .dfjbgfldsjdsnldksjalld1235.cn
+.dfokydq.cn
 .dfseafood.com
 .dfydnyk.cn
 .dgaoz.com
@@ -5182,6 +5183,7 @@
 .feimotailan.cn
 .feipaihehuoren.cn
 .feizailin.com
+.fengmian.xyz
 .fengmishop.cn
 .fengousm.com
 .fengspw.xyz
@@ -5474,6 +5476,7 @@
 .haohuisheng555.cn
 .haoinn.top
 .haojun.info
+.haojun.shop
 .haomaiweb.com
 .haomaojin.com
 .haosdhc.cn
@@ -5631,6 +5634,7 @@
 .hriycvg.cn
 .hrjskj.top
 .hrrrzwz.cn
+.hryidhf.ltd
 .hsbkr.com
 .hsdianqi.vip
 .hswenwan.cn
@@ -6159,6 +6163,7 @@
 .leejongsuk.top
 .leelovelwj.com
 .lega.store
+.legitimate.wang
 .legozu.com
 .leixigroup.com
 .lejia.biz
@@ -6413,6 +6418,7 @@
 .mjywk.cn
 .mjzsw.vip
 .mkjunc.cn
+.mkk.red
 .mkoh.top
 .ml44.cn
 .mlgp.xyz
@@ -6572,10 +6578,12 @@
 .nmyp.ltd
 .noblift.mobi
 .nogvlkk.cn
+.nokiadatabooklet.ltd
 .none-test.com
 .nongfumg.com
 .nongjingly.com
 .nongzhifu.cn
+.nopph.website
 .northbase.club
 .nosensor.cn
 .notepade.top
@@ -7229,6 +7237,7 @@
 .symag.cn
 .symrkwcn76.cn
 .sysal.cn
+.sysjazi.cn
 .sytsr.com
 .syxchj.cn
 .syxwj.cn
@@ -7466,6 +7475,7 @@
 .umis.top
 .umm6.cn
 .umvspj.cn
+.unconditionally.wang
 .unetall.com
 .unfzclg.cn
 .uni-king.cn
@@ -7648,6 +7658,7 @@
 .wkjava.top
 .wknhovh.cn
 .wknniyu.cn
+.wknydhz.cn
 .wksrx.cn
 .wl963.com
 .wlaoc.cn
@@ -7819,6 +7830,7 @@
 .xingyou25.xyz
 .xingyou46.icu
 .xingyou64.xyz
+.xingyou65.xyz
 .xingzhu.top
 .xinheshengmce.com
 .xinhuayin.biz
@@ -8131,6 +8143,7 @@
 .zbzbzzz.top
 .zc710956.top
 .zcand.com
+.zcao.vip
 .zcfhi.cn.com
 .zchange.xyz
 .zcmnffq.cn
