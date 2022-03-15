@@ -1465,7 +1465,6 @@
 .spotxcdn.com.edgekey.net
 .stickyadstv.com.edgekey.net
 .teads.tv.edgekey.net
-.typekit.net-v3.edgekey.net
 .vungle.com.edgekey.net
 .yieldlab.net.edgekey.net
 .analytics.libertymutual.com.edgekey.net
@@ -4013,7 +4012,6 @@
 .ads.twitter.com
 .analytics.twitter.com
 .de.tynt.com
-.p.typekit.net
 .lightstep-collector.api.ua.com
 .uberads.com
 .local-analytics.uberinternal.com
