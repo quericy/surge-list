@@ -2837,6 +2837,7 @@
 .ccpa.psg.nexstardigital.net
 .segment.psg.nexstardigital.net
 .nextclick.pl
+.uk-tracking.nextdoor.com
 .us-tracking.nextdoor.com
 .ads.nicovideo.jp
 .apps.nielsen.com
