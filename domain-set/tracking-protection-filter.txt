@@ -9,6 +9,7 @@
 .arvb.ewtcbedtmx.ru
 .trc.caravas.jp
 .track.adspire.io
+.ucs.betwaygroup.com
 .cdn.ddmanager.ru
 .api.tomi.ai
 .dttrk.com
@@ -4526,6 +4527,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.omapi.fangraphs.com
 .sp.minds.com
 .event-action.popinfo.jp
 .log-stats.weathercn.com
