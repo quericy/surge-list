@@ -1056,6 +1056,7 @@
 .ssp-events.chartboost.com
 .t.chartboost.com
 .t2.chartboost.com
+.v-ak.chartboost.com
 .v2.chartboost.com
 .www.chartboost.com
 .chartboosts.com
@@ -1917,6 +1918,7 @@
 .image.influenster.com
 .images.informatm.com
 .studcat.infra.systems
+.inhousedsp.com
 .adapi.inlcorp.com
 .sdk-analytics.inlocomedia.com
 .sdk.inlocomedia.com
@@ -1939,7 +1941,9 @@
 .ssp-prod-telemerty-eastus-appgwv2.inmobi.com
 .trafficmanager.inmobi.com
 .w.inmobi.com
+.s.iff.inmobi.com
 .vastproxy.brand.inmobi.com
+.dspbeacons.error.ihasdsp.inmobi.com
 .imces.dfw1.vip.inmobi.com
 .inmobicdn.net
 .inner-active.mobi
@@ -2890,8 +2894,6 @@
 .apicosdk.onemt.co
 .apicssdk.onemt.co
 .click.oneplus.com
-.api.onesignal.com
-.cdn.onesignal.com
 .onetag-sys.com
 .geolocation.onetrust.com
 .online-metrix.net
