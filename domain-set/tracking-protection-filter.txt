@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.1ee085aa-4c05-43a8-a4fe-fafedbedd062.xyz
 .track.swaptrap.live
 .triplewhale-pixel.web.app
 .tracking.hyros.com
@@ -4538,6 +4539,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.wlog.tmon.co.kr
 .analytics.tver.jp
 .tracking.komoot.de
 .telemetry.battle.net
