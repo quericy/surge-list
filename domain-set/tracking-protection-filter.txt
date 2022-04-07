@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.cdn.reproio.com
 .init.blackcrow.ai
 .taplytics.com
 .event-stream.spot.im
@@ -4542,6 +4543,7 @@
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
 .ts.delfi.lt
+.tracking.gvm.com.tw
 .metrics.beyondwords.io
 .launcher.spot.im
 .api.data.ciceksepeti.com

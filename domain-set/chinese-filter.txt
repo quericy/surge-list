@@ -3039,6 +3039,7 @@
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
+.kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 .3336672.com
 .3337729.com
 .3337751.com
@@ -3928,6 +3929,10 @@
 .1095.mobi
 .zyyz.pro
 .yigesi.top
+.myro.shop
+.chudongcaiwu.xyz
+.yangtianc.xyz
+.wufeilong.top
 .000123456789.online
 .000123456789.space
 .01tn.cn
