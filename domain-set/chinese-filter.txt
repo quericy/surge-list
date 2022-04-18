@@ -715,6 +715,7 @@
 .auspiciousvp.com
 .autotrading.com.cn
 .av8d.net
+.avased6.com
 .avtiaozhuan.com
 .aw21.top
 .awifi.cn
@@ -840,6 +841,7 @@
 .cdnjsp.wang
 .cdyqc.com
 .ceciliabeverly.com
+.celestebeverly.com
 .ceo8000.net
 .cfboo.com
 .cferw.com
@@ -1806,6 +1808,7 @@
 .notice.uchome.manyou.com
 .npftmqv.cn
 .nr1234.com
+.nrxduw5.com
 .nszmz.com
 .nterbx.com
 .ntzfly.cn
@@ -1992,6 +1995,7 @@
 .sanmiyangguang.com
 .sanxiucaiwu.top
 .sawadeca.com
+.sb6688.xyz
 .sbrqp.com
 .scenepass.com
 .scfatao.com
@@ -2217,6 +2221,7 @@
 .tuia.cn
 .tuifish.com
 .tukeai.com
+.tukkpixabay.com
 .tumeite.cn
 .tunihta.top
 .tunihua.top
@@ -2242,6 +2247,7 @@
 .tylll.com
 .tz-dsp.com
 .tz88.store
+.tzxmhi.com
 .u.801t.com
 .u.huoying666.com
 .u1n6ok.cn
@@ -3947,7 +3953,6 @@
 .shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 .wxtp.cdn.bcebos.com
 .wzjs1.oss-accelerate.aliyuncs.com
-.cjy200107152004.ltd
 .000123456789.online
 .000123456789.space
 .01tn.cn
@@ -4716,6 +4721,7 @@
 .cjde.xyz
 .cjhbkj.cn
 .cjhd.site
+.cjy200107152004.ltd
 .ckaiv.com
 .claiks.com
 .classicgir.cn
@@ -4945,6 +4951,7 @@
 .dqruhue.cn
 .drawenjoy.cn
 .dreamrecord.cn
+.dreamsky.xin
 .dreamware.com.cn
 .dryraw.vip
 .dscloud.ltd
@@ -4957,6 +4964,7 @@
 .dtpqhwk.cn
 .dtzysm.com
 .du9zgx.cn
+.duansiwei.top
 .duanyu1106.cn
 .duier.top
 .duilin.me

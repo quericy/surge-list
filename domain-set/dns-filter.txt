@@ -1,3 +1,5 @@
+.lockdowncautionmentally.com
+.ytcsugxsud.com
 .xqprjjcgk.com
 .drufhfueg.xyz
 .yotwok.xyz
@@ -5328,6 +5330,7 @@
 .awmserve.com
 .awnxcexsy.xyz
 .awokedoubtless.com
+.awpcrpu.com
 .awprt.com
 .awptjmp.com
 .aws-ajax.com
@@ -22165,6 +22168,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.ac.prism-world.jp.net
+.analytics.liveact.cri-mw.jp
+.sdtagging.azureedge.net
+.sd-tagging.azurefd.net
 .metrics.pico.tools
 .lndata.com
 .quietyellowday.com
@@ -29613,7 +29620,6 @@
 .actirinius.com
 .aimtell.com
 .alertme.news
-.altmetric.com
 .aswpsdkeu.com
 .aswpsdkus.com
 .bildirt.com
@@ -29626,7 +29632,6 @@
 .cracataum.com
 .danorenius.com
 .dengage.com
-.dimensions.ai
 .feedify.net
 .feraciumus.com
 .fernomius.com
@@ -30921,6 +30926,7 @@
 .redretarget.com
 .reshin.de
 .scw.systems
+.sitealyse.de
 .stats.de
 .stetic.com
 .toplist100.org
@@ -31444,7 +31450,6 @@
 .tracy.sadv.dadapro.com
 .vppst.iltrovatore.it
 .ad-beacon-v01.uliza.jp
-.analytics.liveact.cri-mw.jp
 .analyzer51.fc2.com
 .bvr.snva.jp
 .cookie.sync.usonar.jp
@@ -31543,6 +31548,7 @@
 .hits.eluniversal.com.mx
 .mtm.qdqmedia.com
 .pixel.zumby.io
+.stats.administrarweb.es
 .stats.bitban.com
 .stats.qdq.com
 .stats.sec.telefonica.com
@@ -36286,6 +36292,7 @@
 .adimp.excite.co.jp
 .adimpkwd.excite.co.jp
 .adingo.jp.eimg.jp
+.trigs-sockets.com
 .af.tosho-trading.co.jp
 .ad-web-ad.com
 .d1yt8zt4633tzi.cloudfront.net
@@ -38799,6 +38806,7 @@
 .auogiv.cn
 .auspiciousvp.com
 .autotrading.com.cn
+.avased6.com
 .avtiaozhuan.com
 .aw21.top
 .ax21pics.org
@@ -38900,6 +38908,7 @@
 .cdnjsp.wang
 .cdyqc.com
 .ceciliabeverly.com
+.celestebeverly.com
 .ceo8000.net
 .cfboo.com
 .cferw.com
@@ -39679,6 +39688,7 @@
 .notice.uchome.manyou.com
 .npftmqv.cn
 .nr1234.com
+.nrxduw5.com
 .nterbx.com
 .ntzfly.cn
 .nuonuo1.icu
@@ -39826,6 +39836,7 @@
 .sankoup.com
 .sanxiucaiwu.top
 .sawadeca.com
+.sb6688.xyz
 .sbrqp.com
 .scenepass.com
 .scfatao.com
@@ -39998,6 +40009,7 @@
 .ttzhongbao.com
 .tuifish.com
 .tukeai.com
+.tukkpixabay.com
 .tumeite.cn
 .tunihta.top
 .tunihua.top
@@ -40019,6 +40031,7 @@
 .tyjnwj.top
 .tylll.com
 .tz88.store
+.tzxmhi.com
 .u.huoying666.com
 .u1n6ok.cn
 .uadsaa.com
@@ -41512,7 +41525,6 @@
 .shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 .wxtp.cdn.bcebos.com
 .wzjs1.oss-accelerate.aliyuncs.com
-.cjy200107152004.ltd
 .000123456789.online
 .000123456789.space
 .01tn.cn
@@ -42273,6 +42285,7 @@
 .cjde.xyz
 .cjhbkj.cn
 .cjhd.site
+.cjy200107152004.ltd
 .ckaiv.com
 .claiks.com
 .classicgir.cn
@@ -42500,6 +42513,7 @@
 .dqruhue.cn
 .drawenjoy.cn
 .dreamrecord.cn
+.dreamsky.xin
 .dreamware.com.cn
 .dryraw.vip
 .dscloud.ltd
@@ -42512,6 +42526,7 @@
 .dtpqhwk.cn
 .dtzysm.com
 .du9zgx.cn
+.duansiwei.top
 .duanyu1106.cn
 .duier.top
 .duilin.me
