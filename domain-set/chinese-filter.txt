@@ -228,6 +228,7 @@
 .000123456789.site
 .0024aaaa.com
 .008844.cc
+.govxinjing.cn
 .00xvppy.cn
 .012.tw
 .01fen.com
@@ -1011,6 +1012,7 @@
 .dqsft.com
 .dragoncent.com
 .dreamfull.cn
+.drebz4f.shop
 .drjgjngf.com
 .drmcmm.baidu.com
 .drmfslx.cn
@@ -3953,6 +3955,8 @@
 .shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 .wxtp.cdn.bcebos.com
 .wzjs1.oss-accelerate.aliyuncs.com
+.baking.ren
+.xtb.ink
 .000123456789.online
 .000123456789.space
 .01tn.cn
@@ -5089,6 +5093,7 @@
 .fdasew.top
 .fdfgf.cc
 .fdoun.com
+.fdxydnu.cn
 .febao.xyz
 .fedsdq.com
 .feelbad.online
@@ -5331,6 +5336,7 @@
 .gxms.vip
 .gycy2.com
 .gyeet.com
+.gykj.xyz
 .gyrenmai.icu
 .gyt168.com.cn
 .gywiqnmn.cn
@@ -5858,6 +5864,7 @@
 .jsr9.com
 .jsshuiyuan.com
 .jsszxx.com
+.jstc.top
 .jstdjq.com
 .jswnuq.cn
 .jsyjwj.com
@@ -6103,6 +6110,7 @@
 .liaotian4.com
 .libentao.club
 .lidongyang.shop
+.liebian888.site
 .lifuguan.cn
 .lihailin.vip
 .lihong.ltd
@@ -6579,6 +6587,7 @@
 .oshrs.cn
 .osqoglv.cn
 .otbsrk.cn
+.ouwmdvd.cn
 .ouxutong.com
 .ovdolnb.cn
 .ovoawh.com
@@ -6954,6 +6963,7 @@
 .sec-cloud.cn
 .secrr.cn
 .seerpiu002.com
+.sehd.shop
 .senmu123.com
 .seobeginners.wiki
 .sf-ifc.cn
@@ -7656,6 +7666,7 @@
 .xavingtsun.com
 .xaxdwz.xyz
 .xazhangshaohui.xyz
+.xbqi.xin
 .xcdzsw.com
 .xcgcwfc.cn
 .xcho.top
@@ -7693,6 +7704,7 @@
 .xiangwangdesh.com
 .xiangyudj.cn
 .xianka.cloud
+.xiantai.xyz
 .xianwei.tech
 .xianweidang.cc
 .xianxhwy.com
