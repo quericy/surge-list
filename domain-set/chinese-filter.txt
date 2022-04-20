@@ -225,10 +225,12 @@
 .juejdkio.com
 .symaa.cn
 .00-gov.cn
+.netdjs.net
+.govlihu.cn
+.xdw9.top
 .000123456789.site
 .0024aaaa.com
 .008844.cc
-.govxinjing.cn
 .00xvppy.cn
 .012.tw
 .01fen.com
@@ -311,6 +313,7 @@
 .222im.com
 .23456dj.com
 .235123.net
+.23532451.com
 .23dsf.top
 .23kmm.com
 .2526game.com
@@ -1187,6 +1190,7 @@
 .govshenzhen.cn
 .govxian.cn
 .govxinjiang.cn
+.govxinjing.cn
 .govyunfu.cn
 .gowin01.com
 .gowinxp.com
@@ -3593,6 +3597,7 @@
 .j1.piaobing.com
 .jb.dianshu119.com
 .jb.ecar168.cn
+.jbdmb1.ynztzh.com
 .jc1.dayfund.cn
 .jc1.dayfund.com.cn
 .jddaw.com
@@ -3676,7 +3681,6 @@
 .materiel.junshidao.com
 .matwbp.iask.sina.com.cn
 .mb.gulongbbs.com
-.mbjb1.girl13.com
 .mc.tvzhe.com
 .mc.weather.com.cn
 .md.tvzhe.com
@@ -3955,8 +3959,8 @@
 .shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 .wxtp.cdn.bcebos.com
 .wzjs1.oss-accelerate.aliyuncs.com
-.baking.ren
-.xtb.ink
+.mals.shop
+.2613.store
 .000123456789.online
 .000123456789.space
 .01tn.cn
@@ -4402,6 +4406,7 @@
 .baizb.com
 .baizbw.cn
 .bakbb.com
+.baking.ren
 .bamcsfm.com
 .banbf.com
 .banbw.com
@@ -4784,6 +4789,7 @@
 .cqxykj.com.cn
 .cqyijiu.cn
 .crazymonkey.top
+.crossed.wang
 .cs12d.com
 .csalsylqx.com
 .cshwhy.cn
@@ -4942,6 +4948,7 @@
 .dodolive.cn
 .dofsg.cn
 .dohnxnn.cn
+.doklam.wang
 .dongdm.cn
 .donghua.asia
 .dongsiping.xyz
@@ -5747,6 +5754,7 @@
 .jeuuhu.cn
 .jfgcxj.com
 .jfsldq.top
+.jg88.wang
 .jgcq3003.com
 .jgrkjp.cn
 .jh3pin.com
@@ -6133,6 +6141,7 @@
 .liufang1994.top
 .liuhemei.com.cn
 .liujiaqi.top
+.liulianshangmao.top
 .liupan.asia
 .liushuaib.xyz
 .liusuqin.fun
@@ -7799,6 +7808,7 @@
 .xsrypte.cn
 .xsspt.vip
 .xszysc.com
+.xtb.ink
 .xubb.xyz
 .xuchangmuying.com
 .xuenengyoujiaoyu.com
