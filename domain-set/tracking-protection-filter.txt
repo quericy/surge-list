@@ -4,6 +4,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytics.test.cheggnet.com
+.03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
+.sitealyse.de
+.simplewebanalysis.com
 .wait.re
 .analytics-script.ad-shield.io
 .tn.flashb.id
@@ -1333,7 +1337,6 @@
 .anametrix.net
 .andersenit.dk
 .andyhoppe.com
-.anexia-it.com
 .angelfishstats.com
 .angsrvr.com
 .announcement.ru
@@ -4567,6 +4570,7 @@
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
 .telemetry.mozilla.org
+.ymprove.gmx.net
 .events.release.narrativ.com
 .delog.afreecatv.com
 .ab.blogs.es
