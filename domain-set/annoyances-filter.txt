@@ -231,6 +231,8 @@
 .karuna4u.com
 .pushofferpro.com
 .leechiza.net
+.news-yakaja.cc
+.news-hefoja.cc
 .yourbestru.site
 .canzocoos.com
 .calculator.codes
@@ -642,6 +644,7 @@
 .api.popin.cc
 .widgets.digitalmediacommunications.com
 .partner-widget.vse-sdal.com
+.easyliao.com
 .perimeterx.widget.insent.ai
 .widget.happyfoxchat.com
 .cdn.freshbots.ai
