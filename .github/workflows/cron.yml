@@ -11,7 +11,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        node-version: [12]
+        node-version: [16]
 
     steps:
       - name: Fetch repository
@@ -46,3 +46,15 @@ jobs:
           message: 'auto update'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload files
+        id: ossutil
+        uses: go-choppy/ossutil-github-action@master
+        with:
+          ossArgs: ${{ secrets.OSS_ARGS }}
+          accessKey: ${{ secrets.ALIYUN_ACCESS_KEY }}
+          accessSecret: ${{ secrets.ALIYUN_ACCESS_SECRET }}
+          endpoint: ${{ secrets.OSS_ENDPOINT }}
+
+      - name: Output command
+        run: echo "${{steps.ossutil.outputs.command}}"
