@@ -21,9 +21,9 @@ jobs:
 
       - name: Upload files
         id: ossutil
-        uses: go-choppy/ossutil-github-action@master
+        uses: geekdada/ossutil-github-action@master
         with:
-          ossArgs: 'sync --delete ./ oss://dada-oss/github/surge-list/'
+          ossArgs: 'sync --delete --exclude ".git" ./ oss://dada-oss/github/surge-list/'
           accessKey: ${{ secrets.ALIYUN_ACCESS_KEY }}
           accessSecret: ${{ secrets.ALIYUN_ACCESS_SECRET }}
           endpoint: oss-accelerate.aliyuncs.com
