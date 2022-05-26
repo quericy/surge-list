@@ -23,10 +23,10 @@ jobs:
         id: ossutil
         uses: go-choppy/ossutil-github-action@master
         with:
-          ossArgs: ${{ secrets.OSS_ARGS }}
+          ossArgs: 'sync --delete ./ oss://dada-oss/github/surge-list/'
           accessKey: ${{ secrets.ALIYUN_ACCESS_KEY }}
           accessSecret: ${{ secrets.ALIYUN_ACCESS_SECRET }}
-          endpoint: ${{ secrets.OSS_ENDPOINT }}
+          endpoint: oss-accelerate.aliyuncs.com
 
       - name: Output command
         run: echo "${{steps.ossutil.outputs.command}}"
