@@ -47,14 +47,23 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload files
-        id: ossutil
-        uses: go-choppy/ossutil-github-action@master
+      - name: Prepare files
+        run: |
+         mkdir -p ./rule-set
+         cp ./*.list ./rule-set/
+
+      - name: Upload files P1
+        uses: geekdada/ossutil-github-action@master
         with:
-          ossArgs: ${{ secrets.OSS_ARGS }}
+          ossArgs: 'sync --delete ./domain-set oss://dada-oss/github/surge-list/domain-set'
           accessKey: ${{ secrets.ALIYUN_ACCESS_KEY }}
           accessSecret: ${{ secrets.ALIYUN_ACCESS_SECRET }}
           endpoint: oss-accelerate.aliyuncs.com
 
-      - name: Output command
-        run: echo "${{steps.ossutil.outputs.command}}"
+      - name: Upload files P2
+        uses: geekdada/ossutil-github-action@master
+        with:
+          ossArgs: 'sync --delete ./rule-set oss://dada-oss/github/surge-list/rule-set'
+          accessKey: ${{ secrets.ALIYUN_ACCESS_KEY }}
+          accessSecret: ${{ secrets.ALIYUN_ACCESS_SECRET }}
+          endpoint: oss-accelerate.aliyuncs.com
