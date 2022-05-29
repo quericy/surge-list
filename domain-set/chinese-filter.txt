@@ -206,7 +206,6 @@
 .adblock.sina.cn
 .juejdkio.com
 .symaa.cn
-.fszcxxzx.com
 .00-gov.cn
 .000123456789.site
 .0024aaaa.com
@@ -745,6 +744,7 @@
 .baitugu.com
 .baiyuandian.cc
 .baizhu.cc
+.baldbaptismrisk.com
 .balmoralmkt.com
 .bang5mai.com
 .bangbang521.com
@@ -1147,6 +1147,7 @@
 .fqxkj.cn
 .fshanys-vip.top
 .fsyzcs.com
+.fszcxxzx.com
 .fu68.com
 .fuguilm.com
 .fujincenter.com
@@ -1413,6 +1414,7 @@
 .ianpos.com
 .icast.cn
 .icemf.com
+.icilyassertiveindoors.com
 .icolor8.com
 .id528.com
 .idasai.com
@@ -2150,6 +2152,7 @@
 .sitemobia.com
 .sjgnskf.com
 .sjmwkj.cn
+.sjoy7rq.cn
 .sm9t.ml
 .smallmovieapp.com
 .smallvideoapp.com
@@ -3208,6 +3211,7 @@
 .5551895.com
 .wofjhs.com
 .xayah.date
+.a.bxwblog.cn
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -4092,10 +4096,10 @@
 .shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 .wxtp.cdn.bcebos.com
 .wzjs1.oss-accelerate.aliyuncs.com
-.madlineg.com
-.ljwckj.love
-.jinshengkeji.vip
-.pouyao.com
+.cloudweekly.vip
+.hucang.cloud
+.yaobao.cc
+.hupneyv.cn
 .000123456789.online
 .000123456789.space
 .01tn.cn
@@ -5698,6 +5702,7 @@
 .hebzycw.com
 .heguoya.work
 .hehongmei.top
+.hejing.cloud
 .hello211.top
 .helloc.xyz
 .helpbeatlestribute.com
@@ -6103,6 +6108,7 @@
 .jinlubaojie.cn
 .jinrui.online
 .jinrungroup.cn
+.jinshengkeji.vip
 .jintengli.mobi
 .jinxiangyu.ltd
 .jinyihui.vip
@@ -6342,6 +6348,7 @@
 .kowqxog.cn
 .kpirog.com
 .kplanet.cn
+.kqirf.xyz
 .krblog.top
 .ks67.com
 .ksdr.xyz
@@ -6501,6 +6508,7 @@
 .ljk.ink
 .ljlxy.cn
 .ljmei.com
+.ljwckj.love
 .lkle.top
 .lknad215.top
 .lksw1.top
@@ -6608,6 +6616,7 @@
 .machiyun.fun
 .maclwangluokeji.cn
 .mademoisellewang.com
+.madlineg.com
 .mafenggo.club
 .mafengow.club
 .mageti.cn
@@ -7056,6 +7065,7 @@
 .popwang.top
 .pos68.cn
 .pouitgy.cn
+.pouyao.com
 .powerchase.online
 .ppee.xyz
 .ppj338.cn
@@ -7110,6 +7120,7 @@
 .qdydwlkj3.top
 .qewoysy.cn
 .qfcdgy.cn
+.qfnoyix.cn
 .qfxdvti.cn
 .qgbtd.com
 .qgdvyvd.cn
@@ -7171,6 +7182,7 @@
 .qmdllqv.cn
 .qmpartner.vip
 .qmrtubg.cn
+.qmz931.com
 .qo4nkz03dy.cn
 .qorosmall.com
 .qp-nett.cn
@@ -7322,6 +7334,7 @@
 .ruif.xyz
 .ruiy.shop
 .ruiyijy.xyz
+.runduobj.cn
 .runningman.site
 .runtai369.cn
 .rushwei.ltd
@@ -8313,6 +8326,7 @@
 .xuruochen.cn
 .xury02.top
 .xuxiangkj.com
+.xuxs.site
 .xuyangwl.cn
 .xvqdfwy.cn
 .xvyvknl.cn
@@ -8329,6 +8343,7 @@
 .xxzzsj.xyz
 .xy98.com.cn
 .xyhkj.vip
+.xyonbib.cn
 .xypksuk.cn
 .xywgbms.top
 .xyy9.xyz
@@ -8548,6 +8563,7 @@
 .yuntuiguang.co
 .yunuo.online
 .yunwanjia.wang
+.yupei.love
 .yushengyuancaishui.com
 .yushuha.com
 .yuuuxi.top
@@ -8692,6 +8708,7 @@
 .zhuanquxian.com
 .zhuanyule.cn
 .zhudao.shop
+.zhuguangjl.top
 .zhuhaiqilu.cn
 .zhuoyuanxcl.cn
 .zhuozhongfangshui.cn
