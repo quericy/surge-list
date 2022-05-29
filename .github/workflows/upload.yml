@@ -27,7 +27,7 @@ jobs:
       - name: Upload files P1
         uses: geekdada/ossutil-github-action@master
         with:
-          ossArgs: 'sync --delete ./domain-set oss://dada-oss/github/surge-list/domain-set'
+          ossArgs: 'sync --delete -u -f ./domain-set oss://dada-oss/github/surge-list/domain-set'
           accessKey: ${{ secrets.ALIYUN_ACCESS_KEY }}
           accessSecret: ${{ secrets.ALIYUN_ACCESS_SECRET }}
           endpoint: oss-accelerate.aliyuncs.com
@@ -35,7 +35,7 @@ jobs:
       - name: Upload files P2
         uses: geekdada/ossutil-github-action@master
         with:
-          ossArgs: 'sync --delete ./rule-set oss://dada-oss/github/surge-list/rule-set'
+          ossArgs: 'sync --delete -u -f ./rule-set oss://dada-oss/github/surge-list/rule-set'
           accessKey: ${{ secrets.ALIYUN_ACCESS_KEY }}
           accessSecret: ${{ secrets.ALIYUN_ACCESS_SECRET }}
           endpoint: oss-accelerate.aliyuncs.com
