@@ -206,7 +206,6 @@
 .adblock.sina.cn
 .juejdkio.com
 .symaa.cn
-.gzzcxxzx.com
 .00-gov.cn
 .000123456789.site
 .0024aaaa.com
@@ -215,6 +214,7 @@
 .012.tw
 .01fen.com
 .022aifang.com
+.025613.com
 .025suyu.com
 .033.com
 .0351dvd.cn
@@ -744,6 +744,7 @@
 .baitugu.com
 .baiyuandian.cc
 .baizhu.cc
+.baldbaptismrisk.com
 .balmoralmkt.com
 .bang5mai.com
 .bangbang521.com
@@ -955,6 +956,7 @@
 .d26yfyk0ym2k1u.cloudfront.net
 .d32bug9eb0g0bh.cloudfront.net
 .d40.xyz
+.d58zz.com
 .d8360.com
 .d8962a.xyz
 .dadilan2.online
@@ -1145,6 +1147,7 @@
 .fqxkj.cn
 .fshanys-vip.top
 .fsyzcs.com
+.fszcxxzx.com
 .fu68.com
 .fuguilm.com
 .fujincenter.com
@@ -1170,6 +1173,7 @@
 .gameone.com
 .gaobata.com
 .gaomingbo.com
+.gaoyuhu.top
 .garacy.cn
 .gasxf.com
 .gaycloud.cn
@@ -1179,6 +1183,7 @@
 .gdskywings.com
 .gdxxb.com
 .geili.co
+.geodeep.org
 .geotmt.com
 .geryi.com
 .gf108.com
@@ -1256,6 +1261,7 @@
 .gzwxdq.cn
 .gzx8670vhome.xyz
 .gzxxty168.com
+.gzzcxxzx.com
 .h104.cc
 .h41s.com
 .h501.cn
@@ -1408,6 +1414,7 @@
 .ianpos.com
 .icast.cn
 .icemf.com
+.icilyassertiveindoors.com
 .icolor8.com
 .id528.com
 .idasai.com
@@ -1422,6 +1429,7 @@
 .ifufen.com
 .igusoft.com
 .ijir.cn
+.ijshs.com
 .ijsxk.com
 .iknight.xyz
 .il8r.com
@@ -1510,6 +1518,7 @@
 .jiujigroup.top
 .jiujiupk.com
 .jiuku.cc
+.jiulingdl.cn
 .jiuzhilan.com
 .jixing8.com
 .jiyuanzhiwensuo.cn
@@ -1520,6 +1529,8 @@
 .jktopia.com
 .jljspx.com
 .jlwljym.com
+.jnbd43jh.world
+.jnbd43jh.xyz
 .jnbvckgophfkop.com
 .jntmedia.cn
 .jnyngg.cn
@@ -1547,6 +1558,7 @@
 .jsyd139.com
 .jsyzw132.com
 .jtdxz.top
+.jtj7tq6c.xyz
 .jtkshop.net
 .jtxh.net
 .ju33.com
@@ -1679,6 +1691,7 @@
 .lico-ys.com
 .lifu11.com
 .limdarwin.top
+.lindiankj.com
 .lingqinga.cn
 .linjiajia.cn
 .linjuyihao.com
@@ -2088,6 +2101,7 @@
 .selenaroberta.com
 .senxiaopang.top
 .sexy-more.com
+.sfjmj.com
 .sfxl.com.cn
 .sfz023.com
 .sglyd.cn
@@ -2138,6 +2152,7 @@
 .sitemobia.com
 .sjgnskf.com
 .sjmwkj.cn
+.sjoy7rq.cn
 .sm9t.ml
 .smallmovieapp.com
 .smallvideoapp.com
@@ -2233,6 +2248,7 @@
 .taoguohe.com
 .taohanpai.com
 .taojingu.cn
+.taoquan365.net
 .taoyuay.top
 .tbaocdn.com
 .tc600.com
@@ -2261,6 +2277,7 @@
 .tianqi1212.com
 .tianqi777.com
 .tiantianyinyue.cn
+.tianvip.top
 .tinglian.com
 .tj-cmys.com
 .tj-yijiajing.com
@@ -2276,6 +2293,7 @@
 .togo666.com
 .tongdejiayuan.com
 .tongdianku.com
+.tongfanglianhe.com
 .toolset.vip
 .toospk.com
 .toourbb.com
@@ -2495,6 +2513,7 @@
 .wuwaii.com
 .wuxiann.top
 .wuxinb.com
+.wuyicom.top
 .wwads.cn
 .wwlolbs.com
 .www-sina-cn-com.com
@@ -2544,6 +2563,7 @@
 .xiangzhengjinshu.com
 .xiaochengzhixue.com
 .xiaodongjun.com
+.xiaomilw.top
 .xiaoxiangmovie.com
 .xiaoyida.com
 .xiarikui08.com
@@ -2586,6 +2606,7 @@
 .xmxxwl.com
 .xmzwdgm.com
 .xn--2qu96gouvko1a.com
+.xn--2ss830adjbqy7h.xn--fiqs8s
 .xn--wxtr9fwyxk9c.top
 .xn--xhq9mt12cf5v.ren
 .xn--xhq9mt12cf5v.top
@@ -2601,6 +2622,7 @@
 .xtdzkj.cn
 .xtgreat.com
 .xtianqi.com.cn
+.xtioiqa.cn
 .xtxa.net
 .xtyizilaijx.cn
 .xu7b.com
@@ -2652,6 +2674,7 @@
 .yf898.com
 .yfot.com.cn
 .yfycy.com
+.ygfjy.top
 .yghua.com
 .ygqjt.cn
 .yhbsk.cn
@@ -2725,6 +2748,7 @@
 .ysm.ezprice.net
 .ysyjg.com
 .ytop8.com
+.ytyug.com
 .yuailairuci.com
 .yuanhsu.com
 .yuanlianghui.com
@@ -3187,6 +3211,7 @@
 .5551895.com
 .wofjhs.com
 .xayah.date
+.a.bxwblog.cn
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3702,7 +3727,6 @@
 .ishuoshuo.com
 .ixiunv.com
 .iy.com.cn
-.j.9136.com
 .j.baminw.cn
 .j.diangon.com
 .j.imdb.cn
@@ -3727,7 +3751,6 @@
 .jquery.envi-met.com.cn
 .js.23yy.com
 .js.263y.com
-.js.9136.com
 .js.92aliyun.com
 .js.chetan.com
 .js.jianbihuadq.com
@@ -4073,13 +4096,10 @@
 .shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 .wxtp.cdn.bcebos.com
 .wzjs1.oss-accelerate.aliyuncs.com
-.weilaa.xyz
-.suqiguoji.wang
-.taihuajiao.vip
-.xypksuk.cn
-.bt365.club
-.u8hexo5v.com
-.87fgr4.site
+.cloudweekly.vip
+.hucang.cloud
+.yaobao.cc
+.hupneyv.cn
 .000123456789.online
 .000123456789.space
 .01tn.cn
@@ -4221,6 +4241,7 @@
 .520myjj.xyz
 .52homie.cn
 .52jimi.top
+.52ling.wang
 .52lty.store
 .52pipaxing.com
 .52tushuo.com
@@ -4279,6 +4300,7 @@
 .8563p.cn
 .85wa.cn
 .86695755.cn
+.87fgr4.site
 .884069349.ltd
 .886721.com
 .8889888.vip
@@ -4291,6 +4313,7 @@
 .8jrc564wtf.cn
 .8o9m.cn
 .8t100.cn
+.8zhou.wang
 .91cy.top
 .91eto.xyz
 .91funcy.com
@@ -4596,6 +4619,7 @@
 .baolanke.top
 .baolutongwuye.cn
 .baomeidiaosu.cn
+.baopengys.vip
 .baoquanworld.com.cn
 .baoren.tech
 .baotf.com
@@ -4758,6 +4782,7 @@
 .bslnb.cn
 .bsytjc.com
 .bt-xd.com
+.bt365.club
 .btbalex.cn
 .btcbto.com
 .bte.ink
@@ -4908,6 +4933,7 @@
 .clmmw.com
 .clonger.cn
 .cloudassistant.vip
+.clouddream.ltd
 .cloudroad.shop
 .cloudzhuge.cn
 .clxxkz.com.cn
@@ -5096,8 +5122,10 @@
 .dianshihuanping.cn
 .dianyingmi1.cn
 .diaoda.xyz
+.dias2o0.cn
 .dibyc.com
 .digrice.xyz
+.dingbiao.top
 .dingdangcake.cn
 .dingdian.shop
 .dispute.wang
@@ -5105,6 +5133,7 @@
 .diuleilou.top
 .dj0ts1x.cn
 .dj930.cn
+.djfwuer.xyz
 .djhrfus.xyz
 .djiybut.cn
 .djss-design.cn
@@ -5231,6 +5260,7 @@
 .edysn.cn
 .eeeap.cn
 .eeree.top
+.eghnmj.xyz
 .eguo.info
 .eiasia.ltd
 .eidsign.com.cn
@@ -5621,6 +5651,7 @@
 .haomaiweb.com
 .haomaojin.com
 .haosdhc.cn
+.haosesaozi.com
 .haoweb.top
 .haoyundm.com
 .happycastle.me
@@ -5671,6 +5702,7 @@
 .hebzycw.com
 .heguoya.work
 .hehongmei.top
+.hejing.cloud
 .hello211.top
 .helloc.xyz
 .helpbeatlestribute.com
@@ -5921,6 +5953,7 @@
 .iigushi.com
 .iiiuuu.top
 .iipbuas.cn
+.ijsks.com
 .ikcdhqh.cn
 .ikjocef.cn
 .iklda.cn
@@ -6075,6 +6108,7 @@
 .jinlubaojie.cn
 .jinrui.online
 .jinrungroup.cn
+.jinshengkeji.vip
 .jintengli.mobi
 .jinxiangyu.ltd
 .jinyihui.vip
@@ -6090,7 +6124,6 @@
 .jiudiandyw.com
 .jiuji.ltd
 .jiujiinc.top
-.jiulingdl.cn
 .jiulx.com
 .jiuqihb.cn
 .jixiby.cn
@@ -6203,6 +6236,7 @@
 .jysbj.cn
 .jytc.xyz
 .jytjw.com
+.jywangluo.top
 .jyzae.cn
 .jyzag.cn
 .jyzah.cn
@@ -6263,6 +6297,7 @@
 .kenxr.com
 .keqcte.cn
 .keqiao.pw
+.kerlou.ltd
 .kershop.ren
 .ketaoke.com
 .ketianguanye.com
@@ -6302,6 +6337,7 @@
 .klsadm.com
 .kmrcewt.cn
 .knaxfbg.cn
+.kneadface.com
 .knk95.cn
 .kohen.biz
 .komi168.com
@@ -6312,6 +6348,7 @@
 .kowqxog.cn
 .kpirog.com
 .kplanet.cn
+.kqirf.xyz
 .krblog.top
 .ks67.com
 .ksdr.xyz
@@ -6471,6 +6508,7 @@
 .ljk.ink
 .ljlxy.cn
 .ljmei.com
+.ljwckj.love
 .lkle.top
 .lknad215.top
 .lksw1.top
@@ -6523,6 +6561,7 @@
 .lthwsj.com
 .lthzd.cn
 .ltyonej.cn
+.lucasyyy.ltd
 .lujingyu.fun
 .luochengwen.vip
 .luofei38.top
@@ -6577,6 +6616,7 @@
 .machiyun.fun
 .maclwangluokeji.cn
 .mademoisellewang.com
+.madlineg.com
 .mafenggo.club
 .mafengow.club
 .mageti.cn
@@ -6585,6 +6625,7 @@
 .maicaoren.cn
 .maicv.cn
 .maimaias.cn
+.majiamei.fun
 .malong.plus
 .mals.shop
 .mamababu.cn
@@ -6618,6 +6659,7 @@
 .me511.win
 .me99.club
 .mebtc.cn
+.meetsocialmeta.com
 .meibiisheng.com
 .meirensuan.xyz
 .meishi0554.com
@@ -6880,6 +6922,7 @@
 .nwwap.com
 .nxdfg.xyz
 .nxkycx.com
+.nxl791.com
 .nxums.cn
 .nxwly.com
 .nxyycsyy.com
@@ -7022,6 +7065,7 @@
 .popwang.top
 .pos68.cn
 .pouitgy.cn
+.pouyao.com
 .powerchase.online
 .ppee.xyz
 .ppj338.cn
@@ -7076,6 +7120,7 @@
 .qdydwlkj3.top
 .qewoysy.cn
 .qfcdgy.cn
+.qfnoyix.cn
 .qfxdvti.cn
 .qgbtd.com
 .qgdvyvd.cn
@@ -7137,6 +7182,7 @@
 .qmdllqv.cn
 .qmpartner.vip
 .qmrtubg.cn
+.qmz931.com
 .qo4nkz03dy.cn
 .qorosmall.com
 .qp-nett.cn
@@ -7288,6 +7334,7 @@
 .ruif.xyz
 .ruiy.shop
 .ruiyijy.xyz
+.runduobj.cn
 .runningman.site
 .runtai369.cn
 .rushwei.ltd
@@ -7315,6 +7362,7 @@
 .sanyoon.cn
 .sanzhong.co
 .sasoo.cn
+.saxys9w.cn
 .sayilxa.cn
 .sbenx.com
 .sbinx.com
@@ -7500,6 +7548,7 @@
 .status500.xyz
 .stbaolin.cn
 .stdst.cn
+.stfyygv.cn
 .sthouw.vip
 .sthyhj.cn
 .stkx888.cn
@@ -7519,6 +7568,7 @@
 .suoksm.cn
 .suoooi.cn
 .superbao.top
+.suqiguoji.wang
 .surls.cn
 .svcwvx.cn
 .svfwer.top
@@ -7598,6 +7648,7 @@
 .tahui.club
 .tahuixin.club
 .taidi.net.cn
+.taihuajiao.vip
 .taikangshenyuan.com
 .taiquandao1.cn
 .taishijian.com
@@ -7787,6 +7838,7 @@
 .u2c8.cn
 .u5274.cn
 .u5wzi0h.cn
+.u8hexo5v.com
 .u98l6o.online
 .u98ql6o.top
 .uaevivi.top
@@ -7956,6 +8008,7 @@
 .weiiimt.cn
 .weijiakeji.top
 .weikefanli.com
+.weilaa.xyz
 .weimeicar.cn
 .weinin99.cn
 .weipapa.top
@@ -8273,6 +8326,7 @@
 .xuruochen.cn
 .xury02.top
 .xuxiangkj.com
+.xuxs.site
 .xuyangwl.cn
 .xvqdfwy.cn
 .xvyvknl.cn
@@ -8289,6 +8343,8 @@
 .xxzzsj.xyz
 .xy98.com.cn
 .xyhkj.vip
+.xyonbib.cn
+.xypksuk.cn
 .xywgbms.top
 .xyy9.xyz
 .xzcvfdwe.cn
@@ -8507,6 +8563,7 @@
 .yuntuiguang.co
 .yunuo.online
 .yunwanjia.wang
+.yupei.love
 .yushengyuancaishui.com
 .yushuha.com
 .yuuuxi.top
@@ -8651,6 +8708,7 @@
 .zhuanquxian.com
 .zhuanyule.cn
 .zhudao.shop
+.zhuguangjl.top
 .zhuhaiqilu.cn
 .zhuoyuanxcl.cn
 .zhuozhongfangshui.cn
@@ -8661,6 +8719,7 @@
 .zhyl.info
 .zhylm.cn
 .zhywyl.cn
+.zhzcxxzx.com
 .ziaxlx.cn
 .zichunping.cn
 .zigaokj.top
@@ -8727,6 +8786,7 @@
 .zstjy.com
 .zswph.com
 .zsyk91.cn
+.zszcxxzx.com
 .ztffac.com
 .zthhhbb.cn
 .ztrynpo.cn
@@ -8741,6 +8801,7 @@
 .zuoyouyu.cn
 .zvqbbj.cn
 .zwdq.xyz
+.zwmkfoo.cn
 .zwmosu.xyz
 .zwrj999.cn
 .zwwl.shop
