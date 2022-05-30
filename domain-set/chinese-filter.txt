@@ -206,6 +206,7 @@
 .adblock.sina.cn
 .juejdkio.com
 .symaa.cn
+.tf111.xyz
 .00-gov.cn
 .000123456789.site
 .0024aaaa.com
@@ -904,6 +905,7 @@
 .code668.com
 .coinadv.com
 .coinever.net
+.com-csn.com
 .coolbook.cc
 .coolfenxi.com
 .cpc.cc
@@ -1407,6 +1409,7 @@
 .hzylhk.com
 .hzyouhejia.com
 .hzyyhz.cn
+.hzzcxxzx.com
 .i.zhuoyaju.com
 .i000o.com
 .i3818.com
@@ -1851,6 +1854,7 @@
 .nbzq.net
 .nchte.com
 .ndtzx.com
+.nduad811.com
 .netcoretech.net
 .netdjs.net
 .netkantu.com
@@ -3211,7 +3215,6 @@
 .5551895.com
 .wofjhs.com
 .xayah.date
-.a.bxwblog.cn
 .003store.com
 .0512s.com
 .1.01fy.cn
@@ -3336,6 +3339,7 @@
 .a.baidinet.com
 .a.bake818.cn
 .a.bfking.cn
+.a.bxwblog.cn
 .a.duanmeiwen.com
 .a.duduji.com
 .a.dxzy163.com
@@ -4096,10 +4100,12 @@
 .shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 .wxtp.cdn.bcebos.com
 .wzjs1.oss-accelerate.aliyuncs.com
-.cloudweekly.vip
-.hucang.cloud
-.yaobao.cc
-.hupneyv.cn
+.rhufmpa.cn
+.eiyxjls.cn
+.getibih.cn
+.h5634t.site
+.kzhtgnv.cn
+.vyrhxfi.cn
 .000123456789.online
 .000123456789.space
 .01tn.cn
@@ -4867,6 +4873,7 @@
 .cfvapda.cn
 .cfyao.club
 .cggf.xyz
+.chabeiren.com
 .chaluoyi.cn
 .chang555.cn
 .changhehengqi.com
@@ -4935,6 +4942,7 @@
 .cloudassistant.vip
 .clouddream.ltd
 .cloudroad.shop
+.cloudweekly.vip
 .cloudzhuge.cn
 .clxxkz.com.cn
 .clzgd.com
@@ -5173,6 +5181,7 @@
 .dogjb.com
 .dohnxnn.cn
 .doklam.wang
+.domnicma.com
 .dongdm.cn
 .donghua.asia
 .dongsiping.xyz
@@ -5742,6 +5751,7 @@
 .highter.top
 .hihifenxiang.com
 .hiibcfr.cn
+.hijjtiv.cn
 .hikari.website
 .hikari.wiki
 .hissq.com
@@ -5853,6 +5863,7 @@
 .huayancn.cn
 .huayange.com
 .huayi65.com
+.hucang.cloud
 .hucy87.icu
 .hugvr.cn
 .huhangkuaiji.cn
@@ -5881,6 +5892,7 @@
 .huojukk.com
 .huojutt.com
 .huosai.net.cn
+.hupneyv.cn
 .hushenqiquan.com
 .huyc.info
 .huzalor.cn
@@ -6786,6 +6798,7 @@
 .myfengyi.xyz
 .mygqhvz.cn
 .myline1.club
+.mymf.shop
 .mynwct.xyz
 .myqip.icu
 .myro.shop
@@ -8384,6 +8397,7 @@
 .yanomami.cn
 .yantairuide.com
 .yanyanbiji.com
+.yaobao.cc
 .yaodaipeishi.cn
 .yaofaweb.xyz
 .yaokuan01.cn
