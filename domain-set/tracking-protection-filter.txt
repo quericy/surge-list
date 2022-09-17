@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.srmdata-eur.com
+.doppler-beacons.cbsivideo.com
 .events.askjdhaa.com
 .tikstok.fun
 .smart.idmnet.pl
@@ -4953,7 +4955,6 @@
 .api-analytics.rozetka.com.ua
 .api-stg.ensonhaber.com
 .api.calq.io
-.api.data.ciceksepeti.com
 .api.exc.mob.com
 .api.flocktory.com
 .api.iterative.ly
@@ -5426,6 +5427,7 @@
 .events*.cre.ma
 .eventstream.dodopizza.com
 .eventtracker.elitedaily.com
+.evs.data.ciceksepeti.com
 .evt.houzz.com
 .exacttarget.api.mashery.com
 .exc.ns.nl
@@ -18795,6 +18797,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.d.reddit.com
 .clog.mirrativ.com
 .teleport.soom.la
 .logs1407.xiti.com
