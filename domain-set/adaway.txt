@@ -2959,7 +2959,6 @@
 .msads.net
 .ads.msn.com
 .ads2.msn.com
-.c.msn.com
 .mobileads.msn.com
 .rads.msn.com
 .srtb.msn.com
