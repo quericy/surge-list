@@ -107,6 +107,8 @@ DOMAIN,apple.comscoreresearch.com,{{apple_news_rule}}
 #
 # Apple 其他直连
 #
+# Store
+DOMAIN-SUFFIX,store.apple.com,DIRECT
 # Spotlight
 DOMAIN,api.smoot.apple.com,DIRECT
 DOMAIN,api.smoot.apple.cn,DIRECT
