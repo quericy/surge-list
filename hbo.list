@@ -1,0 +1,18 @@
+# > HBO Max
+USER-AGENT,HBOMAX*
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN,execute-api.ap-southeast-1.amazonaws.com
+
+# > HBO GO Asia
+DOMAIN-KEYWORD,hbogoasia
+DOMAIN-SUFFIX,hboasia.com
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN,hbolb.onwardsmg.com
+DOMAIN,hbounify-prod.evergent.com
+DOMAIN,dai3fd1oh325y.cloudfront.net
+
+# > MAX
+DOMAIN-KEYWORD,discomax
