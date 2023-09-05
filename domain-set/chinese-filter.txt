@@ -307,6 +307,7 @@
 .t.njzrxx.xyz
 .yqrta.xyz
 .zjgfq.com
+.ad.u-car.com.tw
 .pixoctopus.pixnet.net
 .jsx.luyouwang.com
 .kdpic.pchome.com.tw
@@ -353,6 +354,7 @@
 .7xixi.site
 .81wx.info
 .8861198.com
+.88lajs1.com
 .89mtdab.xyz
 .999pro.top
 .9cc9ckp.com
@@ -363,6 +365,7 @@
 .abdluv.xyz
 .abrnfctkn.xyz
 .afgp10l.com
+.afxncq.com
 .ajtdumo.cn
 .akdie.xyz
 .allcp.xyz
@@ -440,6 +443,7 @@
 .cdncloud.asia
 .cfdns.vip
 .cheda1.icu
+.cheda7.icu
 .chiese.site
 .chozarpeases.com
 .ciadre.fun
@@ -494,6 +498,7 @@
 .dstbunkfw.xyz
 .duoying.vip
 .duyvtanrheje.xyz
+.dvenkbn.icu
 .dvtednm.cn
 .dwfjtz.xyz
 .dwyngjb.icu
@@ -503,6 +508,7 @@
 .eamqbaqzaewwq.top
 .ebscb0l.xyz
 .eers0cy.com
+.eexlgyn.cn
 .eghyahl.cn
 .egipsbvlgn.xyz
 .eheb8.cn
@@ -867,6 +873,7 @@
 .rlqoyht.icu
 .ronbbf.xyz
 .rpyor0k.xyz
+.rrxddl.xyz
 .rssxsjh.icu
 .rszkhn.xyz
 .rtborp.xyz
@@ -926,6 +933,7 @@
 .tkqwurl.icu
 .tlbjw.com
 .tlprlf.xyz
+.tltyygb.cn
 .tmwbszn.icu
 .toastspinner.com
 .tptp002.cfd
@@ -991,6 +999,7 @@
 .wrpsouf.cn
 .wsdfame.com
 .wslbahe.top
+.wtienle.top
 .wubizigeng.com
 .wuye3d.com
 .wyq3rum.icu
@@ -1076,10 +1085,6 @@
 .zwfkxb.xyz
 .zxrcfw.com
 .zypzzv.xyz
-.cheda7.icu
-.tltyygb.cn
-.wtienle.top
-.dvenkbn.icu
 .zzisnvb.cn
 .002777.xyz
 .01v62.xyz
