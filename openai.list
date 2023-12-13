@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-KEYWORD,anthropic
 DOMAIN-SUFFIX,claude.ai
 
-# google
+# Google
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN,bard.google.com
+DOMAIN,ai.google.dev

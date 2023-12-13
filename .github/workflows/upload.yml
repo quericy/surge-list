@@ -21,8 +21,8 @@ jobs:
 
       - name: Prepare files
         run: |
-         mkdir -p ./rule-set
-         cp ./*.list ./rule-set/
+          mkdir -p ./rule-set
+          cp ./*.list ./rule-set/
 
       - name: Upload files P1
         uses: geekdada/ossutil-github-action@master
