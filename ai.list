@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,claude.ai
 # Google
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
 DOMAIN,ai.google.dev
 DOMAIN,makersuite.google.com
 DOMAIN,generativelanguage.googleapis.com
