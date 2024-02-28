@@ -130,7 +130,6 @@
 .power.adhacker.online
 .a.tyncar.com
 .og.zyzjpx.cn
-.kolur.top
 .x.dmouy.cn
 .haoxxwang.com
 .a32a.com.cn
@@ -199,6 +198,7 @@
 .0j775d.cn
 .1ny3r.icu
 .2jse6.icu
+.3bxe2.cyou
 .51hir.cyou
 .88lm05.com
 .8xtm6i.cn
@@ -228,6 +228,8 @@
 .chayassa.com
 .cliffnsc.xyz
 .clywws.xyz
+.cqisam.xyz
+.ctlrarz.xyz
 .cvbjctqs.xyz
 .cvgrszkg.xyz
 .cvnxetmq.xyz
@@ -241,6 +243,7 @@
 .ebgwdon.cn
 .efmtsw.xyz
 .ejdhmed.xyz
+.ferriesendless.com
 .fmfnrf.xyz
 .fwcnex.icu
 .ghgasdb365.shop
@@ -250,10 +253,12 @@
 .hbjolp.xyz
 .heapz.cyou
 .hexcvb.xyz
+.hgthpj.xyz
 .hhffks967.shop
 .hhffnu135.shop
 .hmrwkcx.cn
 .hozatr.xyz
+.ijvla.cn
 .jgmywh.icu
 .jqpejp.xyz
 .js131.cn
@@ -266,6 +271,8 @@
 .lvdedf.xyz
 .misjgy.xyz
 .nddld.cn
+.ndthdte125.shop
+.ndthdtr586.shop
 .ngnxyub.cn
 .nkbkor.icu
 .nplahh.xyz
@@ -292,12 +299,14 @@
 .rktddv.xyz
 .ruqwgb.icu
 .rydyvv.xyz
+.rzfdbsn.cn
 .s8.pw
 .shuocyw.cn
 .sjaaquj.cn
 .soffersk.com
 .spsfupq.cn
 .srzpsbf.xyz
+.svncowt.cn
 .szbhb.cn
 .szmnd.cn
 .szmnf.cn
@@ -306,11 +315,13 @@
 .szpwh.cn
 .tahznx.xyz
 .tchdxl.xyz
+.tgccct.icu
 .tmjetb.xyz
 .tu2024020388.com
 .tyodot.icu
 .u7u9.com
 .uctutu3789.xyz
+.usltmus.cn
 .uu22662.com
 .uxrdg.cn
 .veaiyl.icu
@@ -342,7 +353,6 @@
 .yvbjctqs.xyz
 .yvnxetmq.xyz
 .yvudqzoa.xyz
-.ctlrarz.xyz
 .yyddkm526.shop
 .zagyjnn.cn
 .zopuqv.icu
