@@ -178,6 +178,11 @@ async function outputCompiled(config, compiled) {
     const formatted = formatRule(rule)
 
     if (formatted) {
+      if (formatted.includes('*')) {
+        console.warn('⚠️', formatted, 'is skipped because it contains *')
+        continue
+      }
+
       stream.write(formatted + '\n')
     }
   }
