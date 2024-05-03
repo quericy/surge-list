@@ -3704,6 +3704,12 @@
 .affex.org
 .ct.pinterest.com
 .telemetry.mozilla.org
+.sgmcdn.racingpost.com
+.logs.8thwall.com
+.ingest.make.rvohealth.com
+.segment-api.goodrx.com
+.zion-telemetry-nonprod.api.cnn.io
+.log.suumo.jp
 .femetrics.grammarly.io
 .realtimeanalytics.yext.com
 .stats.indianpornempire.com
@@ -49728,6 +49734,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.log-verify.mob.com
 .app-analytics-services.com
 .sg.log.ulivetv.net
 .kr-col-ext.nelo.navercorp.com
