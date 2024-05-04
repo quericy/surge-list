@@ -127,6 +127,8 @@
 .cc.silktide.com
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.effulgenttempest.com
+.agilebreeze.com
 .chaireggnog.com
 .playfulriver.com
 .eagereden.com
@@ -1916,3 +1918,4 @@
 .widgets.coingecko.com
 .widget.bitay.com.tr
 .cdnjs.buymeacoffee.com
+.https-filtering-check.adtidy.org
