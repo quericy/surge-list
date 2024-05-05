@@ -262,6 +262,7 @@
 .arqvm.cn
 .atzhcjv.xyz
 .awuvcq.xyz
+.azkrya.xyz
 .azyuuk.xyz
 .b37r5.cyou
 .batijian.com
@@ -411,6 +412,7 @@
 .ewjhic.cn
 .ewxufqs.cn
 .execuri.com
+.eyuwkbw.top
 .f7fe0.cyou
 .fadhvz.xyz
 .fbfrbt.xyz
@@ -479,6 +481,7 @@
 .hitchun.com
 .hjshal.com
 .hkbumv.icu
+.hlegsdh.icu
 .hmrwkcx.cn
 .hnalzlu.top
 .hnartcqab847.live
@@ -616,6 +619,7 @@
 .mdhv3.icu
 .mdzwjra.cn
 .meqanhm.icu
+.mercor.cn
 .miningzhizhong.top
 .misjgy.xyz
 .mldzwmt.xyz
@@ -741,6 +745,7 @@
 .qvnbjjd.xyz
 .qvonje.cn
 .qw9cu.cyou
+.qwerioy.top
 .qyuwkby.top
 .qzalsk.xyz
 .qziuwzn.cn
@@ -765,6 +770,7 @@
 .rktddv.xyz
 .rlw86.cyou
 .rlxhbff.cn
+.rmbvzh.xyz
 .rndcdb.xyz
 .rnkzhsi.cn
 .rnpkxgfp.xyz
@@ -773,6 +779,7 @@
 .romiyee.icu
 .rouqiuqq.cn
 .rpnufv.xyz
+.rupmlh.cn
 .ruqwgb.icu
 .rxfygd.cn
 .rydyvv.xyz
@@ -1028,11 +1035,10 @@
 .zsjpi.cn
 .zttuvj.xyz
 .ztxjutz.xyz
-.rupmlh.cn
-.hlegsdh.icu
-.azkrya.xyz
-.rmbvzh.xyz
-.eyuwkbw.top
+.zxqiwe.cn
+.zwdtvx.xyz
+.zeuqmpe.icu
+.mlicci.xyz
 .zuvbzl.xyz
 .zwxxcb.icu
 .zxfdbr.xyz
