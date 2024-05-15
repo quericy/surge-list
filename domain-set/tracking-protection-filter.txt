@@ -3705,6 +3705,8 @@
 .affex.org
 .ct.pinterest.com
 .telemetry.mozilla.org
+.beacon.nc-net.or.jp
+.lhe-beacon.team-rec.jp
 .gtmfsstatic.getgoogletagmanager.com
 .analytics.andisearch.com
 .stlog.dmarket.docomo.ne.jp
