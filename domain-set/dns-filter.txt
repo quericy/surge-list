@@ -1435,14 +1435,14 @@
 .ado.delfi.ee
 .es.ylilauta.org
 .sab.fast.ge
+.ban.bhol.co.il
+.ext.bhol.co.il
+.st1.bhol.co.il
 .head-clickfusion.com
 .headerbidding.services
 .3myad.com
 .cdn.234doo.com
 .a.b.napiszar.com
-.ban.bhol.co.il
-.ext.bhol.co.il
-.st1.bhol.co.il
 .planner.tiscali.it
 .reklammen.spellchecker.lu
 .bn.gogo.mn
@@ -40278,6 +40278,7 @@
 .zincdatawipe.com
 .zincypalmy.top
 .zinipx.xyz
+.zinovu.com
 .zinrora.pw
 .zipakrar.com
 .zipheeda.xyz
@@ -41944,6 +41945,7 @@
 .97b448.xyz
 .a49ebd.xyz
 .a67d12.xyz
+.b0eb63.xyz
 .b211.xyz
 .b59c.xyz
 .b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
@@ -41953,6 +41955,7 @@
 .ca3d.site
 .ca9246.xyz
 .caa2c4.xyz
+.ce357c.xyz
 .d84bc26d.site
 .d8b0a5.xyz
 .d980ed.xyz
@@ -41964,6 +41967,7 @@
 .f2f8.xyz
 .f6176563.site
 .fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz
+.fbfec2.xyz
 .ad.lgappstv.com
 .ad.nettvservices.com
 .ads.samsung.com
@@ -44283,6 +44287,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.hzstats.com
 .plausible.scimago.es
 .analytics.qushad.com
 .orangeclickmedia.com
@@ -47741,6 +47746,9 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.doppler-beacon.cbsivideo.com
+.lake.studydrive.net
+.ce.x-opt.io
 .analytics.global.sky.com
 .analytics.cosmonova.net
 .pr-bh.ybp.yahoo.com
@@ -50785,7 +50793,6 @@
 .diagnose.igstatic.com
 .dig.ultimedia.com
 .dl.episerver.net
-.doppler-beacon.cbsivideo.com
 .doppler-client-events.cbsivideo.com
 .doppler-config.cbsivideo.com
 .doppler-reporting.cbsivideo.com
@@ -51927,6 +51934,7 @@
 .stat.24liveplus.com
 .statistics.rbi-nl.com
 .tags.hilabel.nl
+.tr.mediafin.be
 .trkr.shoppingminds.net
 .dnt-userreport.com
 .tags.op-palvelut.fi
@@ -61535,6 +61543,14 @@
 .nlvwdlnhfnnw.com
 .auisaoa.top
 .bing001.shop
+.uskecsx.icu
+.zhangqifeng12.top
+.wsyliee.top
+.abucki.xyz
+.jinzige.cn
+.15huhu.cn
+.nkdgnsfsk.com
+.sdjbvskjvds.com
 .0322cfmtl.cc
 .07dy.cc
 .0940088.com
