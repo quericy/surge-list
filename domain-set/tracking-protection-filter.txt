@@ -3026,6 +3026,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.au1.qualtrics.com
 .siteintercept.qualtrics.com
 .tjk-njk.com
 .tracker.insurads.com
@@ -36716,6 +36717,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.analytics.sonjj.com
 .status.techtarget.itmedia.co.jp
 .ephemeralcounters.api.roblox.com
 .px.adfulplatform.com
