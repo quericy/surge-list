@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.pixel.mintigo.com
 .api.sardine.ai
 .au1.qualtrics.com
 .siteintercept.qualtrics.com
@@ -38430,6 +38431,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.metrics.api.drift.com
+.targeting.api.drift.com
+.event.api.drift.com
 .matomo.promobil.de
 .api.ad-platform.jmty.jp
 .events.tryamped.com
@@ -38647,7 +38651,6 @@
 .gtm.vanmoof.com
 .gtm.wonderbly.com
 .gtm.docswell.com
-.collector-pxfqtaw5et.px-client.net
 .statistik.changing-cities.org
 .ping.paidy.com
 .a.deadlinefunnel.com
